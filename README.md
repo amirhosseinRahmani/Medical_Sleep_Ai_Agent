@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SleepMedicalRAG - Clean Version
 
 This is the first complete RAG implementation for the sleep-medicine data you prepared.
@@ -178,3 +179,6 @@ Embedding -> FAISS -> Retrieval -> Prompt -> Gemma
 ```
 
 Once this version works and its metrics are known, LangChain can be introduced as a convenience layer without hiding the underlying process.
+=======
+# Medical_Sleep_Ai_Agent
+>>>>>>> bdcaaa479e838b284c7c093ad9be5d373203dd42
