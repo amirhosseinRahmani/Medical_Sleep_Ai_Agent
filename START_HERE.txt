@@ -1,0 +1,14 @@
+START HERE
+
+1) Open config.py
+2) Set GEMMA_MODEL to your local Gemma model folder
+3) Install requirements:
+   pip install -r requirements.txt
+4) Build the vector database:
+   python build_embeddings.py
+5) If that works, test the chatbot:
+   python chat.py
+6) Then evaluate the complete system:
+   python evaluate.py
+
+Do NOT run everything at once the first time. Send the output of build_embeddings.py if there is an error.

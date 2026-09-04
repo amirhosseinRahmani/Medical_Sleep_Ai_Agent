@@ -1,0 +1,112 @@
+[
+  {
+    "id": "q001",
+    "question": "What is the comparative efficacy of sleep positional therapy (SPT) versus CPAP in reducing the apnea-hypopnea index (AHI) in patients with obstructive sleep apnea?",
+    "answer": "SPT is less effective than CPAP in reducing overall AHI. Meta-analysis showed a trend favoring CPAP (after sensitivity analysis MD = 5; 95% CI: 0.66–9.35). However, SPT significantly reduces AHI in the supine position compared to placebo (MD = −7.46).",
+    "source_docs": [
+      "positional_therapy"
+    ],
+    "category": "treatment_comparison"
+  },
+  {
+    "id": "q002",
+    "question": "How does custom-made MAD compare to ready-made MAD in terms of AHI reduction and adherence?",
+    "answer": "Custom-made MADs showed a marginally greater reduction in AHI (WMD: 1.51; 95% CI −0.08 to 3.11; P=0.06) and significantly higher adherence with longer wearing times (WMD: 1.19 hours; 95% CI 0.65–1.73; P<0.0001) compared to ready-made devices.",
+    "source_docs": [
+      "mad_devices"
+    ],
+    "category": "treatment_comparison"
+  },
+  {
+    "id": "q003",
+    "question": "What are the main functional roles of REM sleep according to animal model studies?",
+    "answer": "REM sleep is involved in neural activity replay (especially hippocampal place cells and theta-modulated firing), modulation of neural firing rates, synaptic regulation (spine elimination/strengthening via dendritic calcium spikes), and memory processing/consolidation. It also contributes to brain development.",
+    "source_docs": [
+      "rem_sleep"
+    ],
+    "category": "sleep_physiology"
+  },
+  {
+    "id": "q004",
+    "question": "How does intermittent hypoxia in OSAHS contribute to vascular lesions?",
+    "answer": "Intermittent hypoxia induces endothelial barrier disruption (e.g., decreased VE-cadherin), metabolic dysregulation, oxidative stress, inflammation, phenotypic changes in cells, neuroendocrine irregularities, programmed cell death, and epigenetic modifications, leading to atherosclerosis, aortic aneurysms/dissection, coronary spasm, and microvascular complications.",
+    "source_docs": [
+      "vascular_lesions"
+    ],
+    "category": "pathophysiology"
+  },
+  {
+    "id": "q005",
+    "question": "What are the key psychological barriers to CPAP adherence according to the 3P model?",
+    "answer": "Predisposing: low health literacy, misconceptions about OSA/CPAP, psychological comorbidities. Precipitating: device-related anxiety, social embarrassment/stigma. Perpetuating: lack of support from providers, impediment to intimacy, inadequate education and communication.",
+    "source_docs": [
+      "cpap_adherence"
+    ],
+    "category": "adherence"
+  },
+  {
+    "id": "q006",
+    "question": "Is there a significant difference in AHI reduction between titratable and nontitratable mandibular advancement devices?",
+    "answer": "No significant difference was found between titratable and nontitratable MADs in AHI reduction (WMD: 1.16; 95% CI −1.29 to 3.61; P=0.35). Both designs effectively treat OSA.",
+    "source_docs": [
+      "mad_devices"
+    ],
+    "category": "treatment_comparison"
+  },
+  {
+    "id": "q007",
+    "question": "What sleep parameters are typically measured in polysomnography for diagnosing and monitoring OSA?",
+    "answer": "Key PSG parameters include Apnea-Hypopnea Index (AHI), Oxygen Desaturation Index (ODI), Total Sleep Time (TST), sleep efficiency, arousal index, minimum/mean SaO2, %TST with SaO2<90% (CT90), sleep stage distribution (NREM/REM), and position-related AHI (supine vs non-supine).",
+    "source_docs": [
+      "positional_therapy",
+      "mad_devices",
+      "vascular_lesions"
+    ],
+    "category": "diagnostics"
+  },
+  {
+    "id": "q008",
+    "question": "What is the prevalence of OSAHS comorbidity in patients with type B aortic dissection?",
+    "answer": "In a study of 151 patients with TBAD, the prevalence of OSAHS was 66.2%. Severity of OSAHS was positively associated with thrombosis.",
+    "source_docs": [
+      "vascular_lesions"
+    ],
+    "category": "comorbidities"
+  },
+  {
+    "id": "q009",
+    "question": "How does REM sleep affect synaptic spines after learning or sensory deprivation?",
+    "answer": "REM sleep promotes selective elimination of new spines and strengthening of persistent ones via dendritic calcium spikes. REM sleep deprivation reduces spine elimination after motor learning, monocular deprivation, or fear conditioning, impairing synaptic refinement.",
+    "source_docs": [
+      "rem_sleep"
+    ],
+    "category": "sleep_physiology"
+  },
+  {
+    "id": "q010",
+    "question": "What motivators improve CPAP adherence?",
+    "answer": "Perceived improvement in quality of life and symptom resolution, support from bed partners, support from technical/medical staff, tailored educational programs, and higher health literacy/knowledge about OSA and CPAP.",
+    "source_docs": [
+      "cpap_adherence"
+    ],
+    "category": "adherence"
+  },
+  {
+    "id": "q011",
+    "question": "Does SPT improve total sleep time or oxygen saturation compared to placebo, OAT, or CPAP?",
+    "answer": "SPT did not lead to significant improvements in total sleep time (TST) or oxygen saturation parameters across comparisons with placebo, OAT, or CPAP.",
+    "source_docs": [
+      "positional_therapy"
+    ],
+    "category": "treatment_outcomes"
+  },
+  {
+    "id": "q012",
+    "question": "What is the risk of device-related complications for SPT compared to OAT and CPAP?",
+    "answer": "SPT has a lower risk of device-related complications compared to OAT (OR=0.54) and CPAP (OR=0.29).",
+    "source_docs": [
+      "positional_therapy"
+    ],
+    "category": "safety"
+  }
+]

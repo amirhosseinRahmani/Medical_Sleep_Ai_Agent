@@ -1,0 +1,67 @@
+[
+  {
+    "id": "positional_therapy",
+    "title": "Comparative efficacy of sleep positional therapy, oral appliance therapy, and CPAP in obstructive sleep apnea: a meta-analysis of mean changes in key outcomes",
+    "authors": "Yunjun Gao, Sixiang Zhu, Wenjun Li, Youqing Lai",
+    "year": 2025,
+    "journal": "Frontiers in Medicine",
+    "doi": "10.3389/fmed.2025.1517274",
+    "type": "Systematic Review & Meta-Analysis",
+    "topic": "Positional therapy vs CPAP vs OAT for OSA",
+    "word_count": 10209,
+    "char_count": 66890,
+    "source_file": "positional_therapy.txt"
+  },
+  {
+    "id": "rem_sleep",
+    "title": "Functional roles of REM sleep",
+    "authors": "Yasutaka Mukai, Akihiro Yamanaka",
+    "year": 2023,
+    "journal": "Neuroscience Research",
+    "doi": "10.1016/j.neures.2022.12.009",
+    "type": "Review article",
+    "topic": "Functional roles of REM sleep",
+    "word_count": 10997,
+    "char_count": 76833,
+    "source_file": "rem_sleep.txt"
+  },
+  {
+    "id": "vascular_lesions",
+    "title": "Obstructive sleep apnea hypopnea syndrome and vascular lesions: An update on what we currently know",
+    "authors": "Zhenyu Mao, Pengdou Zheng, Xiaoyan Zhu, Lingling Wang, Fengqin Zhang, Huiguo Liu, Hai Li, Ling Zhou, Wei Liu",
+    "year": 2024,
+    "journal": "Sleep Medicine",
+    "doi": "10.1016/j.sleep.2024.05.010",
+    "type": "Review",
+    "topic": "OSAHS and vascular lesions / pathophysiology",
+    "word_count": 16476,
+    "char_count": 117864,
+    "source_file": "vascular_lesions.txt"
+  },
+  {
+    "id": "cpap_adherence",
+    "title": "Psychological predictors of CPAP therapy adherence in obstructive sleep apnea patients: insights from the predisposing, precipitating, and perpetuating factors model",
+    "authors": "Valentina Poletti, Elvia Battaglia, Eleonora Volpato",
+    "year": 2025,
+    "journal": "International Journal of Clinical and Health Psychology",
+    "doi": "10.1016/j.ijchp.2025.100602",
+    "type": "Scoping Review",
+    "topic": "Psychological factors in CPAP adherence (3P model)",
+    "word_count": 13528,
+    "char_count": 93833,
+    "source_file": "cpap_adherence.txt"
+  },
+  {
+    "id": "mad_devices",
+    "title": "Efficacy and adherence of different mandibular advancement devices designs in treatment of obstructive sleep apnea: A systematic review and meta-analysis",
+    "authors": "Yanlong Chen, Jingjing Zhang, Xuemei Gao, Fernanda R. Almeida",
+    "year": 2025,
+    "journal": "American Journal of Orthodontics and Dentofacial Orthopedics",
+    "doi": "10.1016/j.ajodo.2025.01.006",
+    "type": "Systematic Review & Meta-Analysis",
+    "topic": "MAD designs: titratable vs nontitratable, custom vs ready-made",
+    "word_count": 8374,
+    "char_count": 56500,
+    "source_file": "mad_devices.txt"
+  }
+]

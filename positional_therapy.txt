@@ -1,0 +1,1186 @@
+                                                                                                                          TYPE Systematic Review
+                                                                                                                          PUBLISHED   03 February 2025
+                                                                                                                          DOI 10.3389/fmed.2025.1517274
+
+
+
+
+                                                    Comparative efficacy of sleep
+OPEN ACCESS                                         positional therapy, oral appliance
+EDITED BY
+Ellie Kazemeini,
+SGS Clinical Pharmacology Unit, Belgium
+                                                    therapy, and CPAP in obstructive
+REVIEWED BY
+Roberto Vera-Uribe,
+                                                    sleep apnea: a meta-analysis of
+University of Chile, Chile
+Luigi La Via,
+Gaspare Rodolico Hospital, Italy
+                                                    mean changes in key outcomes
+*CORRESPONDENCE
+Yunjun Gao                                          Yunjun Gao*, Sixiang Zhu, Wenjun Li and Youqing Lai
+  gyjent@163.com
+                                                    Department of Otorhinolaryngology, Beijing Jishuitan Hospital, Capital Medical University, Beijing,
+                                                    China
+RECEIVED 25 October 2024
+ACCEPTED 20 January 2025
+PUBLISHED 03 February 2025
+
+CITATION
+Gao Y, Zhu S, Li W and Lai Y (2025)                 Background: Obstructive sleep apnea (OSA) is commonly treated with
+Comparative efficacy of sleep positional
+                                                    continuous positive airway pressure (CPAP), though many patients struggle with
+therapy, oral appliance therapy, and CPAP
+in obstructive sleep apnea: a meta-analysis         adherence. Sleep positional therapy (SPT) offers a potential alternative, especially
+of mean changes in key outcomes.                    for positional OSA (POSA). This study aimed to compare the efficacy and safety
+Front. Med. 12:1517274.
+doi: 10.3389/fmed.2025.1517274                      of SPT with CPAP, oral appliance therapy (OAT), and placebo.
+COPYRIGHT                                           Methods: Nineteen randomized controlled trials (RCTs) with 1,231 participants
+© 2025 Gao, Zhu, Li and Lai. This is an
+open-access article distributed under the           were included. Data extraction focused on changes in key outcomes such
+terms of the Creative Commons Attribution           as apnea-hypopnea index (AHI), total sleep time (TST), oxygen desaturation
+License (CC BY). The use, distribution or
+reproduction in other forums is permitted,
+                                                    index (ODI), and sleep architecture from pre- to post-intervention. Random-
+provided the original author(s) and the             effects meta-analyses were conducted to compare mean changes between
+copyright owner(s) are credited and that the
+                                                    SPT and control groups (placebo, OAT, CPAP), with sensitivity analyses to
+original publication in this journal is cited, in
+accordance with accepted academic                   assess heterogeneity.
+practice. No use, distribution or reproduction
+is permitted which does not comply with             Results: Sleep positional therapy (SPT) showed a significant reduction in AHI
+these terms.                                        in the supine position compared to placebo (MD = −7.46, 95% CI: −11.42,
+                                                    −3.49), although no difference was observed in overall AHI between SPT and
+                                                    placebo or OAT. Compared to CPAP, SPT was less effective in reducing AHI, with
+                                                    a trend toward greater reductions in AHI favoring CPAP. SPT demonstrated a
+                                                    significant improvement in arousal index compared to OAT (MD = −7.11, 95%
+                                                    CI: −10.52, −3.71) and a lower risk of device-related complications compared
+                                                    to both OAT (OR = 0.54, 95% CI: 0.31, 0.95) and CPAP (OR = 0.29, 95% CI: 0.12,
+                                                    0.72). However, SPT did not lead to significant improvements in TST or oxygen
+                                                    saturation parameters across comparisons.
+                                                    Conclusion: Sleep positional therapy (SPT) is a safe alternative for managing
+                                                    positional OSA, particularly for patients intolerant to CPAP, though it remains
+                                                    less effective than CPAP in reducing overall AHI and improving oxygenation.
+
+                                                    KEYWORDS
+
+                                                    obstructive sleep apnea, sleep positional therapy, continuous positive airway pressure,
+                                                    oral appliance therapy, systematic review
+
+
+
+
+Frontiers in Medicine                                                      01                                                               frontiersin.org
+Gao et al.                                                                                                                    10.3389/fmed.2025.1517274
+
+
+
+
+1 Introduction                                                                      for practitioners seeking alternatives to CPAP. Additionally, we
+                                                                                    provide a comprehensive analysis across all parameters including
+    Obstructive sleep apnea (OSA) is a prevalent sleep disorder                     sleep measures, respiratory indices, and other clinical outcomes.
+characterized by repetitive episodes of partial or complete
+upper airway obstruction during sleep, leading to intermittent
+hypoxia, fragmented sleep, and a host of adverse health outcomes                    2 Methods
+including cardiovascular disease, metabolic dysfunction, and
+impaired cognitive function (1). The standard of care for OSA                       2.1 Study design
+management typically involves continuous positive airway pressure
+(CPAP) therapy, which has been shown to effectively reduce
+                                                                                        This systematic review and meta-analysis was conducted
+apnea-hypopnea index (AHI) and improve daytime symptoms
+                                                                                    following the Preferred Reporting Items for Systematic Reviews
+(2, 3). However, adherence to CPAP remains suboptimal, with
+                                                                                    and Meta-Analyses (PRISMA) guidelines which was updated in
+many patients discontinuing its use due to discomfort and
+                                                                                    2020 (15).
+inconvenience (4, 5).
+    Recent evidence has highlighted the intricate interplay between
+OSA and systemic inflammation, driven largely by oxidative stress
+as a result of intermittent hypoxia. This cyclic hypoxia triggers                   2.2 Literature search
+the overproduction of reactive oxygen species (ROS), leading
+to cellular damage and an imbalance in antioxidant defenses                             To identify eligible studies, PubMed, Scopus, Web of Science,
+(6). These mechanisms exacerbate systemic inflammation, with                        Cochrane Central Register of Controlled Trials (CENTRAL),
+elevated markers such as interleukins (IL-6 and IL-8) and tumor                     clinicaltrials.gov, and Google Scholar (only the first 200 citations
+necrosis factor-alpha (TNF-α), contributing to cardiovascular,                      were selected) (16), were searched from inception to 4 June 2024,
+metabolic, and neurodegenerative comorbidities (6). These                           as outlined in Supplementary Table 1. Citations were filtered based
+findings underscore the potential of targeting oxidative stress as a                on their titles and abstracts. No restrictions were applied regarding
+therapeutic strategy to mitigate the multifaceted impacts of OSA.                   the original language of publication. To ensure the accuracy of
+    In recent years, alternative therapeutic approaches have been                   the performed search and screening, we searched for relevant
+explored, including positional therapy, which aims to prevent the                   studies manually by reading the reference list of finally selected
+supine position during sleep—a known risk factor for exacerbating                   papers, by checking the list of “similar articles” to selected ones
+OSA severity (7). Positional obstructive sleep apnea (POSA) is                      on PubMed, and by manually searching Google software using the
+defined as OSA that is significantly worse when the patient is                      same keywords included in the literature search (17).
+in the supine position compared to lateral positions (8). Various
+positional therapy devices, ranging from simple techniques like
+tennis balls sewn into the back of sleepwear to more sophisticated                  2.3 Selection strategy
+devices such as vibrating alarms and specialized pillows, have been
+developed to address this issue (9).                                                   The eligibility criteria were based on the refined PICOS
+    Several meta-analyses have explored the efficacy of these                       (Population, Intervention, Comparison, Outcomes, and Study
+alternative therapies (10–14), comparing CPAP, SPT, and OAT                         Design) framework (18). Selected studies followed this criterion:
+across various outcomes, including apnea-hypopnea index (AHI)
+reduction and sleep architecture. However, many of these reviews                      1. Randomized controlled trials (study design).
+provide inconsistent conclusions regarding the relative efficacy                      2. Including patients diagnosed with OSA based on the
+of SPT compared to other therapies. A key limitation in prior                            Apnea-Hypopnea Index (AHI) or other sleep study
+analyses is their reliance on post-intervention comparisons without                      parameters (population).
+accounting for baseline differences between study groups. This                        3. Patients     receiving     any       form     of      positional
+approach may obscure the true impact of each therapy on                                  therapy (intervention).
+patient outcomes.                                                                     4. Comparing positional therapy to any other intervention, such
+    In contrast, the present systematic review and meta-analysis                         as placebo (ad libitum; no treatment, general advice, supine
+aims to address these limitations by employing a more nuanced                            position, standard pillows, or inflated airbags), oral appliance
+analytical method that focuses on the mean change in key outcomes                        therapy (OAT), or CPAP (comparison/control group).
+from pre-intervention to post-intervention. This approach not                         5. Reporting pre- and post-intervention data on relevant
+only provides a clearer picture of how each therapy impacts OSA                          outcomes (listed below).
+symptoms but also offers more clinically meaningful conclusions
+                                                                                        Alternatively, studies meeting the following criteria were ruled
+                                                                                    out:
+Abbreviations: OSA, obstructive sleep apnea; CPAP, continuous positive
+airway pressure; SPT, sleep positional therapy; POSA, positional obstructive
+sleep apnea; RCT, randomized controlled trial; AHI, apnea-hypopnea index;             1. Non-original research (i.e., reviews, editorials, perspectives,
+TST, total sleep time; ODI, oxygen desaturation index; OAT, oral appliance               commentaries, etc.).
+therapy; MD, mean difference; CI, confidence interval; SaO2 , oxygen
+saturation; REM, rapid eye movement; FOSQ, Functional Outcomes of Sleep               2. Non-randomized studies of intervention (experimental) and
+Questionnaire; ESS, Epworth Sleepiness Scale.                                            observational studies.
+
+
+Frontiers in Medicine                                                          02                                                          frontiersin.org
+Gao et al.                                                                                                            10.3389/fmed.2025.1517274
+
+
+
+
+  3. Studies including mixed populations (OSA plus other                   Each domain is given a rating of either “low risk,” “high risk,”
+     conditions) without stratifying their data based on studied           or “some concerns” (19). Overall, if a study had high risk in one
+     disease or including patients with other conditions.                  domain, it was designated as having an overall high risk of bias.
+  4. Trials investigating other interventions other than                   If a study had low risk in all domains, it was designated as having
+     positional therapy.                                                   an overall low risk of bias. Otherwise, the study was designated an
+  5. No clear description of the intervention or                           overall rating of some concerns.
+     comparison groups.
+  6. Duplicates studies.
+  7. Studies with overlapping patients’ data (confirmed by similar         2.6 Statistical analysis
+     recruitment period, study settings, and patients’ baseline
+     data).                                                                     Before conducting any statistical tests, proper data handling
+                                                                           was ensured. For studies reporting the median (IQR or range),
+                                                                           data were transformed to mean (standard deviation—SD)
+                                                                           using validated equations (20–23). Given the standardization of
+2.4 Data collection and outcome                                            measurement scales, there was no need to calculate a standardized
+                                                                           mean difference.
+measures                                                                        All statistical analyses were carried out using STATA Software
+                                                                           (Version 18, Stata Corp, United States). In contrast to the standard
+     The senior author designed the data collection sheet using
+                                                                           meta-analytic approach that compares post-intervention results
+Microsoft Excel. The sheet was divided into three sections. The
+                                                                           directly between intervention and control groups, this study
+first one contained data pertaining to included studies (authors’
+                                                                           calculated the mean change in each continuous outcome (e.g.,
+names, country, year of publication, study design, and follow-
+                                                                           AHI, ODI, TST) for each group (intervention vs. control) from
+up), examined patients (population description, sample size, age,
+                                                                           pre-intervention to post-intervention. The mean change for each
+gender, exclusion criteria, and OSA severity at baseline), and
+                                                                           outcome was then compared between groups using random-effects
+administered interventions (types, name, and descriptions of
+                                                                           meta-analyses. This approach allows for a more direct evaluation
+allocated interventions).
+                                                                           of the impact of the interventions on outcome improvements
+     The second part contained our outcomes of interest. The
+                                                                           relative to baseline.
+primary endpoint was AHI (total, supine, or non-supine position).
+                                                                                Random-effects meta-analyses were conducted to pool the
+Secondary outcomes included sleep parameters, respiratory indices,
+                                                                           mean differences (MD) in outcomes between the intervention
+and other clinical outcomes. Sleep parameters included total sleep
+                                                                           (SPT) and control groups (placebo, OAT, and CPAP). The random
+time (TST, min), which included the time of all sleep stages               effects model was employed to account for expected heterogeneity
+combined, including stage 1 (N1), stage 2 (N2), stage 3 (N3),              among included studies due to differences in study populations,
+and rapid eye movement (REM) combined. It also included                    intervention protocols, and outcome measures. This approach
+% TST in SaO2 < 90% (known as CT90). Respiratory indices                   allows for the assumption that the true effect size may vary across
+included sleep efficiency (%), arousal index, O2 desaturation index        studies, which is appropriate given the diversity of clinical settings
+(ODI), and mean / minimum SaO2 . Other clinical parameters                 and methodologies in the included studies.
+included rate of treatment response (defined as reduction in AHI                The pooled mean difference (MD) and 95% confidence
+by at least 50% with supine TST score < 10), device-related                intervals (CI) were calculated for each comparison. Heterogeneity
+complication rate, Epworth Sleepiness Scale (ESS), Functional              across studies was assessed using the I2 statistic, with values over
+Outcomes of Sleep Questionnaire (FOSQ), and persistent apnea or            50% indicating substantial heterogeneity (24). Sensitivity analyses
+snoring or tiredness.                                                      were conducted by removing individual studies to examine their
+     The third part covered the risk of bias assessment of included        impact on overall results. Subgroup analyses were performed to
+trials. Investigators were blinded to studies’ country and year of         explore the effects of SPT device type, follow-up duration, and
+publication as well as authors’ names to minimize the risk of              OSA severity on treatment outcomes, only if sufficient number
+judgment bias. Each study was given an ID in this regard which             of studies were available (at least five studies) (25). We inspected
+was cross-validated with original study title by the corresponding         Galbraith plots to identify any outliers, and if any were found, the
+author. Two authors were blinded to other investigators’ work              respective data were checked for accuracy and was then excluded
+and their role was to ensure the accuracy of the extracted data.           if it ascertained to be accurate. The assessment of publication
+In instances where inaccurate data or inconsistent reporting was           bias was not feasible due to the lack of enough power (< 10
+found, a meeting with the corresponding author was done to                 studies per analysis).
+correct these mistakes.                                                         Missing data were addressed as follows: studies with incomplete
+                                                                           reporting of key outcome measures were excluded from the
+                                                                           quantitative synthesis if sufficient data for imputation were
+2.5 Risk of bias assessment                                                not available. When possible, missing standard deviations were
+                                                                           estimated using reported confidence intervals, standard errors,
+    The risk of bias (RoB) of included studies was examined using          or other statistical measures as recommended by the Cochrane
+the 2019 revised Cochrane RoB-2 tool. Each RCTs was assessed               Handbook for Systematic Reviews (26). Sensitivity analyses
+over several aspects: randomization, deviations from intended              were performed to assess the impact of missing data on
+interventions, missing outcome data, selection of reported results.        overall effect sizes.
+
+
+Frontiers in Medicine                                                 03                                                           frontiersin.org
+Gao et al.                                                                                                              10.3389/fmed.2025.1517274
+
+
+
+
+3 Results                                                                          −3.76, 0.4). The degree of heterogeneity was insignificant
+                                                                                   (I2 = 51.12%, p = 0.09). The severity of OSA, type of SPT,
+                                                                                   and follow-up period did not affect the observed results
+3.1 Literature search results
+                                                                                   (Supplementary Figure 1).
+     We retrieved 1,832 citations from the database search, of which
+                                                                                  Sleep positional therapy vs. OAT: No difference was noted
+696 duplicates were ruled out by EndNote Software (Figure 1).
+                                                                              between groups (five studies, MD = 0.88, 95% CI: −0.57, 2.33).
+The initial screening of 1,136 records yielded 147 articles eligible
+for full-text screening. Eleven studies were unretrievable, and from          No heterogeneity was observed (I2 = 0%, p = 0.43). This effect was
+the remaining 136 studies, 117 were excluded for the following                consistent across different follow-up points, SPT types, and OSA
+reasons: abstract-only publications (n = 16), study protocols                 severity groups (Supplementary Figure 2).
+(n = 13), non-OSA populations (n = 7), non-positional therapy like
+mandibular protrusion devices (n = 25), non-randomized studies of               • Sleep positional therapy vs. CPAP: No difference was observed
+intervention (n = 5), observational studies (n = 36), and lack of pre-            between both groups (MD = 3.28; 95% CI: −2.56, 9.12,
+interventional data (n = 15). The manual search did not add any                   I2 = 89.45%, p = 0.001). However, after removing the study
+additional studies, resulting in 19 RCTs eligible for data synthesis              of Mok et al. (35) in the sensitivity analysis, SPT exhibited
+and analysis (20–23, 27–41).                                                      a greater change in AHI score (MD = 5; 95% CI: 0.66,
+                                                                                  9.35) (Supplementary Figure 3). Both SPT type and follow-up
+                                                                                  period significantly modified the observed effect (Figure 3),
+3.2 Baseline characteristics of included                                          with only Embletta (positive change) and Night Shift PT
+                                                                                  (negative change) showing a significant change.
+studies
+
+    A summary of included studies’ characteristics is provided
+in Table 1. Of included trials, nine were cross-over RCTs while               3.4.2 AHI score in supine position
+the remaining studies were parallel RCTs. Eight RCTs compared                   • Sleep positional therapy vs. Placebo: SPT was associated with
+SPT to placebo, five compared SPT to OAT, and six compared                        a greater reduction in AHI in supine position compared to
+SPT to CPAP. Most RCTs were conducted in the United States                        placebo (four studies, MD = −7.46; 95% CI: −11.42, −3.49)
+(n = 4) followed by the Netherlands (n = 3), Australia (n = 2), and               (Figure 4). The degree of heterogeneity was considerable
+New Zealand (n = 2), respectively. A total of 1,231 OSA patients                  (I2 = 98.60%, p = 0.001); however, no change was observed
+were examined, of whom 649 were in the SPT group, 205 in the                      in the sensitivity analysis.
+placebo group, 222 in the OAT group, and 155 in the CPAP group.                 • Sleep positional therapy vs. OAT: No difference was
+    Examined SPT interventions included Somnibel (n = 1),                         noted between groups (four studies, MD = 6.96; 95% CI:
+NightBalance (n = 5), Buzz-POD (n = 1), Respident Butterfly                       −4.90, 18.83). Heterogeneity was considerable (I2 = 99.91%,
+(n = 1), SPMD (Sleep Position Modification Device) (n = 1),                       p = 0.001); and the sensitivity analysis showed a greater change
+backpack (n = 1), head elevation technique (n = 2), Night Shift                   in the SPT group after excluding the study of de Ruiter et al.
+(n = 2), Zzoma (n = 1), Embletta SHEP (shoulder-head elevation                    (20) (MD = 11.64; 95% CI: 0.94, 22.34).
+device) (n = 1), TASB (thoracic anti-supine band) (n = 1),                      • Sleep positional therapy vs. CPAP: No difference was observed
+and laboratory pillows (n = 2). A full description of allocated                   between both groups (four studies, MD = 7.33; 95% CI: −7.63,
+interventions, patients’ age and gender, and follow-up duration can               22.30, I2 = 99.86%, p = 0.001). However, the sensitivity analysis
+be found in Table 1.                                                              revealed a greater increase in favor of SPT after removing the
+                                                                                  study of Mok et al. (35) (MD = 13.97; 95% CI: 3.54, 24.40)
+                                                                                  (Supplementary Figure 4).
+3.3 Risk of bias summary
+
+    The results of the RoB assessment are provided in                         3.4.3 AHI in non-supine position
+Figure 2. Overall, seven RCTs had low risk of bias, six RCT                     • Sleep positional therapy vs. Placebo: No difference was
+had high risk of bias, while the remaining six RCTs had                           noted between groups (four studies, MD = −0.66; 95% CI:
+some concerns. The main concerns were attributed to the                           −3.43, 2.1). The degree of heterogeneity was considerable
+lack of a study protocol to examine reporting bias (n = 10),                      (I2 = 97.54%, p = 0.001); however, no change was observed
+deviations from intended interventions (lack of reporting,                        in the sensitivity analysis.
+n = 10), and improper description of the randomization process                  • Sleep positional therapy vs. OAT: No difference was noted
+(n = 7).                                                                          between groups (four studies, MD = −0.91; 95% CI:
+                                                                                  −6.25,4.43). Heterogeneity was considerable (I2 = 99.74%,
+                                                                                  p = 0.001); and the sensitivity analysis revealed a greater
+3.4 Primary endpoint(s)                                                           increase in favor of SPT after removing the study of
+                                                                                  Dieltjens et al. (21) (MD = 2.20; 95% CI: 1.52, 2.88)
+3.4.1 Total AHI score                                                             (Supplementary Figure 5).
+   • Sleep positional therapy vs. Placebo: No difference was                    • Sleep positional therapy vs. CPAP: No difference was observed
+     noted between groups (five studies, MD = −1.66; 95% CI:                      between both groups (four studies, MD = 1.74; 95% CI: −6.60,
+
+
+Frontiers in Medicine                                                    04                                                          frontiersin.org
+Gao et al.                                                                                                                10.3389/fmed.2025.1517274
+
+
+
+
+   FIGURE 1
+   A Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) flow diagram showing the results of the database search and
+   screening processes.
+
+
+
+
+      10.08, I2 = 99.67%, p = 0.001). However, the sensitivity analysis            (Supplementary Figure 8). For instance, SPT exhibited a
+      revealed a greater increase in AHI score after removing the                  lower change in TST in supine position in patients with
+      study of Mok et al. (35) (MD = 5.87; 95% CI: 3.91, 7.84)                     mild/moderate OSA, while it exhibited a greater increase in
+      (Supplementary Figure 6).                                                    those with moderate/severe disease.
+                                                                                 • Sleep positional therapy vs. CPAP: No difference was observed
+                                                                                   between both groups (three studies, MD = −6.14; 95%
+                                                                                   CI: −61.42, 49.15, I2 = 99.04%, p = 0.001). However, the
+3.5 Secondary endpoints: sleep indices                                             sensitivity analysis revealed a significantly greater reduction
+                                                                                   in favor of SPT (MD = −35.65; 95% CI: −45.08, −26.23)
+3.5.1 TST % (overall)                                                              after removing the study of Permut et al. (36) (Supplementary
+   • Sleep positional therapy vs. Placebo: No difference was                       Figure 9).
+     observed between groups (three studies, MD = −1.48; 95% CI:
+     −17.79, 14.83). Heterogeneity was considerable (I2 = 97.62%,
+     p = 0.001); however, the sensitivity analysis was unremarkable.           3.5.3 TST % in N1 sleep
+   • Sleep positional therapy vs. OAT: Insufficient evidence.                    • Sleep positional therapy vs. Placebo: No difference was
+   • Sleep positional therapy vs. CPAP: No difference was observed                 observed between groups (two studies, MD = −1.07; 95% CI:
+     between both groups (four studies, MD = −3.31; 95% CI:                        −2.30, 0.17). Heterogeneity was insignificant (I2 = 69.74%,
+     −15.02, 8.41; I2 = 90.98%, p = 0.001). The sensitivity analysis               p = 0.07).
+     revealed no change.                                                         • Sleep positional therapy vs. OAT: No difference was noted
+                                                                                   between groups (two studies, MD = −0.67; 95% CI: −1.52,
+                                                                                   0.19, I2 = 0%, p = 0.54).
+3.5.2 TST % in supine position                                                   • Sleep positional therapy vs. CPAP: Insufficient evidence.
+   • Sleep positional therapy vs. Placebo: No difference was
+     observed between groups (three studies, MD = −2.47; 95%
+     CI: −7.40, 2.47). Heterogeneity was insignificant (I2 = 43.35%,           3.5.4 TST % in N2 sleep
+     p = 0.17).                                                                  • Sleep positional therapy vs. Placebo: The mean reduction in
+   • Sleep positional therapy vs. OAT: No difference was observed                  TST during N2 was significantly greater in SPT than placebo
+     between groups (five studies, MD = −21.68; 95% CI: −60.09,                    (two studies, MD = −2.45; 95% CI: −4.04, −0.85) (Figure 5).
+     16.73, I2 = 98.84%, p = 0.001). However, the sensitivity                      Heterogeneity was insignificant (I2 = 69.74%, p = 0.07).
+     analysis revealed a significantly greater reduction in TST                  • Sleep positional therapy vs. OAT: SPT exhibited a greater
+     is supine position in favor of SPT (MD = −39.63; 95%                          mean reduction than OAT (two studies, MD = −2.79; 95%
+     CI: −60.71, −18.56) after removing the study of Dieltjens                     CI: −4.53, −1.04, I2 = 34.84%, p = 0.22).
+     et al. (21) (Supplementary Figure 7). The SPT type, follow-                 • Sleep positional therapy vs. CPAP: Insufficient
+     up period, and OSA severity were significant effect modifiers                 evidence.
+
+
+Frontiers in Medicine                                                     05                                                           frontiersin.org
+Frontiers in Medicine
+
+
+
+
+                                                                                                                                                                                                                                     Gao et al.
+                        TABLE 1 Baseline characteristics of randomized controlled trials of sleep positional therapies in patients with obstructive sleep apnea.
+
+                          Author            Population                     Design         Country     Group        Description                   Sample     Age           Gender   FU (mo)          OSA severity
+                          (YOP)                                                                                                                             (year)
+                                                                                                                                                                          M/F                Mild      Mod         Sev
+                          SPT Versus Placebo
+                          Armas (27)        POSA as having an              Multicenter,   Spain       Placebo      General                       41         51.3 (10.5)   34/7     3         –             –       –
+                                            AHI ≥ 5 per hour;              parallel RCT                            recommendations
+                                            supine AHI ≥ 2than in
+                                            the non-supine position;
+                                            TST ≥ 180 min; and TST
+                                            in thesupine
+                                            position ≥ 20% of TST.
+
+                                                                                                      Active       Somnibel positional           43         53.4 (12.7)   34/9               –             –       –
+                                                                                                      device       therapy device and box
+                                                                                                                   of breathable fastening
+                                                                                                                   adhesive. The device was
+                                                                                                                   placed on the patient’s
+                                                                                                                   forehead.
+
+                                                                                                      Inactive     Somnibel (inactive)           44         51.8 (11.5)   35/9               –             –       –
+06
+
+
+
+
+                                                                                                      device
+
+                          Jackson (31)      Participants at                Parallel RCT   Australia   SPMD         A band of stretch cotton      47         48 (11.2)     37/10    1         –         100%        –
+                                            least18 years of age,                                                  worn around the chest
+                                            supine OSA (supine AHI                                                 just below the nipple line.
+                                            at least twice the                                                     The band was situated at
+                                            nonsupine AHI) on                                                      the front with buttons
+                                            overnight diagnostic                                                   and the ball was
+                                            PSG, total AHI ≥ 10, and                                               contained.
+                                            at least4 h of sleep with at
+                                            least 30 min sleep in both
+                                            the lateraland supine
+                                            recumbent positions and
+                                            30 min of REM sleep
+
+                                                                                                      Placebo      Sleep hygiene advice          39         51.2 (11.4)   30/9               –             –       –
+
+
+
+
+                                                                                                                                                                                                                                     10.3389/fmed.2025.1517274
+                          Laub (33)         Consecutive patients           Parallel RCT   Denmark     SPT          NightBalance, a small         52         50.3 (12.9)   39/13    2                100%           –
+                                            diagnosed with POSAS                                                   device placed in a pocket
+                                            were potential candidates                                              of a neoprene strap
+                                            for this study                                                         attached to the patients’
+                                                                                                                   chest.
+frontiersin.org
+
+
+
+
+                                                                                                                                                                                                                       (Continued)
+                        TABLE 1 (Continued)
+Frontiers in Medicine
+
+
+
+
+                                                                                                                                                                                                                                Gao et al.
+                         Author           Population                  Design         Country       Group          Description                 Sample   Age           Gender   FU (mo)          OSA severity
+                         (YOP)                                                                                                                         (year)
+                                                                                                                                                                     M/F                Mild      Mod         Sev
+                                                                                                   Placebo        No treatment                49       51.2 (13.3)   38/11                     100%           –
+
+                         Lukachan (34)    Adult patients,American     Parallel RCT   USA           Semi-          Head-end elevation          21       65 (12)       7/14     7         –             –       –
+                                          Society of                                               upright        30-45 degrees from
+                                          Anesthesiologists (ASA)                                  position       horizontal
+                                          physicalstatus I to IV,
+                                          undergoing elective
+                                          inpatient
+                                          non-cardiacsurgery with
+                                          newly diagnosed OSA.
+
+                                                                                                   Placebo        Supine position             14       63 (10        9/5                –             –       –
+
+                         Svatikova (23)   Patients with OSA and       Cross-over     USA           PT             SONA Pillow (a flat base    9        61 (13.5)     5/4      3                100%           –
+                                          ischemic stroke             RCT                                         and a double incline on
+                                                                                                                  the top surface that
+                                                                                                                  promotes lateral
+                                                                                                                  positioning
+
+                                                                                                   Placebo        Standard hospital pillow    9        57 (11.9)     6/3                       100%           –
+
+                         Zaremba (41)     Women with OSA who          Cross-over     Germany       Intervention   Elevated upper body         15       33.53 (5.7)   0/15     –         –             –       –
+                                          gave birth without          RCT                                         position 45◦
+07
+
+
+
+
+                                          adverse events
+
+                                                                                                   Placebo        Non-elevated position       15       33.53 (5.7)   0/15               –             –       –
+
+                         Eijsvogel (22)   Patients werediagnosed      Parallel RCT   The           SPT            NightBalance, a small       29       50.1 (10.6)   23/6     1         –             –       –
+                                          with OSAS If they met                      Netherlands                  device placed in a pocket
+                                          the following criteria as                                               of a neoprene strap
+                                          defined by the American                                                 attached to the patients’
+                                          Academy of Sleep                                                        chest.
+                                          Medicine
+                                          (AASM):complaints of
+                                          excessive daytime
+                                          sleepiness (naps
+                                          duringday/evening) or
+                                          ≥ 2 of the following that
+                                          were not better explained
+                                          by other factors: choking
+
+
+
+
+                                                                                                                                                                                                                                10.3389/fmed.2025.1517274
+                                          or gasping during
+                                          sleep,recurrent
+                                          awakenings from sleep,
+                                          refreshing sleep,
+frontiersin.org
+
+
+
+
+                                          daytimefatigue, and/or
+                                          impaired concentration,
+                                          in combination withan
+                                          AHI ≥ 5.
+
+                                                                                                                                                                                                                  (Continued)
+Frontiers in Medicine
+
+
+
+
+                                                                                                                                                                                                                            Gao et al.
+                        TABLE 1 (Continued)
+
+                         Author           Population                 Design         Country       Group     Description                 Sample   Age            Gender   FU (mo)           OSA severity
+                         (YOP)                                                                                                                   (year)
+                                                                                                                                                                M/F                Mild       Mod         Sev
+                                                                                                  Placebo   TBT: three inflated         26       50.7 (12.2)    22/4               –             –        –
+                                                                                                            airbags positioned on the
+                                                                                                            back with an elastic band
+                                                                                                            around the chest
+
+                         Stavrou (39)     Patientsreferred for       Preliminary    Greece        LP        3 h with LP and 3 h with    20       53.8 (12.5)    16/4     3         –             –        –
+                                          potential sleep            RCT                                    OP
+                                          disordered breathing
+                                          following
+                                          apolysomnography
+                                          study, an
+                                          apnea-hypopnea index
+                                          (AHI) of ≥ 5 events/h
+                                          with LP, age between 20
+                                          and 80 years,
+                                          BMI < 40kg/m2 , waist to
+                                          hip ratio < 1, and neck
+08
+
+
+
+
+                                          circumferences < 40 cm
+
+                                                                                                  Placebo   3 h with LP and 3 h with    12       52 (6.3)       8/4                –             –        –
+                                                                                                            MFP
+
+                         SPT Versus OAT
+                         Huang (30)       Patients with POSA,        Parallel RCT   China         SPT       VVFLY SnoreCircle           20       39.2 (10.92)   17/3     6                89.47%          10.53%
+                                          diagnosed by standard
+                                          PSG
+
+                                                                                                  OAT       Somnofit                    20       41.55          18/2                      90.00%          10%
+                                                                                                                                                 (11.79)
+
+                                                                                                  SOT       VVFLY SnoreCircle +         20       40.75          16/4                      90.00%          10%
+                                                                                                            Somnofit                             (10.51)
+
+                         de Ruiter (20)   Patients with mild to      Parallel RCT   The           SPT       NightBalance worn           48       47.3 (10.1)    34/14    12               100%            –
+                                          moderate POSA (AHI                        Netherlands             across the chest using a
+
+
+
+
+                                                                                                                                                                                                                            10.3389/fmed.2025.1517274
+                                          5–30/h)                                                           neoprene strap
+
+                                                                                                  OAT       SomnoDent flex, a           51       49.2 (10.2)    36/15                     100%            –
+                                                                                                            custom-made duo-bloc
+                                                                                                            device, where the OA
+                                                                                                            was set at 60%
+frontiersin.org
+
+
+
+
+                                                                                                                                                                                                              (Continued)
+Frontiers in Medicine
+
+
+
+
+                                                                                                                                                                                                                                  Gao et al.
+                        TABLE 1 (Continued)
+
+                         Author           Population                  Design         Country       Group       Description                   Sample   Age           Gender   FU (mo)          OSA severity
+                         (YOP)                                                                                                                        (year)
+                                                                                                                                                                    M/F                Mild      Mod         Sev
+                         Suzuki (40)      Patients suspected to       Parallel RCT   Japan         PTD         NightShift, choker-type,      80       45.6 (11.4)   54/26    2         –             –          –
+                                          have OSA                                                             electronic device worn
+                                                                                                               around the neck
+
+                                                                                                   OAT         Self-cured acrylic resin      80       47.5 (11.4)   62/18              –             –          –
+
+                         Benoist (28)     Patients with               Multicenter,   The           SPT         NightBalance B.V.TM           48       47.3 (10.1)   34/14    3                100%              –
+                                          mild-to-moderate POSA       parallel RCT   Netherlands               worn across the chest
+                                          (AHI insupine position                                               using a neoprene strap
+                                          at least twice as high as
+                                          compared with the AHI
+                                          innon-supine position,
+                                          with 10e90% of TST in
+                                          thesupine position, and
+                                          aged > 18 years)
+09
+
+
+
+
+                                                                                                   OAT         SomnDent flexTM, a            51       49.2 (10.2)   36/15                     100%              –
+                                                                                                               custom-made titratable
+                                                                                                               device worn intraorally
+                                                                                                               that had a soft inner liner
+                                                                                                               to maintain retention
+                                                                                                               and support comfort
+
+                         Dieltjens (21)   Patients with residual,     Parallel RCT   Belgium       SPT         NightBalanceTM, a             20       52 (11)       11/9     6         –                 100%
+                                          supine-dependent,                                                    chest-worn SPT placed at
+                                          moderate to severe OSA                                               the level of the sternum.
+                                          (AHI > 20 events/h)                                                  It monitors body
+                                                                                                               positions and vibrates
+                                                                                                               when lying in the supine
+                                                                                                               position.
+
+                                                                                                   MAD         Respident Butterfly, a        20       52 (11)       11/9               –                 100%
+                                                                                                               custom-made titratable
+
+
+
+
+                                                                                                                                                                                                                                  10.3389/fmed.2025.1517274
+                                                                                                               MAD - oral appliance
+
+                                                                                                   SPT + MAD   NightBalance +                20       52 (11)       11/9               –                 100%
+                                                                                                               Respident Butterfly
+
+                                                                                                                                                                                                                    (Continued)
+frontiersin.org
+Frontiers in Medicine
+
+
+
+
+                                                                                                                                                                                                                              Gao et al.
+                        TABLE 1 (Continued)
+
+                         Author           Population                Design       Country         Group   Description                  Sample   Age            Gender   FU (mo)              OSA severity
+                         (YOP)                                                                                                                 (year)
+                                                                                                                                                              M/F                Mild         Mod          Sev
+                         SPT Versus CPAP
+                         Berry (29)       Patients with ePOSA       Cross-over   United States   SPT     NightBalance, a              58       50.8 (12.6)    34/24    1.5       14                 44 (75.87%)
+                                          (AHI ≥ 15 events/h and    RCT                                  rechargeable                                                            (24.13%)
+                                          nsAHI < 10events/h) or                                         battery-operated device
+                                          (AHI > 10 and < 15                                             worn around the chest in
+                                          events/h with daytime                                          an elasticized torso band
+                                          sleepiness and nsAH < 5                                        which contains a digital
+                                          events/h)                                                      accelerometer.
+                                                                                                         A vibration is given when
+                                                                                                         the patient turns to the
+                                                                                                         supine position
+
+                                                                                                 CPAP    Dreamstation Auto, with      59       51.57 (12.7)   36/23              11                 45 (75.87%)
+                                                                                                         a pressure range setting                                                (18.64%)
+                                                                                                         of 4–20 cm H2 O and a
+                                                                                                         mask as tolerated. This
+10
+
+
+
+
+                                                                                                         device comes with
+                                                                                                         supplementary Wisp
+                                                                                                         (nasal), Nuance (nasal
+                                                                                                         pillows), and Amara
+                                                                                                         View (full face).
+
+                         Jokic (32)       Patients with OSA         Cross-over   Canada          PT      Backpack with a soft ball    13       51 (9)         –        0.5       –            –             –
+                                                                    RCT                                  inside, positioned to
+                                                                                                         prevent the patient from
+                                                                                                         sleeping supine. It was
+                                                                                                         made out of semirigid
+                                                                                                         synthetic foam
+
+                                                                                                 CPAP    For 2 weeks                  13       51 (9)         –                  –            –             –
+
+                         Mok (35)         POSA patients with        Cross-over   Singapore       PT      Night Shift positional       20       –              –        2         –            –             –
+                                          ESS > = 10                RCT                                  device worn at the back
+                                                                                                         of the neck using a
+
+
+
+
+                                                                                                                                                                                                                              10.3389/fmed.2025.1517274
+                                                                                                         latex-free silicone rubber
+                                                                                                         strap.
+
+                                                                                                 CPAP    Airsense 10 (Resmed) in      21       –              –                  –            –             –
+                                                                                                         automated mode
+frontiersin.org
+
+
+
+
+                                                                                                                                                                                                                (Continued)
+Frontiers in Medicine
+
+
+
+
+                                                                                                                                                                                                                                                                                                Gao et al.
+                        TABLE 1 (Continued)
+
+                          Author                 Population                     Design            Country           Group              Description                    Sample            Age                Gender            FU (mo)                       OSA severity
+                          (YOP)                                                                                                                                                         (year)
+                                                                                                                                                                                                           M/F                                 Mild            Mod             Sev
+                          Permut (36)            POSA patients (AHI of at       Multicenter       United States     PT                 Zzoma Positional Sleeper       38                49 (12)            25/13             3                 29              9 (23.7%)          –
+                                                 least five eventsper hour      cross-over                                             made of lightweight                                                                                     (76.3%)
+                                                 with symptoms of               RCT                                                    semirigid synthetic foam
+                                                 excessive daytime
+                                                 sleepiness or anAHI of at
+                                                 least 15 events per hour
+                                                 with a 50% decrease in
+                                                 theAHI when the patient
+                                                 was sleeping in the
+                                                 nonsupine position,as
+                                                 compared with in the
+                                                 supine position)
+
+                                                                                                                    CPAP               CPAP at 5 cm H2 O              38                                                                                                          –
+                                                                                                                                       titrated upward in 2 cm
+11
+
+
+
+
+                                                                                                                                       H2 O increment
+
+                          Skinner (38)           POSA patients with AHI         Cross-over        New Zealand       SHEP               Embletta PDFTM, a              14                54 (10)            12/2              1                            100%                    –
+                                                 10–60/h                        RCT                                                    standardized foam
+                                                                                                                                       wedge, the top surface of
+                                                                                                                                       which was angled at
+                                                                                                                                       60◦ to the horizontal
+
+                                                                                                                    nCPAP              Using an autotitrating         14                54 (10)            12/2                                           100%                    –
+                                                                                                                                       machine (Autoset T)
+
+                          Skinner (37)           Patients with moderate         Cross-over        New Zealand       TASB               It contains two-equal          10                55.9 (9.8)         –                 1                 –                           100%
+                                                 to severe POSA (mean           RCT                                                    lengths of cotton
+                                                 AHI of 22.7)                                                                          stockinette-covered
+                                                                                                                                       6 mm foam rubber
+
+                                                                                                                    nCPAP              Using an autotitrating         10                55.9 (9.8)         –                                   –                           100%
+                                                                                                                                       machine (Autoset T)
+
+
+
+
+                                                                                                                                                                                                                                                                                                10.3389/fmed.2025.1517274
+                        YOP, year of publication; No, number of patients; RCT, randomized controlled trial; FU, follow-up; M/F, male/female; Mod, moderate; Sev, severe; OSA, obstructive sleep apnea; AHI, apnea-hypopnea index; OAT, oral appliance therapy; SPT, sleep positional therapy;
+                        APAP, auto-adjusting positive airway pressure; MAD, mandibular advancement device; TBT, tennis ball technique; SPMD, sleep position modification device; PT, positional therapy; SHEP, shoulder-head elevation pillow; TASB, thoracic anti-supine band; MFP, memory
+                        foam pillow; LP, laboratory pillow; op, own pillow; PTD, positional therapy device.
+frontiersin.org
+Gao et al.                                                                                                                    10.3389/fmed.2025.1517274
+
+
+
+
+   FIGURE 2
+   An illustration of the risk of bias summary of included RCTs based on Cochrane’s revised RoB2 tool. RCT, randomized controlled trial.
+
+
+
+
+3.5.5 TST % in N3 sleep                                                           • Sleep positional therapy vs. CPAP: Insufficient evidence.
+   • Sleep positional therapy vs. Placebo: The mean change in
+     TST during N3 was significantly greater in SPT than placebo
+     (two studies, MD = 2.88; 95% CI: 1.58, 4.17) (Figure 6).                   3.5.6 TST % in REM
+     Heterogeneity was insignificant (I2 = 69.71%, p = 0.07).                     • Sleep positional therapy vs. Placebo: No difference was
+   • Sleep positional therapy vs. OAT: SPT exhibited a greater                      observed between groups (two studies, MD = −1.70; 95% CI:
+     increase in meant TST during N3 compared to OAT (two                           −3.47, 0.06), but heterogeneity was considerable (I2 = 95.74%,
+     studies, MD = 3.64; 95% CI: 1.20, 6.09, I2 = 79.67%, p = 0.03).                p = 0.001).
+
+
+
+Frontiers in Medicine                                                      12                                                              frontiersin.org
+Gao et al.                                                                                                                     10.3389/fmed.2025.1517274
+
+
+
+
+   FIGURE 3
+   Forest plot showing the difference in overall AHI score between sleep positional therapy (SPT) and CPAP, stratified by SPT type, follow-up period,
+   and OSA severity. OSA, obstructive sleep apnea; CPAP, continuous positive airway pressure; AHI, apnea-hypopnea index.
+
+
+
+
+   FIGURE 4
+   Forest plot showing the difference in AHI score in supine position between SPT and placebo. AHI, apnea-hypopnea index; SPT, sleep positional
+   therapy.
+
+
+
+
+Frontiers in Medicine                                                       13                                                               frontiersin.org
+Gao et al.                                                                                                                    10.3389/fmed.2025.1517274
+
+
+
+
+   FIGURE 5
+   Forest plot showing the difference in TST in N2 sleep stage between SPT and placebo. TST, total sleep time; SPT, sleep positional therapy.
+
+
+
+
+   FIGURE 6
+   Forest plot showing the difference in TST in N3 sleep stage between SPT and placebo. TST, total sleep time; SPT, sleep positional therapy.
+
+
+
+
+   • Sleep positional therapy vs. OAT: Insufficient evidence.                        3.27, I2 = 0%, p = 0.76). This observation was consistent
+   • Sleep positional therapy vs. CPAP: Insufficient evidence.                       in different SPT types, follow-up periods, and OSA severity
+                                                                                     groups (Supplementary Figure 10).
+                                                                                   • Sleep positional therapy vs. CPAP: No difference was observed
+3.5.7 CT90 (% TST with SaO2 < 90%)                                                   between both groups (three studies, MD = 1.57; 95% CI:
+   • Sleep positional therapy vs. Placebo: No difference was                         −3.74, 6.88, I2 = 64.33%, p = 0.05). However, the sensitivity
+     observed between groups (three studies, MD = 4.07;                              analysis showed a greater increase in sleep efficiency in
+     95% CI: −6.93, 15.06). Although heterogeneity was                               favor of SPT after removing the study of Permut et al. (36)
+     considerable (I2 = 93.20%, p = 0.001), the sensitivity                          (MD = 4.23; 95% CI: 1.07, 7.38) (Supplementary Figure 11).
+     analysis was unremarkable.
+   • Sleep positional therapy vs. OAT: Insufficient evidence.
+   • Sleep positional therapy vs. CPAP: No difference was observed               3.6.2 Arousal index
+     between both groups (two studies, MD = 1.62; 95% CI: −1.47,                   • Sleep positional therapy vs. Placebo: No difference was
+     4.72, I2 = 98.31%, p = 0.001).                                                  observed between groups (three studies, MD = −1.74;
+                                                                                     95% CI: −5.35, 1.87). Although heterogeneity was
+                                                                                     considerable (I2 = 99.68%, p = 0.001), the sensitivity
+                                                                                     analysis was unremarkable.
+3.6 Secondary endpoints: respiratory                                               • Sleep positional therapy vs. OAT: The mean reduction in
+indices                                                                              arousal index was significantly greater in the SPT group
+                                                                                     (MD = −7.11; 95% CI: −10.52, −3.71) (Supplementary
+3.6.1 Sleep efficiency                                                               Figure 12). Heterogeneity was considerable (I2 = 99.13%,
+   • Sleep positional therapy vs. Placebo: No difference was noted                   p = 0.001); however, the sensitivity analysis was unremarkable.
+     between both groups (three studies, MD = −3.59; 95% CI:                       • Sleep positional therapy vs. CPAP: SPT exhibited a greater
+     −7.22, 0.05). No heterogeneity was noted (I2 = 0%, p = 0.38).                   reduction in arousal indexed compared to CPAP (three
+   • Sleep positional therapy vs. OAT: No difference was observed                    studies, MD = −3.22; 95% CI: −4.82, −1.61, I2 = 98.51%,
+     between group (five studies, MD = 0.43; 95% CI: −2.41,                          p = 0.001). The sensitivity analysis was unremarkable.
+
+
+Frontiers in Medicine                                                       14                                                                  frontiersin.org
+Gao et al.                                                                                                             10.3389/fmed.2025.1517274
+
+
+
+
+3.6.3 Minimum SaO2                                                               −0.56, 0.35, I2 = 93.58%, p = 0.001). However, after removing
+   • Sleep positional therapy vs. Placebo: No difference was                     the study of Mok et al. (35), SPT exhibited a greater reduction
+     observed between groups (three studies, MD = −2.59;                         in FOSQ than CPAP (MD = −0.32; 95% CI: −0.43, −0.20)
+     95% CI: −6.85, 1.66). Although heterogeneity was                            (Supplementary Figure 15).
+     considerable (I2 = 99.09%, p = 0.001), the sensitivity
+     analysis was unremarkable.
+   • Sleep positional therapy vs. OAT: No change was observed                3.7.2 ESS score
+     between groups (two studies, MD = −0.28; 95% CI: −1.67,                   • Sleep positional therapy vs. Placebo: No difference was
+     1.11, I2 = 10.43%, p = 0.29).                                               observed between groups (four studies, MD = −0.56,
+   • Sleep positional therapy vs. CPAP: No difference was observed               −1.73, 0.60). Heterogeneity was considerable (I2 = 97.45%,
+     between both groups (two studies, MD = 0.64; 95% CI: −5.87,                 p = 0.001), and the sensitivity analysis revealed a significantly
+     7.15; I2 = 98.36%, p = 0.001).                                              greater reduction in ES score in favor of SPT after removing
+                                                                                 the study of Eijsvogel et al. (22) (MD = −1.04; 95% CI: −2.00,
+                                                                                 −0.08) (Supplementary Figure 16).
+3.6.4 Mean SaO2                                                                • Sleep positional therapy vs. OAT: No difference was observed
+   • Sleep positional therapy vs. Placebo: No difference was                     between groups (three studies, MD = 0.89; 95% CI:
+     observed between groups (three studies, MD = −0.58; 95%                     −0.18, 1.96). Heterogeneity was considerable (I2 = 91.40%,
+     CI: −1.27, 0.11). Heterogeneity was moderate (I2 = 70.26%,                  p = 0.001); however, the sensitivity analysis revealed a greater
+     p = 0.05), and the sensitivity analysis revealed a significantly            increase in favor of SPT (MD = 1.58; 95% CI: 1.0, 2.10) after
+     greater reduction in mean SaO2 in favor of SPT after removing               removing the study of de Ruiter et al. (20) (Supplementary
+     the study of Laub et al. (33) (MD = −0.84; 95% CI: −1.33,                   Figure 17).
+     −0.35) (Supplementary Figure 13).                                         • Sleep positional therapy vs. CPAP: SPT exhibited a greater
+   • Sleep positional therapy vs. OAT: No change was observed                    increase compared to CPAP (MD = 0.92; 95% CI: 0.66, 1.19,
+     between groups (two studies, MD = 0.18; 95% CI: −0.80, 1.16,                I2 = 0%, p = 0.55) (Supplementary Figure 18).
+     I2 = 0%, p = 0.35).
+   • Sleep positional therapy vs. CPAP: SPT resulted in greater
+     reduction than CPAP (two studies, MD = −1.64; 95% CI:                   3.7.3 Treatment response
+     −2.33, −0.96, I2 = 92.58%, p = 0.001).                                    • Sleep positional therapy vs. Placebo: No difference in the odds
+                                                                                 of response was observed (two studies, OR = 2.03; 95% CI:
+                                                                                 0.67, 6.13, I2 = 49.31%, p = 0.15).
+3.6.5 ODI score                                                                • Sleep positional therapy vs. OAT: Insufficient evidence.
+   • Sleep positional therapy vs. Placebo: The mean change in ODI              • Sleep positional therapy vs. CPAP: Insufficient evidence.
+     score was significantly higher in the SPT group (three studies,
+     MD = 2.20; 95% CI: 0.68, 3.72). Heterogeneity was moderate
+     (I2 = 70.17%, p = 0.04), and the sensitivity analysis revealed          3.7.4 Complications
+     no difference between both groups after removing the study                • Sleep positional therapy vs. Placebo: Insufficient evidence.
+     of Eijsvogel et al. (22) (MD = 1.92; 95% CI: −1.00, 4.83)                 • Sleep positional therapy vs. OAT: The risk of complications
+     (Supplementary Figure 14).                                                  was significantly lower in the SPT group (two studies,
+   • Sleep positional therapy vs. OAT: No difference was observed                OR = 0.54; 95% CI: 0.31, 0.95) (Supplementary Figure 19). No
+     between groups (four studies, MD = 0.01; 95% CI: −1.06,                     heterogeneity was observed (I2 = 4.80%, p = 0.31).
+     1.09, I2 = 94.67%, p = 0.00). The sensitivity analysis                    • Sleep positional therapy vs. CPAP: SPT exhibited a lower risk
+     was unremarkable.                                                           of complication than CPAP (OR = 0.29; 95% CI: 0.12, 0.72,
+   • Sleep positional therapy vs. CPAP: No difference was observed               I2 = 0%, p = 0.36).
+     between both groups (two studies, MD = −1.42; 95% CI:
+     −8.61, 5.78; I2 = 99.57, p = 0.001).
+                                                                             3.7.5 Persistent apnea
+                                                                               • Sleep positional therapy vs. Placebo: Insufficient evidence.
+                                                                               • Sleep positional therapy vs. OAT: No difference in the risk was
+3.7 Secondary endpoints: clinical                                                observed between groups (two studies, OR = 1.50; 95% CI:
+parameters                                                                       0.30,7.44). No heterogeneity was observed (I2 = 0%, p = 0.63).
+                                                                               • Sleep positional therapy vs. CPAP: Insufficient evidence.
+3.7.1 FOSQ score
+   • Sleep positional therapy vs. Placebo: Insufficient evidence.
+   • SPT vs. OAT: No difference was observed between groups                  3.7.6 Persistent snoring
+     (two studies, MD = 1.06; 95% CI: −0.21, 2.33, I2 = 97.65%,                • Sleep positional therapy vs. Placebo: Insufficient evidence.
+     p = 0.001).                                                               • Sleep positional therapy vs. OAT: No difference in the risk
+   • Sleep positional therapy vs. CPAP: No difference was observed               was observed between groups (OR = 0.95; 95% CI: 0.49, 1.81,
+     between both groups (four studies, MD = −0.10; 95% CI:                      I2 = 0%, p = 0.97).
+
+
+Frontiers in Medicine                                                   15                                                          frontiersin.org
+Gao et al.                                                                                                                 10.3389/fmed.2025.1517274
+
+
+
+
+   • Sleep positional therapy vs. CPAP: Insufficient evidence.                   OAT has been shown to improve AHI by repositioning the
+                                                                                 mandible, thereby preventing airway collapse, particularly in mild
+                                                                                 to moderate OSA. The lack of significant difference between SPT
+3.7.7 Persistent tiredness                                                       and OAT suggests that both modalities may be appropriate for
+   • Sleep positional therapy vs. Placebo: Insufficient evidence.                patients who cannot tolerate CPAP, offering similar efficacy in
+   • Sleep positional therapy vs. OAT: No difference in the risk                 reducing apnea events.
+     was observed between groups (OR = 0.61; 95% CI: 0.30, 1.24,                     However, in the comparison of other sleep-related indices, SPT
+     I2 = 0%, p = 0.60).                                                         showed greater improvements in arousal index than OAT, with a
+   • Sleep positional therapy vs. CPAP: Insufficient evidence.                   significant mean reduction of −7.11 (95% CI: −10.52, −3.71). This
+                                                                                 suggests that SPT may offer better sleep continuity by reducing
+                                                                                 night-time awakenings compared to OAT. This result is clinically
+                                                                                 relevant, as frequent arousals are associated with fragmented
+                                                                                 sleep, reduced daytime alertness, and increased cardiovascular risk
+4 Discussion                                                                     (44, 45). Nevertheless, given the considerable heterogeneity in
+                                                                                 these results, further research is needed to validate the observed
+4.1 Principal findings                                                           advantages of SPT over OAT in this domain.
+                                                                                     Several studies have also compared the efficacy of SPT to OAT.
+    This systematic review and meta-analysis compared the efficacy               A recent meta-analysis by Mohamed et al. (14) demonstrated that
+and safety of SPT with placebo, OAT, and CPAP in patients with                   while both therapies are effective in addressing positional OSA,
+OSA. While SPT offers a less invasive alternative to CPAP, our                   OAT was associated with greater improvements in non-supine AHI
+findings suggest mixed outcomes, particularly when considering                   and ESS scores?. Our findings align with this, as we observed no
+the clinical significance of improvements in key metrics such as                 significant differences in total AHI between SPT and OAT, but
+AHI, sleep architecture, and safety.                                             noted that OAT was superior in improving daytime sleepiness and
+                                                                                 non-supine AHI. Nevertheless, SPT outperformed OAT in terms of
+                                                                                 reducing supine sleep time, which highlights its value for patients
+4.2 Effectiveness of SPT vs. placebo                                             with strong positional OSA tendencies.
+
+     Our analysis indicates that SPT shows a greater reduction
+in AHI during the supine position compared to placebo, with a                    4.4 SPT vs. CPAP
+mean difference of −7.46 (95% CI: −11.42, −3.49), albeit with
+considerable heterogeneity. This outcome aligns with previous                        Our analysis showed that CPAP remains superior to SPT in
+findings that highlight the efficacy of SPT in reducing AHI in                   reducing overall AHI, particularly in non-supine positions. While
+patients with positional OSA, where the supine position exacerbates              SPT did not show significant differences compared to CPAP in most
+airway collapse (42, 43). However, no significant difference was                 key outcomes, sensitivity analyses revealed a greater increase in
+observed in the overall AHI, non-supine AHI, or TST, suggesting                  AHI and a decrease in SaO2 in favor of SPT when the study of Mok
+that the benefit of SPT may be limited to patients with supine-                  et al. (35) was excluded. These findings reinforce CPAP’s status as
+related OSA. Notably, no changes were observed in other secondary                the gold standard for OSA treatment (46), particularly in its ability
+sleep parameters, such as N1 and REM sleep. These results imply                  to consistently lower AHI across various positional settings and
+that SPT’s primary value may lie in its ability to modulate positional           improve oxygenation.
+apnea, without a broader impact on overall sleep quality.                            However, the use of SPT did demonstrate some advantages over
+     The lack of a significant effect on total sleep time and sleep              CPAP in terms of safety and comfort, as evidenced by a significantly
+efficiency in SPT-treated patients compared to placebo raises                    lower risk of device-related complications. The pooled risk ratio
+important questions about its role in improving sleep architecture.              for complications was lower in the SPT group compared to CPAP
+Sleep quality, including the percentage of time spent in deeper sleep            (OR = 0.29; 95% CI: 0.12, 0.72). The lower rate of complications,
+stages such as N3, is crucial for restorative sleep and cognitive                such as dry mouth (28), discomfort (9), and other adverse effects,
+functioning. In our study, SPT did not significantly improve                     highlights the value of SPT for patients who are intolerant to CPAP.
+these parameters, which suggests that while SPT is effective in                  Despite its inferiority in AHI reduction, the relative comfort and
+reducing supine-related apneas, it does not provide the same                     safety of SPT suggest it could be a viable option for patients with
+holistic improvements in sleep structure as CPAP or other more                   mild to moderate OSA who cannot adhere to CPAP therapy.
+aggressive therapies.                                                                Previous meta-analyses have documented the efficacy of CPAP
+                                                                                 over SPT for reducing AHI and improving oxygen saturation
+                                                                                 levels. Ha et al. (10) found that while SPT reduces AHI in the
+4.3 SPT vs. OAT                                                                  supine position, CPAP remains superior in terms of overall efficacy
+                                                                                 and oxygenation?. Our findings are consistent with these results;
+    When compared to OAT, SPT did not demonstrate significant                    although we observed improvements in supine AHI with SPT
+advantages in terms of reducing overall AHI or AHI in the supine                 compared to placebo, CPAP demonstrated greater improvements
+position, although sensitivity analyses indicated a trend favoring               in overall AHI and oxygenation, especially in patients with
+SPT after the exclusion of certain studies [e.g., de Ruiter et al. (20)].        moderate to severe OSA. However, our analysis highlights that
+
+
+Frontiers in Medicine                                                       16                                                          frontiersin.org
+Gao et al.                                                                                                                 10.3389/fmed.2025.1517274
+
+
+
+
+SPT still offers a viable alternative for patients who cannot tolerate         heterogeneity. These findings suggest that differences in baseline
+CPAP, as it significantly reduces the percentage of time spent in the          characteristics and methodological approaches among studies
+supine position, which may benefit those with positional OSA.                  contribute significantly to the observed variability.
+
+
+
+4.5 Impact on sleep architecture and                                           4.7 Study limitations, clinical
+other secondary outcomes                                                       implications, and future research
+    In our evaluation of sleep architecture, SPT demonstrated                       This study has several limitations that warrant consideration.
+inconsistent results. While it was associated with greater                     First, there was substantial heterogeneity in many of the analyses,
+improvements in N3 sleep when compared to placebo and                          particularly when comparing SPT to placebo and OAT, which
+OAT, no significant difference was observed for REM sleep or                   may have influenced the robustness of the results. The variability
+N1 sleep across all comparisons. This finding is particularly                  in study designs, types of SPT devices, and follow-up durations
+relevant because deeper sleep stages, such as N3, are critical for             across included trials contributed to this heterogeneity, limiting the
+physical recovery and overall well-being (47). However, the lack               generalizability of the findings. Second, while sensitivity analyses
+of improvement in REM sleep raises concerns, as REM sleep is                   were performed to mitigate the impact of outliers, the exclusion
+essential for cognitive functioning and emotional regulation. These            of individual studies significantly altered some results, suggesting
+mixed outcomes suggest that while SPT may confer some benefits                 potential biases in the data. Third, the inclusion of a placebo group
+in sleep architecture, its effects are not uniform across all sleep            in which patients remained in a supine position may have artificially
+stages, and further research is needed to understand its long-term             inflated the efficacy of SPT, as the supine position is known to
+implications on sleep quality and patient outcomes.                            worsen OSA. Moreover, trial sequential analysis (TSA) was not
+                                                                               performed in this meta-analysis due to the limited number of
+                                                                               included studies and the lack of key parameters (e.g., anticipated
+4.6 Oxygen saturation and                                                      effect size, event rates, and variance) required for robust TSA.
+respiratory indices                                                            Future studies with larger datasets may enable the application of
+                                                                               TSA to further validate the findings. Despite the limited number
+     No significant differences were found between SPT and                     of included studies, the potential for publication bias cannot be
+placebo, OAT, or CPAP in mean SaO2 or minimum SaO2 . This lack                 ruled out. The absence of small or negative studies in the analysis
+of improvement in oxygen saturation parameters might be due to                 may result in an overestimation of the effect sizes. Although
+the nature of SPT, which primarily targets positional airway collapse          formal tests for publication bias (e.g., Egger’s test) were not feasible
+without directly addressing hypoxic events (32). In contrast, CPAP             due to insufficient study numbers, visual inspection of funnel
+has consistently been shown to improve oxygenation, further                    plots (where applicable) did not indicate substantial asymmetry.
+emphasizing its superiority in managing OSA-related hypoxemia.                 Finally, the small sample sizes in some subgroup analyses and
+Interestingly, the ODI score was significantly higher in the SPT               the limited number of high-quality trials available for certain
+group compared to placebo, suggesting a potential worsening of                 outcomes (e.g., TST in N1, N2, and REM) reduce the power to draw
+intermittent hypoxia in some patients. Although this result requires           definitive conclusions. Further large-scale randomized controlled
+further investigation, it may indicate that SPT is not suitable for all        trials are needed to validate these findings and provide a more
+OSA phenotypes, particularly those with severe desaturations.                  comprehensive understanding of SPT’s role in OSA management.
+     The role of newer generation SPT devices, such as those                        The findings of this meta-analysis provide valuable insights
+employing vibrational alarms, has been investigated in several                 for clinical practice. The superior efficacy of CPAP in improving
+recent reviews. Ravesloot et al. (13) concluded that these devices             key clinical outcomes such as the apnea-hypopnea index and
+are highly effective in reducing AHI and percentage of supine sleep,           ESS scores underscores its role as the gold standard treatment
+with good short-term compliance, though long-term adherence                    for OSA. However, the comparable benefits of OAT and SPT
+remains an area of concern?. In our analysis, the vibrational SPT              in specific secondary outcomes highlight their potential as
+devices like the NightBalance and Zzoma devices demonstrated                   alternative options, particularly for patients who are intolerant to
+greater reductions in supine AHI compared to older methods,                    CPAP or have positional OSA. These results support a patient-
+such as tennis ball techniques. However, compliance remains an                 centered approach, where the choice of therapy is guided by
+important consideration. The short-term nature of most studies                 individual preferences, severity of OSA, and specific clinical
+included in our review limits our ability to draw strong conclusions           characteristics. Moreover, the association between OSA treatment
+about long-term adherence, a critical factor for the sustained                 and reductions in oxidative stress and systemic inflammation
+success of any therapeutic modality.                                           further emphasizes the importance of timely intervention to
+     The observed heterogeneity across studies was attributed to               mitigate the risk of comorbidities such as cardiovascular and
+variations in study populations (e.g., severity of OSA, comorbid               metabolic disorders. Integrating these findings into routine practice
+conditions), intervention protocols (e.g., differences in CPAP                 may enhance patient outcomes and reduce the long-term burden of
+settings, oral appliance designs, or sleep positional therapy                  OSA-related complications.
+approaches), and outcome measures. Subgroup analyses based                          Future research should focus on addressing several important
+on OSA severity (Supplementary Figures 1, 2, 8, 10) and                        gaps identified in this meta-analysis. Larger, multi-center
+sensitivity analyses were conducted to explore potential sources of            randomized controlled trials are essential to validate findings,
+
+
+Frontiers in Medicine                                                     17                                                             frontiersin.org
+Gao et al.                                                                                                                                              10.3389/fmed.2025.1517274
+
+
+
+
+particularly for interventions such as oral appliance therapy                                    Funding
+and sleep positional therapy, where evidence remains limited.
+Investigating the long-term effects of OSA treatments on oxidative                                   The author(s) declare that no financial support was received for
+stress, systemic inflammation, and related comorbidities will                                    the research, authorship, and/or publication of this article.
+provide a more comprehensive understanding of therapeutic
+impacts. Additionally, exploring the role of novel biomarkers and
+advanced diagnostic tools may facilitate personalized treatment
+strategies, optimizing outcomes for diverse patient populations.                                 Conflict of interest
+Economic evaluations of different treatment modalities will
+also be valuable to inform healthcare policies and ensure                                            The authors declare that the research was conducted in the
+equitable access to effective care. By addressing these gaps, future                             absence of any commercial or financial relationships that could be
+studies can strengthen the evidence base and enhance clinical                                    construed as a potential conflict of interest.
+management of OSA.
+    SPT provides a safe and viable alternative to CPAP and
+OAT for managing OSA, particularly in patients with positional
+OSA or those who are intolerant to CPAP. However, it remains                                     Generative AI statement
+inferior to CPAP in terms of reducing overall AHI and improving
+oxygenation, and its impact on sleep architecture is mixed.                                          The authors declare that no Generative AI was used in the
+Clinicians should consider patient preferences, OSA severity, and                                creation of this manuscript.
+positional dependency when recommending SPT as a treatment
+option. Further research is required to optimize its use and to
+better understand the patient populations that would benefit most                                Publisher’s note
+from this therapy.
+                                                                                                     All claims expressed in this article are solely those of the
+                                                                                                 authors and do not necessarily represent those of their affiliated
+Data availability statement                                                                      organizations, or those of the publisher, the editors and the
+                                                                                                 reviewers. Any product that may be evaluated in this article, or
+   The raw data supporting the conclusions of this article will be                               claim that may be made by its manufacturer, is not guaranteed or
+made available by the authors, without undue reservation.
+                                                                                                 endorsed by the publisher.
+
+
+Author contributions
+                                                                                                 Supplementary material
+    YG: Conceptualization, Data curation, Formal analysis,
+Supervision, Writing – original draft. SZ: Methodology, Writing –                                    The Supplementary Material for this article can be found
+review and editing. WL: Methodology, Writing – review and                                        online at: https://www.frontiersin.org/articles/10.3389/fmed.2025.
+editing. YL: Methodology, Writing – review and editing.                                          1517274/full#supplementary-material
+
+
+
+
+References
+  1. Al Lawati N, Patel S, Ayas N. Epidemiology, risk factors, and consequences                    8. Oksenberg A, Gadoth N, Töyräs J, Leppänen T. Prevalence and characteristics of
+of obstructive sleep apnea and short sleep duration. Prog Cardiovasc Dis. (2009)                 positional obstructive sleep Apnea (Posa) in patients with severe osa. Sleep Breathing.
+51(4):285–93.                                                                                    (2020) 24:551–9.
+  2. Gottlieb D, Punjabi N, Mehra R, Patel S, Quan S, Babineau D, et al.                          9. Lee K, Choi J. Positional therapy for obstructive sleep Apnea: Therapeutic
+Cpap versus oxygen in obstructive sleep Apnea. N Engl J Med. (2014)                              modalities and clinical effects. Sleep Med Res. (2023) 14(3):129–34.
+370(24):2276–85.
+                                                                                                   10. Ha S, Hirai H, Tsoi K. Comparison of positional therapy versus continuous
+  3. Sutherland K, Phillips C, Cistulli P. Efficacy versus effectiveness in the treatment        positive airway pressure in patients with positional obstructive sleep Apnea: A meta-
+of obstructive sleep Apnea: Cpap and oral appliances. J Dent Sleep Med. (2015)                   analysis of randomized trials. Sleep Med Rev. (2014) 18(1):19–24.
+2(4):175–81.
+                                                                                                   11. Lee E, Choi J, Lee B, Jung J, Seon S, Lee S, et al. Effect of positional therapy on
+  4. Krieger J, Kurtz D, Petiau C, Sforza E, Trautmann D. Long-term compliance                   patients with obstructive sleep Apnea: Meta-analysis. J Rhinol. (2017) 24(2):94–103.
+with cpap therapy in obstructive sleep Apnea patients and in snorers. Sleep (1996)
+                                                                                                   12. Ravesloot M, Van Maanen J, Dun L, De Vries N. The undervalued potential
+19(Suppl_9):S136–43.
+                                                                                                 of positional therapy in position-dependent snoring and obstructive sleep Apnea—a
+ 5. Yetkin O, Kunter E, Gunen H. Cpap Compliance in patients with obstructive sleep              review of the literature. Sleep Breathing. (2013) 17:39–49.
+Apnea syndrome. Sleep Breathing. (2008) 12:365–7.
+                                                                                                    13. Ravesloot M, White D, Heinzer R, Oksenberg A, Pepin J. Efficacy of the new
+  6. Lavalle S, Masiello E, Iannella G, Magliulo G, Pace A, Lechien J, et al. Unraveling         generation of devices for positional therapy for patients with positional obstructive
+the complexities of oxidative stress and inflammation biomarkers in obstructive sleep            sleep Apnea: A systematic review of the literature and meta-analysis. J Clin Sleep Med.
+Apnea syndrome: A comprehensive review. Life (2024) 14(4):425.                                   (2017) 13(6):813–24.
+ 7. Srijithesh P, Aghoram R, Goel A, Dhanya J. Positional therapy for obstructive sleep            14. Mohamed A, Mohammed O, Liu S, Al-Balaa M, Al-Warafi L, Peng S, et al. Oral
+Apnoea. Cochrane Database Syst Rev. (2019) 5:CD010990.                                           appliance therapy Vs. positional therapy for managing positional obstructive sleep
+
+
+
+
+Frontiers in Medicine                                                                       18                                                                          frontiersin.org
+Gao et al.                                                                                                                                              10.3389/fmed.2025.1517274
+
+
+
+
+Apnea; A systematic review and meta-analysis of randomized control trials. BMC Oral                31. Jackson M, Collins A, Berlowitz D, Howard M, O’Donoghue F, Barnes M.
+Health. (2024) 24(1):666. doi: 10.1186/s12903-024-04277-8                                        Efficacy of sleep position modification to treat positional obstructive sleep Apnea. Sleep
+                                                                                                 Med. (2015) 16(4):545–52.
+  15. Page M, McKenzie J, Bossuyt P, Boutron I, Hoffmann T, Mulrow C, et al. The
+Prisma 2020 statement: An updated guideline for reporting systematic reviews. BMJ                   32. Jokic R, Klimaszewski A, Crossley M, Sridhar G, Fitzpatrick M. Positional
+(2021) 372:n71.                                                                                  treatment Vs Continuous positive airway pressure in patients with positional
+                                                                                                 obstructive sleep Apnea syndrome. Chest (1999) 115(3):771–81.
+  16. Muka T, Glisic M, Milic J, Verhoog S, Bohlius J, Bramer W, et al. A 24-Step
+guide on how to design, conduct, and successfully publish a systematic review and                  33. Laub R, Tønnesen P, Jennum PJA. Sleep position trainer for
+meta-analysis in medical research. Eur J Epidemiol. (2020) 35:49–60.                             positional sleep Apnea: A randomized. Controlled Trial. J Sleep Res. (2017)
+                                                                                                 26(5):641–50.
+  17. Abdelaal A, Eltaras M, Katamesh B, Serhan H, Farahat R, Badr H, et al. The
+prevalence and presentation patterns of microcystic macular Oedema: A systematic                   34. Lukachan G, Yadollahi A, Auckley D, Gavrilovic B, Matelski J, Chung F, et al. The
+review and meta-analysis of 2128 glaucomatous eyes. Eye (2023) 37(16):3322–33.                   impact of semi-upright position on severity of sleep disordered breathing in patients
+                                                                                                 with obstructive sleep Apnea: A two-arm, prospective, randomized controlled trial.
+  18. Amir-Behghadami M, Janati A. Population, intervention, comparison, outcomes
+                                                                                                 BMC Anesthesiol. (2023) 23(1):236.
+and study (Picos) Design as a framework to formulate eligibility criteria in systematic
+reviews. Emerg Med J. (2020) 37:387.                                                               35. Mok E, Greenough G, Pollack C. Untreated obstructive sleep Apnea is associated
+                                                                                                 with increased hospitalization from influenza infection. J Clin Sleep Med. (2020)
+   19. Eldridge S, Campbell M, Campbell M, Dahota A, Giraudeau B, Higgins J,
+                                                                                                 16(12):2003–7.
+et al. Revised cochrane risk of bias tool for randomized trials (Rob 2.0): Additional
+considerations for cluster-randomized trials. Cochrane Methods Cochrane Database                   36. Permut I, Diaz-Abad M, Chatila W, Crocetti J, Gaughan J, D’Alonzo G, et al.
+Syst Rev. (2016) 10(Suppl 1):37–44.                                                              Comparison of positional therapy to Cpap in patients with positional obstructive sleep
+                                                                                                 Apnea. J Clin Sleep Med. (2010) 6(3):238–43.
+   20. de Ruiter M, Benoist L, De Vries N, de Lange J. Durability of treatment effects
+of the sleep position trainer versus oral appliance therapy in positional Osa: 12-month            37. Skinner M, Kingshott R, Filsell S, Taylor D. Efficacy of the ‘Tennis ball
+follow-up of a randomized controlled trial. Sleep Breathing. (2018) 22:441–50.                   Technique’versus Ncpap in the Management of position-dependent obstructive sleep
+                                                                                                 Apnoea syndrome. Respirology (2008) 13(5):708–15.
+ 21. Dieltjens M, Vroegop A, Verbruggen A, Wouters K, Willemen M, De Backer
+W, et al. A promising concept of combination therapy for positional obstructive sleep              38. Skinner M, Kingshott R, Jones D, Homan S, Taylor D. Elevated posture
+Apnea. Sleep Breathing. (2015) 19:637–44.                                                        for the management of obstructive sleep Apnea. Sleep Breathing. (2004)
+                                                                                                 8(04):193–200.
+  22. Eijsvogel M, Ubbink R, Dekker J, Oppersma E, de Jongh F, van der Palen J, et al.
+Sleep position trainer versus tennis ball technique in positional obstructive sleep Apnea          39. Stavrou V, Koutedakis Y, Astara K, Vavougios G, Papayianni E, Stavrou I, et al.
+syndrome. J Clin Sleep Med. (2015) 11(2):139–47.                                                 Memory foam pillow as an intervention in obstructive sleep Apnea syndrome: A
+                                                                                                 preliminary randomized study. Front Med. (2022) 9:842224. doi: 10.3389/fmed.2022.
+  23. Svatikova A, Chervin R, Wing J, Sanchez B, Migda E, Brown D. Positional
+                                                                                                 842224
+therapy in ischemic stroke patients with obstructive sleep Apnea. Sleep Med. (2011)
+12(3):262–6.                                                                                        40. Suzuki M, Funayama Y, Homma M, Shibasaki K, Furukawa T, Yosizawa T. Effect
+                                                                                                 of position therapy and oral devices on sleep parameters in patients with obstructive
+  24. Sedgwick P. Meta-analyses: Heterogeneity and subgroup analysis. Bmj (2013)
+                                                                                                 sleep Apnea. Eur Arch Oto-Rhino-Laryngol. (2021) 278:4545–50.
+346:f4040.
+                                                                                                   41. Zaremba S, Mueller N, Heisig A, Shin C, Jung S, Leffert L, et al. Elevated upper
+  25. Thompson S, Higgins J. How should meta-regression analyses be undertaken
+                                                                                                 body position improves pregnancy-related osa without impairing sleep quality or sleep
+and interpreted? Stat Med. (2002) 21(11):1559–73.
+                                                                                                 architecture early after delivery. Chest. (2015) 148(4):936–44.
+  26. Cumpston M, Li T, Page M, Chandler J, Welch V, Higgins J, et al.
+                                                                                                   42. De Vries G, Hoekema A, Doff M, Kerstjens H, Meijer P, van der Hoeven J, et al.
+Updated guidance for trusted systematic reviews: A new edition of the cochrane
+                                                                                                 Usage of positional therapy in adults with obstructive sleep Apnea. J Clin Sleep Med.
+handbook for systematic reviews of interventions. Cochrane Database Syst Rev. (2019)
+                                                                                                 (2015) 11(2):131–7.
+2019(10):ED000142.
+                                                                                                   43. Yingjuan M, Siang W, Alvin T, Poh H. Positional therapy for positional
+  27. Armas L, Ingles S, Vaca R, Cordero-Guevara J, Carro J, Ullate J, et al. New
+                                                                                                 obstructive sleep Apnea. Sleep Med Clin. (2019) 14(1):119–33.
+forehead device in positional obstructive sleep Apnoea: A randomised clinical trial.
+Thorax (2021) 76(9):930–8.                                                                         44. Dorasamy P. Obstructive sleep Apnea and cardiovascular risk. Therapeutics Clin
+                                                                                                 Risk Manag. (2007) 3(6):1105–11.
+  28. Benoist L, Verhagen M, Torensma B, van Maanen J, de Vries N. Positional
+therapy in patients with residual positional obstructive sleep Apnea after upper airway            45. Parish JM, Somers VK. Obstructive sleep Apnea and cardiovascular disease. in
+surgery. Sleep Breathing. (2017) 21:279–88.                                                      Proceedings of the Mayo Clinic Proceedings. Amsterdam: Elsevier (2004).
+  29. Berry R, Uhles M, Abaluck B, Winslow D, Schweitzer P, Gaskins RA, et al.                      46. Stuck B, Leitzbach S, Maurer J. Effects of continuous positive airway pressure
+Nightbalance sleep position treatment device versus auto-adjusting positive airway               on apnea–hypopnea index in obstructive sleep Apnea based on long-term compliance.
+pressure for treatment of positional obstructive sleep Apnea. J Clin Sleep Med. (2019)           Sleep Breathing. (2012) 16:467–71.
+15(7):947–56.
+                                                                                                   47. Shattuck N, Matsangas P, Mysliwiec V, Creamer J. The role of sleep in
+  30. Huang W, Li C, Zou J, Wang X, Zhang J, Guan J, et al. Effects of the combination           human performance and well-being. In: Matthews MD, Schnye DM editors. Human
+of novel eye mask sleep position therapy device and oral appliance on positional Osa:            Performance Optimization: The Science and Ethics of Enhancing Human Capabilities.
+A multi-arm, parallel-group randomized controlled trial. Sleep Med. (2023) 102:52–63.            Oxford: Oxford University Press (2019). p. 200–33.
+
+
+
+
+Frontiers in Medicine                                                                       19                                                                           frontiersin.org
+

@@ -1,0 +1,852 @@
+SYSTEMATIC REVIEW & META-ANALYSIS
+
+
+
+Efﬁcacy and adherence of different
+mandibular advancement devices designs
+in treatment of obstructive sleep apnea: A
+systematic review and meta-analysis
+Yanlong Chen,a Jingjing Zhang,a,b Xuemei Gao,c and Fernanda R. Almeidaa
+Vancouver, British Columbia, Canada, and Beijing, China
+
+
+      Introduction: This systematic review and meta-analysis aimed to evaluate the efﬁcacy and adherence of
+      different mandibular advancement devices (MADs) designed to treat obstructive sleep apnea, focusing on
+      titratable vs nontitratable and custom-made vs ready-made devices. Methods: Registered with the International
+      Register of Systematic Review (PROSPERO CRD42024557402), a comprehensive literature search was
+      conducted across Ovid MEDLINE, Ovid Embase, and Web of Science up to June 2024. Randomized controlled
+      trials and nonrandomized studies comparing MAD designs were included. The primary outcome was apnea-
+      hypopnea index (AHI) reduction. Secondary outcomes included improvements in Epworth Sleepiness Scale
+      scores, adherence rates, and patient preference. The risk of bias was assessed using the risk-of-bias tool for
+      randomized trials, and the Risk-Of-Bias In Nonrandomized Studies of Intervention tools. Meta-analyses were
+      performed with weighted mean differences (WMD) and 95% conﬁdence intervals (CI). Results: A total of 22
+      studies were included, comprising 15 randomized controlled trials and 7 nonrandomized studies. Meta-
+      analysis showed signiﬁcant AHI reduction with both titratable and nontitratable MADs, with no signiﬁcant
+      difference between groups (WMD: 1.16; 95% CI, 1.29 to 3.61; P 5 0.35). Custom-made MADs
+      demonstrated a marginally signiﬁcantly greater reduction in AHI compared with ready-made MADs (WMD:
+      1.51; 95% CI, 0.08 to 3.11; P 5 0.06). Custom-made MADs also showed higher adherence rates and
+      longer wearing times (WMD: 1.19; 95% CI, 0.65-1.73; P \0.0001) and higher adherence rates.
+      Conclusions: Both titratable and nontitratable MADs, as well as custom-made and ready-made MADs,
+      effectively treated obstructive sleep apnea, with no clear preference for one design over another. Custom-
+      made MADs, however, generally had fewer side effects and offered potential adherence advantages. Further
+      high-quality studies with longer follow-ups are recommended. (Am J Orthod Dentofacial Orthop
+      2025;167:635-47)
+
+
+
+
+a
+  Division of Orthodontics, Department of Oral Health Sciences, Faculty of         INTRODUCTION
+
+
+
+                                                                                   O
+Dentistry, University of British Columbia, Vancouver, British Columbia, Canada.
+b
+  Department of Pediatric Dentistry, Peking University School and Hospital of              bstructive sleep apnea (OSA) is characterized by
+Stomatology, Beijing, China.                                                               periodic and repetitive, partial or complete
+c
+  Department of Orthodontics, Peking University School and Hospital of Stoma-
+tology, Beijing, China.
+                                                                                           collapse of the upper airway during sleep. Pa-
+Yanlong Chen and Jingjing Zhang contributed equally to this article.               tients with OSA experience reduced (hypopnea) or ab-
+All authors have completed and submitted the ICMJE Form for Disclosure of Po-      sent (apnea) airﬂow, associated with cortical arousal
+tential Conﬂicts of Interest, and none were reported.
+Address correspondence to: Xuemei Gao, Department of Orthodontics, Peking
+                                                                                   and blood desaturation.1 OSA is the most common
+University School and Hospital of Stomatology, No. 22 Zhongguancun South           form of sleep-disordered breathing,2 with a global prev-
+Ave, Haidian, Beijing, China 100081; e-mail, xmgao@263.net or Fernanda R. Al-      alence of approximately 22.6%.3 OSA signiﬁcantly im-
+meida, Division of Orthodontics, Department of Oral Health Sciences, Faculty of
+Dentistry, University of British Columbia, 2199 Wesbrook Mall, Vancouver,
+                                                                                   pacts quality of life, work performance, and increases
+British Columbia, Canada V6T 1Z3; e-mail, falmeida@dentistry.ubc.ca.               the risk of motor vehicle accidents.4 Long-term out-
+Submitted, August 2024; revised and accepted, January 2025.                        comes of OSA include cognitive dysfunction, hyperten-
+0889-5406/$36.00
+Ó 2025 by the American Association of Orthodontists. All rights are reserved,
+                                                                                   sion, stroke, metabolic disease, and increased
+including those for text and data mining, AI training, and similar technologies.   cardiovascular morbidity and mortality.5-7
+https://doi.org/10.1016/j.ajodo.2025.01.006
+
+                                                                                                                                       635
+636                                                                                                              Chen et al
+
+
+
+
+         Fig 1. Different designs of MADs: A, Titratable vs nontitratable MADs. (From left to right) Titratable,
+         bibloc device (Thornton Adjustable Positioner, Airway Management, Inc., Carrollton, Tex); nontitrat-
+         able, monobloc device fabricated in dental labs; B, Custom-made vs ready-made MADs. (From left
+         to right) Custom-made device (SomnoDent Flex, SomnoMed Canada, Leamington, ON, Canada);
+         ready-made, “boil and bite” device (BluePro, Newsom, Paris, France).
+
+    The gold standard for OSA treatment has been                interconnected, allowing for easy protrusive changes.19
+continuous positive airway pressure,8 which is highly           For nontitratable devices, the upper and lower parts are
+effective but has low adherence rates, with approxi-            statically connected,19 which is easier to fabricate so
+mately 50% of patients discontinuing treatment within           that with great simplicity, economic efﬁciency, and
+the ﬁrst year.9 According to the clinical practice guide-       portability.20,21
+lines, the management of OSA patients by oral appli-                Another classiﬁcation of MADs’ design is custom-made
+ances (OAs) is accepted as an appropriate treatment.10          or ready-made (Fig 1, B).22 Custom-made appliances are
+OAs have been effective for approximately 50%-70%               fabricated in dental laboratories based on dental impres-
+of OSA patients with greater adherence, improving               sions. These appliances are more expensive and need to
+both OSA symptoms and a variety of physiological and            be ﬁtted and adjusted by dentists. Ready-made appliances,
+behavioral outcomes.11 When considering treatment               which are also called prefabricated or “boil and bite” appli-
+effectiveness, which is combined with both efﬁcacy              ances, are usually sold over-the-counter or made chairside
+and adherence, the result of OA and continuous positive         in the dental ofﬁce. Most of these appliances are made of
+airway pressure is about the same.12                            thermoplastic materials and can be ﬁtted by dentists, oto-
+    A variety of OAs are available, broadly classiﬁed as        laryngologists, or even patients.
+tongue-retaining devices, soft palate-lifting devices,              Thus, this systematic review aims to assess which type
+and mandibular advancement devices (MADs).13 Among              or design of MADs has higher efﬁcacy and adherence in
+all, MADs are the most commonly prescribed devices in           the treatment of OSA, providing clinicians with
+clinical practice.13,14 The mechanism MADs is assumed           evidence-based practice, generating recommendations
+by enlarging the cross-sectional dimensions of the upper        for treatment planning, and facilitating clinical deci-
+airway by mandibular advancement, which improves up-            sion-making.
+per airway patency.15                                               We hypothesized that (1) titratable, custom-made
+    Previous studies found that different design features       MADs are more effective in treating OSA than the ready-
+of OAs may impact treatment success, adherence, and             made, nontitratable ones, and (2) the adherence is higher
+side effects.16,17 There are 2 major designs of MADs:           for titratable, custom-made MADs, demonstrated by
+titratable devices and nontitratable devices (Fig 1, A).        higher adherence rate and longer wearing times.
+For titratable devices, the titration process is the gradual
+forward positioning of the mandible until the optimal           MATERIAL AND METHODS
+mandibular position is reached.18 Titratable MADs have             This systematic review and meta-analysis was con-
+separate upper and lower parts that are dynamically             ducted according to the Preferred Reporting Items for
+
+
+
+June 2025  Vol 167  Issue 6                           American Journal of Orthodontics and Dentofacial Orthopedics
+Chen et al                                                                                                         637
+
+
+
+Systematic Reviews and Meta-Analyses statement (2020        the Covidence platform (Veritas Health Innovation, Mel-
+version).23 The protocol has been registered with the In-   bourne, Australia; Available at www.covidence.org) for
+ternational Register of Systematic Review (PROSPERO         team collaboration. Two investigators (Y.C. and J.Z.)
+CRD42024557402).                                            independently assessed studies based on their titles
+                                                            and abstracts. If a study could not be clearly determined
+Literature search                                           from the title and abstract, the full text was reviewed.
+   The literature search was performed on April 1, 2023,    Any disagreement was resolved through discussion and
+and then updated on June 1, 2024, which was in 3            consensus or by reaching out to a third reviewer (F.R.A.).
+stages:
+                                                            Quality assessment
+1.   Preliminary search: An initial search of Ovid MED-
+                                                                Two investigators (Y.C. and J.Z.) independently con-
+     LINE to identify relevant keywords and terms,
+                                                            ducted the quality assessment of all included studies,
+     including “obstructive sleep apnea,” “oral appli-
+                                                            resolving disagreements through discussion and
+     ance,” “mandibular advancement device,” “efﬁcacy,”
+                                                            consensus or by consulting a third reviewer (F.R.A.).
+     or “effectiveness,” and “adherence” or “compliance.”
+                                                            Because of the diversity in study designs, 2 different
+2.   Comprehensive search: Searches in Ovid MEDLINE,
+                                                            tools were used for quality assessment.
+     Ovid Embase and Web of Science. Articles indexed
+                                                                The Cochrane risk-of-bias tool for randomized trials
+     in the databases with no restrictions in relation to
+                                                            was applied to assess bias across 5 domains: randomiza-
+     the date of publication and language of the article
+                                                            tion process, deviations from intended interventions,
+     were searched. The search strategy used is shown
+                                                            missing outcome data, measurement of the outcome,
+     in the Supplementary Table.
+                                                            and selection of the reported result. Each domain was
+3.   Gray literature, reference, and bibliography search:
+                                                            assessed by a series of signaling questions and graded
+     Manual searching of the reference lists of previous
+                                                            to low, some concerns, or high risk of bias.24 The overall
+     systematic reviews was also conducted. An addi-
+                                                            risk of bias was determined accordingly.
+     tional gray literature search was conducted using
+                                                                For nonrandomized studies, the Risk of Bias in Non-
+     Google Scholar in case of any other relevant pub-
+                                                            randomized Studies of Interventions was applied.25 Bias
+     lished work. The primary or corresponding authors
+                                                            was assessed across 7 domains: confounding, selection
+     were contacted if needed.
+                                                            of participants, classiﬁcation of interventions, deviation
+                                                            from intended interventions, missing data, measure-
+Study selection                                             ment of outcomes, and selection of the reported results.
+   The following inclusion criteria were applied to         The risk of bias was graded as low, moderate, serious,
+determine study eligibility:                                critical, or no information. Similarly, the overall risk of
+                                                            bias was determined accordingly.25
+1.   Population: Adults with OSA and undergoing treat-
+     ment with MADs.                                        Data collection and synthesis
+2.   Intervention: Different designs of MADs can
+                                                                The studies were categorized into 2 comparison
+     advance the mandible. Other appliances with
+                                                            groups based on MAD design: titratable vs nontitratable
+     different mechanisms, such as tongue stabilizers,
+                                                            MADs and custom-made vs ready-made. Study charac-
+     were excluded.
+                                                            teristics, including design, participants (gender, age,
+3.   Outcome: Primary treatment outcome was deﬁned
+                                                            and body mass index), type of MADs, follow-up period,
+     as the reduction of apnea-hypopnea index (AHI)
+                                                            AHI (baseline, follow-up, and differences), ESS (baseline,
+     by MADs. The secondary treatment outcome was
+                                                            follow-up, and differences), and adherence data were
+     the improvement of daytime sleepiness, indicated
+                                                            independently extracted by 2 investigators (Y.C. and
+     by the Epworth Sleepiness Scale (ESS). Adherence
+                                                            J.Z.). All data were managed using the Covidence plat-
+     including both subjective (measured by question-
+                                                            form to facilitate collaboration. When necessary, corre-
+     naires) and objective (recorded by chips embedded
+                                                            sponding authors were contacted to obtain missing
+     into the MADs) data and patient preference were
+                                                            information or conﬁrm extracted data. The results
+     also included.
+                                                            were synthesized both quantitatively and narratively.
+4.   Study design: Randomized and nonrandomized
+     controlled trials, nonrandomized studies.
+                                                            Meta-analysis
+   The study selection process is shown in Figure 2.           A meta-analysis was performed using Review Man-
+Studies from the literature search will be imported to      ager (version 5.4, The Cochrane Collaboration, 2020)
+
+
+
+American Journal of Orthodontics and Dentofacial Orthopedics                         June 2025  Vol 167  Issue 6
+638                                                                                                                            Chen et al
+
+
+
+                 Records identified through database searching
+                                   (n = 5139)                       Additional records acquired from other sources
+                 1,599 MEDLINE
+                                                                                       (n = 124)
+Identification
+
+
+
+
+                 2,240 Embase
+                 1,300 Web of Science
+
+
+
+                                                      Duplicates removed
+                                                         (n = 2,151)
+Screening
+
+
+
+
+                                                       Records screened                       Excluded during title & abstract screening
+                                                         (n = 2,988)                                        (n = 2,914)
+
+                                                                                                  Excluded during full-text screening
+                                                                                                              (n = 52)
+Eligibility
+
+
+
+
+                                                                                              44 Outcomes not relevant
+                                            Full-text studies assessed for eligibility        1 Tongue retentive devices
+                                                            (n = 74)                          2 Different OA design, but in same category
+                                                                                              2 Case study or case report
+                                                                                              1 Conference abstract only, data unavailable
+                                                                                              2 Same study published in different journals
+                                              Study included in systematic review
+                                                           (n = 22)
+Included
+
+
+
+
+                                                Study included in meta-analysis
+                                                           (n = 17)
+
+                                        Fig 2. Flow chart demonstrating the study selection process.
+
+for studies with quantitative measurements on MAD                            Embase, 1,300 from Web of Science Core Collection,
+treatment efﬁcacy and adherence. Differences in AHI,                         and 124 from other sources. After removing duplicates,
+ESS, and adherence data were analyzed using forest plots                     2,988 records were screened by titles and abstracts. Of
+with weighted mean differences and 95% conﬁdence in-                         these, 74 records remained and were eligible for full-
+tervals (CIs) between titratable and nontitratable,                          text screening. Subsequently, 52 records were excluded,
+custom-made, and ready-made appliances. Studies                              leaving 22 studies included in the qualitative synthesis.
+were weighted using the inverse variance method and                          All included studies consisted of 15 RCTs and 7 non-
+tested for heterogeneity using chi-square and I2 statistics.                 randomized studies and were summarized in
+A ﬁxed-effects model was used for I2 \25%, and a                             Supplementary Tables I26-39 and II.40-47 A total of 17
+random-effects model for I2 .75%. The risk of publica-                       of the 22 studies were selected to perform a meta-
+tion bias was assessed by generating funnel plots for out-                   analysis and categorized into 2 subgroups: titratable vs
+comes that have .5 eligible studies by using the standard                    nontitratable MADs and custom-made vs ready-made
+error and the difference of mean values.                                     MADs.
+    Subgroup analyses were conducted to explore the                              Funnel plots of the standard errors of AHI and ESS
+sources of heterogeneity, including (1) study design:                        decrease are shown in Supplementary Figure 1, A, B,
+randomized controlled trials (RCTs) vs nonrandomized                         C, and D. All 4 funnel plots were considered symmetrical,
+studies, (2) risk of bias: low, moderate, or high, and (3)                   indicating a limited or low risk of publication bias.
+titration process: with or without adjustments to
+protrusions.                                                                 Critical appraisal results
+                                                                                 The risk of bias assessment was visualized in Figure
+RESULTS                                                                      3, A and B. For RCTs, all studies demonstrated a low
+   The literature search generated 5,263 records in total,                   risk       of           bias35,37,40,44,47      or       some
+                                                                                       26,29,31,32,34,38,39,42,43,46
+including 1,599 from Ovid MEDLINE, 2,240 from Ovid                           concerns.                               One major concern was
+
+
+
+
+June 2025  Vol 167  Issue 6                                     American Journal of Orthodontics and Dentofacial Orthopedics
+Chen et al                                                                                                         639
+
+
+
+
+        Fig 3. Quality assessment results: A, Risk-of-bias tool for randomized trials tool was applied to assess
+        RCTs; B, Risk of Bias In Nonrandomized Studies of Interventions tool was applied to assess non-
+        randomized studies.
+
+
+American Journal of Orthodontics and Dentofacial Orthopedics                           June 2025  Vol 167  Issue 6
+640                                                                                                              Chen et al
+
+
+
+the bias because of deviations from the intended interven-       to a new position based on subjective symptoms, pa-
+tion. Because of the nature of MAD treatment, although           tients’ preference, and TMJ side effects.26,33,35,36 Seven
+most studies emphasized the blinding of outcome asses-           studies (6 RCTs and 1 nonrandomized study) did not
+sors, it was nearly impossible to mask the patients of the       change the mandibular protrusion within the study
+MADs they were wearing. In addition, most studies did            process.30-32,34,37-39
+not provide analysis to estimate the effect of assignment            Most studies set the initial mandibular protrusion for
+to different interventions. Another concern arose from           both titratable and nontitratable MADs as 60%-80% of
+the randomization process because some studies did not           the maximum protrusion.26,30,32-38 Lettieri et al.27 and
+apply appropriate allocation concealment during random-          Sari and Menillo28 both conducted at-home titration for
+ization. A low risk of bias was assessed in relation to data     titratable MADs, in which patients were instructed to start
+availability, outcome measurements and results reporting         advancing from the normal bite.27,28 Zhou and Liu29 fabri-
+in all the RCTs.                                                 cated a custom-made temporary titration device and per-
+    For nonrandomized studies, 4 studies demonstrated            formed a one-night titration based on a real-time PSG.
+moderate risk of bias,28,30,41,45 and 3 studies are consid-      Advancement was performed by increments of 0.2 mm/s
+ered to have a serious risk of bias.27,33,36 All of the          until the maximum AHI reduction was achieved.29 Only
+studies were based on retrospective data and did not             1 study by Geoghegan et al.31 set both titratable and non-
+apply randomization or allocation concealment, raising           titratable MADs to the maximum mandibular protrusion at
+concerns about confounding factors and participant se-           the beginning.31 One study by Abd-Ellah et al.39 used 50%
+lection. In 3 studies with serious risk of bias,27,33,36 the     of the maximum mandibular protrusion for 3 months and
+assignment process was not well-deﬁned and could                 then 75% for another 3 months.39
+have been inﬂuenced by the assessors’ knowledge, lead-
+ing to serious risk of bias in the classiﬁcation of interven-    Primary treatment outcome
+tions. All 7 studies demonstrated a low or moderate risk             Among the 14 studies, 10 were selected for meta-
+of bias in data availability, outcome measurements, and          analysis, whereas 4 were included in systematic review
+results reporting.                                               only. All included studies observed a signiﬁcant
+                                                                 improvement in AHI in both titratable and nontitratable
+Titratable vs nontitratable MADs                                 MAD groups after treatment. Four studies showed a sig-
+    As shown in Supplementary Table I,26-39 9 RCTs and           niﬁcant difference in AHI improvement between the
+5 nonrandomized studies compared the treatment                   groups.29,30,34,35 In 3 of these, the nontitratable group
+efﬁcacy of titratable and nontitratable MADs. The                showed a signiﬁcantly higher AHI decrease than the
+follow-up time was ranged from 4 weeks to 1 year.                titratable group.29,30,34 In only 1 study, the AHI decrease
+Although all the studies compared titratable and nonti-          was higher in the titratable group.35
+tratable MADs, only 3 incorporated gradual titra-                    In a meta-analysis, the forest plots of AHI decrease
+tions.27-29 Of these, 2 studies used polysomnography             with the mean difference, and 95% CIs are shown in
+(PSG) to guide adjustments.27,29 In one, mandibular              Figure 4, A. Overall, there was no signiﬁcant difference
+advancement began 2 hours after sleep onset or during            in the AHI decrease between titratable and nontitratable
+the ﬁrst rapid eye movement (REM) episode, with 0.2              groups (mean difference: 1.16; 95% CI, 1.29 to 3.61;
+mm/s increments until optimal AHI reduction was                  P 5 0.35). The overall I2 statistics was 80%, indicating
+achieved via PSG. This optimized advancement was                 high heterogeneity among studies.
+used to fabricate the ﬁnal appliance.29 In the second                The results of subgroup analyses are detailed in the
+study, patients started with the MAD in a neutral posi-          Supplementary Figure 2, A and B. Notably, one analysis
+tion, advancing it 0.5 mm per night as tolerated. If             focusing on the titration process (whether studies
+discomfort occurred, the MAD was regressed by 1 mm,              adjusted the initial protrusion) indicated that titration
+and advancement resumed at a slower pace. A titration            could probably modify the effect of titratable or nonti-
+PSG was then performed to reﬁne the setting, advancing           tratable OAs in reducing AHI (P 5 0.09). The treatment
+the MAD by 0.5 mm increments during REM sleep until              effect tended to favor studies that included adjustments
+optimal results were achieved or discomfort limited              to protrusions (AHI reduction: 0.22; 95% CI, 2.84 to
+further adjustments.27 In the third study, titration was         2.39) compared with those without adjustments (AHI
+based on subjective symptoms, with the dentist                   reduction: 1.16; 95% CI, 1.29 to 3.61). Among the 3
+advancing the appliance by 0.5 mm per week.28 In 4               studies that did not adjust the protrusions of
+studies (2 RCTs and 2 nonrandomized studies), although           MADs,30,32,34 the AHI decrease was higher in the nonti-
+no titration was described, the appliances, including            tratable group than in the titratable group (mean differ-
+both titratable and nontitratable ones, were adjusted            ence: 4.00; 95% CI, 0.09 to 8.09; P 5 0.06) (Fig 4, B).
+
+
+
+June 2025  Vol 167  Issue 6                            American Journal of Orthodontics and Dentofacial Orthopedics
+Chen et al                                                                                                      641
+
+
+
+
+        Fig 4. Forest plots treatment outcomes between titratable and nontitratable MADs: A, AHI decrease;
+        B, Subgroup analysis of AHI decrease based on titration process (whether studies adjusted the initial
+        protrusion); C, ESS decrease.
+
+
+
+
+American Journal of Orthodontics and Dentofacial Orthopedics                         June 2025  Vol 167  Issue 6
+642                                                                                                           Chen et al
+
+
+
+Secondary treatment outcome                                    Primary treatment outcome
+    Nine studies investigated the change in ESS after             Among the 8 studies, 5 observed a signiﬁcant AHI
+treatment. Among them, 7 observed a signiﬁcant                 decrease after treatment in both custom-made and
+decrease in ESS in both titratable and nontitratable           ready-made MADs groups.42-45,47 One study showed a
+groups,26,28,29,33-36 whereas 2 found no statistical           signiﬁcant AHI decrease only in the custom-made
+difference after treatment.27,32 None of the 9 studies         MADs group, probably because of the different protru-
+showed a signiﬁcant difference in ESS improvement be-          sion levels between the groups (65 6 10% vs 50 6
+tween the titratable and nontitratable MADs groups.            20%).40 In terms of the AHI decrease, 4 studies showed
+    Eight studies were included in the meta-analysis, and      a signiﬁcantly higher AHI decrease in the custom-
+the forest plot was shown in Figure 4, C. No signiﬁcant        made MADs group,42-45 whereas 3 studies found no
+difference was observed between titratable and nonti-          statistical difference in AHI decrease between the 2
+tratable MADs groups in terms of ESS improvement               groups.40,41,46
+(mean difference: 0.11; 95% CI, 0.26 to 0.47; P 5                 Six out of 8 studies were included in the meta-
+0.57). The overall I2 statistics was 0%, indicating minor      analysis, and the forest plots of AHI decrease with the
+heterogeneity among different studies.                         mean difference and 95% CI are shown in Figure 5, A.
+                                                               Custom-made MADs were likely to decrease AHI more
+                                                               than the ready-made MADs, with a marginally signiﬁ-
+Adherence and preference
+                                                               cant difference (mean difference: 1.51; 95% CI, 0.08
+    Seven studies reported subjective adherence during         to 3.11; P 5 0.06). The I2 statistics was 0%, indicating
+treatment,26,30-32,35-37 3 of which compared the               low heterogeneity among studies.
+adherence differences between groups.30,36,37 Lee
+et al.30 found that 83.3% of the patients in the titratable    Secondary treatment outcome
+MADs group were compliant compared with only 68.8%
+                                                                  Four studies observed a signiﬁcant decrease in ESS
+in the nontitratable MADs groups, with statistical signif-
+                                                               score after treatment in both custom-made and ready-
+icance (P 5 0.044).30 Tegelberg et al.37 reported that
+                                                               made MADs groups,42-45 whereas 2 studies did not ﬁnd
+MADs were 90% 6 16% of the total sleep time in the
+                                                               any signiﬁcant change.40,47 Two studies observed a signif-
+titratable group and 87% 6 24% in the nontitratable
+                                                               icantly higher ESS decrease was observed in the custom-
+group, without statistical signiﬁcance.37 Umemoto
+                                                               made MADs group than in the ready-made group.42,45
+et al.36 suggested that compared with monobloc,
+                                                                  In a meta-analysis, including 5 studies (Fig 5, B), no
+Twin-block is likely to be associated with fewer side ef-
+                                                               signiﬁcant difference in ESS decrease was observed
+fects and improved treatment compliance in the short
+                                                               when comparing the custom-made and ready-made
+term.36
+                                                               MADs (mean difference: 0.22; 95% CI, 0.50 to 0.95;
+    Four studies compared patients’ preferences for
+                                                               P 5 0.55).
+different MADs. Two studies found that most patients
+preferred the nontitratable MADs,26,29 whereas the other
+                                                               Adherence and preference
+2 studies found higher satisfaction rates and preference
+for titratable MADs.32,38                                          Five studies recorded self-reported subjective MADs
+                                                               wearing time in the 2 groups,40,44-47 among which 3
+                                                               showed patients with custom-made MADs had signiﬁ-
+Custom-made vs ready-made MADs                                 cantly longer wearing time than those with ready-
+   As shown in Supplementary Table II,40-47 8 studies,         made MADs.44-46 The meta-analysis, including 2 studies
+including 6 RCTs and 2 nonrandomized studies,                  (Fig 5, C), showed that compared with the ready-made
+compared the treatment efﬁcacy of custom-made and              MADs, the wearing hours per night was signiﬁcantly
+ready-made MADs. The follow-up time was ranged                 longer in the custom-made MADs groups (mean differ-
+from 4 weeks to 6 months. Regarding the range of               ence: 1.19; 95% CI, 0.65-1.73, P \0.0001).45,46
+mandibular protrusion, 5 studies performed titration or            Four studies reported the adherence rate,41,42,45,46
+adjustments based on OSA symptoms and side effects             and all found that the adherence rate was higher in
+during the treatment process.40,42,44-46 One study set         the custom-made MADs group than the ready-made
+75% of the maximum protrusion for both groups as               group. All adherence data was from patient’s subjective
+the initial protrusion and did not perform any                 diaries, whereas the deﬁnition of adherence was unclear
+adjustments.43 Another study initially used 50% and            in all of the studies. Only 1 of the 4 studies has shown a
+then advanced to the maximum voluntary protrusion              signiﬁcantly higher adherence rate in the custom-made
+in 4 weeks.47                                                  MADs group than in the ready-made group.41
+
+
+
+June 2025  Vol 167  Issue 6                          American Journal of Orthodontics and Dentofacial Orthopedics
+Chen et al                                                                                                        643
+
+
+
+
+         Fig 5. Forest plots treatment outcomes between custom-made and ready-made OAs: A, AHI
+         decrease; B, ESS decrease; C, Subjective wearing hours per night.
+
+   Three studies investigated patients’ preferences for     analysis suggested that the heterogeneity among studies
+the 2 types of MADs. Two found that a larger proportion     might be attributed to differences in study protocols,
+of patients preferred custom-made MADs,42,44 with 1         particularly regarding the adjustment of mandibular pro-
+showing statistical signiﬁcance. One study showed the       trusion. Studies that did not perform any adjustments
+opposite result but without signiﬁcance.47                  during the treatment process showed a marginally signif-
+                                                            icant higher AHI decrease in the nontitratable group
+DISCUSSION                                                  compared with the titratable group. One explanation
+                                                            was that mouth opening is associated with the downward
+   This systematic review and meta-analysis evaluated
+                                                            rotation of the mandible which could result in a retrusive
+the efﬁcacy and adherence of different MADs in the
+                                                            motion of the tongue base so as to reduce the cross-
+treatment of OSA, indicating that different MAD de-
+                                                            sectional dimensions of the pharyngeal area.26,48 The
+signs are not signiﬁcantly associated with treatment ef-
+                                                            nontitratable MADs, which were mainly monobloc de-
+ﬁcacy but could inﬂuence patients’ adherence and
+                                                            vices, could restrict mouth opening, whereas persistent
+preference.
+                                                            mouth breathing could occur when wearing the titratable
+                                                            MADs, which were mainly bibloc devices.30 Another
+Treatment outcomes                                          explanation was that the structure of 1-piece MADs sup-
+   The results showed that both titratable and nontitrat-   ports a ﬁrmer protrusive position for the mandible, which
+able MADs signiﬁcantly improved AHI. However, no sig-       provides a larger space for tongue advancement, thereby
+niﬁcant difference in AHI reduction was observed            preventing the tongue from blocking the airway.49 How-
+between the 2 groups in the overall analysis. Subgroup      ever, with 2-piece MADs in which the mandible is free to
+
+
+
+American Journal of Orthodontics and Dentofacial Orthopedics                        June 2025  Vol 167  Issue 6
+644                                                                                                               Chen et al
+
+
+
+move, the enlargement of the space tends to be unsta-           custom-made MADs group demonstrated longer wear-
+ble.36 On the basis of these reasons, if the protrusion         ing hours per night, as well as more wearing nights per
+was ﬁxed and no titration was performed, the efﬁcacy            week.40,44-46 In addition, most studies found that most
+of titratable MADs would be the same or even lower              patients preferred custom-made MADs.40,42,44 The
+than the nontitratable MADs.50 Therefore, this ﬁnding           most frequently cited reason for disliking ready-made
+underscores the potential impact of the initial protrusion      MADs was the lack of retention.40-42,44 The design of
+settings and the titration process on treatment outcomes.       most ready-made MADs limited the coverage of maxil-
+    For custom-made vs ready-made MADs, custom-made             lary and mandibular teeth, whereas most custom-made
+devices generally showed a greater reduction in AHI with a      MADs completely covered all teeth and even part of
+marginally signiﬁcant difference. Previous studies reported     the gums.40 In addition, because of alterations in the
+that different types of MADs were affected similarly by         thermoplastic material as a result of wear and tempera-
+reducing the collapsibility of the upper airway,51,52 and       ture changes, the retention of ready-made MADs could
+there was a dose-dependent relationship between treat-          be reduced signiﬁcantly.44 In contrast, the better reten-
+ment outcome and degree of mandibular advance-                  tion of custom-made MADs, along with the titration
+ment.53-55 Because ready-made MADs are ﬁtted                    process, allowed for better adaptation and fewer side ef-
+intraorally, the degree of the mandibular protrusion is         fects, which could explain the more favorable results.10
+hampered by the MAD itself and thus more uncontrollable,
+resulting in a less consistent and reproducible mandibular      Alternative treatment options
+protrusion.40 However, the 2 most recent studies found              For patients who discontinue MAD treatment, alter-
+that ready-made MADs were noninferior to custom-made            native therapies include positive airway pressure, which
+ones in terms of treatment outcomes.46,47 The signiﬁcantly      remains the primary therapy for patients with symptom-
+improved ready-made MADs design by adding the possibil-         atic OSA of any severity.56,57 In addition, effective treat-
+ity for titration could result in more comparable effective-    ments for OSA include behavioral interventions and
+ness to the custom-made MADs.47                                 surgery, depending on individual patient needs and
+    In terms of the ESS score, all designs of MADs were         preferences.1
+effective in reducing daytime sleepiness, with no signiﬁcant        Behavioral interventions include lifestyle modiﬁca-
+difference between any groups. This consistency across          tions, such as avoiding alcohol, maintaining a nonsupine
+studies suggested that both types of devices are similarly      sleep position, engaging in regular aerobic exercise, and
+effective in alleviating the subjective symptoms of OSA.        weight loss. These measures can reduce OSA severity and
+                                                                improve overall health, especially in those with mild
+Adherence and preference                                        OSA.58-60
+    The study showed mixed results regarding patient                Surgical interventions are reserved for selected pa-
+preference for titratable vs nontitratable MADs. Several        tients, particularly those who cannot tolerate positive
+studies observed that nontitratable MADs were likely            airway pressure therapy.61 Procedures such as uvulopa-
+to be associated with a higher prevalence of side effects       latopharyngoplasty and maxillomandibular advance-
+compared with titratable MADs.30,36 Others reported             ment aim to enlarge the upper airway and reduce
+that the rates of side effects were similar between the         airway obstruction.62 Hypoglossal nerve stimulation is
+2 groups.32,37 Bloch et al.26 reported that because the         a new surgical procedure that increases pharyngeal
+2 types of MADs showed similar prevalence of side ef-           dilator muscle tone during sleep.63
+fects, patient preference was mainly related to subjec-
+tively perceived treatment beneﬁt and the AHI                   Limitations, recommendations, and general
+reduction, which favors nontitratable MADs.26                   discussion
+    Although there is a discrepancy in the prevalence of            This systematic review has several limitations. First, the
+side effects, most studies agreed that side effects of          included studies are heterogeneous in study design (both
+MAD treatment were common but mild and usually                  RCTs and nonrandomized studies), follow-up durations,
+well tolerated by most patients. Previously reported            and outcome measures (both level I PSG and home sleep
+side effects, including muscle and joint disorders,             tests). One of the major concerns is the titratable MADs
+changes in salivation, and occlusal changes, may be             had either a custom-made or ready-made design, whereas
+the key reason for a lower preference rate, and it could        the custom-made MADs had either a titratable or nonti-
+further inﬂuence adherence to treatment.                        tratable design and vice versa.
+    In terms of custom-made vs ready-made MADs, most                This heterogeneity could hinder direct comparisons
+studies favored custom-made MADs. Patients in the               among the different studies included on this speciﬁc topic
+
+
+
+
+June 2025  Vol 167  Issue 6                           American Journal of Orthodontics and Dentofacial Orthopedics
+Chen et al                                                                                                                         645
+
+
+
+and limits the extrapolation of the ﬁndings. Secondly,          conceptualization, project administration, supervision,
+several studies reported major side effects that lead to        validation, and manuscript review and editing.
+poor adherence or even dropout.40,41 However, most
+included studies did not take the dropouts into account,        ACKNOWLEDGMENTS
+which might cause bias in comparing adherence and pref-            This work was supported by the Clinical Research
+erence in different groups. In addition, all included studies   Foundation of Peking University School and Hospital
+relied on subjective adherence reports, which may be            of Stomatology (PKUSS-2023CRF203) and Ningxia Hui
+prone to overestimation.64,65 Recently, objective adher-        Autonomous Region Key Research and Development
+ence monitor chips that are embedded into the MADs              Program (2022BEG02031).
+have been introduced66 and have been veriﬁed in several
+long-term studies.66,67 In the future, larger-scale RCTs        SUPPLEMENTARY DATA
+and studies with objective measurements and extended
+follow-up periods are expected to better compare the ef-           Supplementary data associated with this article can
+ﬁcacy and adherence of different designs of MADs.               be found, in the online version, at https://doi.org/10.
+    Overall, the ﬁndings from this study have several clin-     1016/j.ajodo.2025.01.006.
+ical implications for the management of OSA patients.
+                                                                REFERENCES
+First, addressing side effects promptly and efﬁciently
+can signiﬁcantly enhance patient adherence and prefer-           1. Gottlieb DJ, Punjabi NM. Diagnosis and management of obstruc-
+                                                                    tive sleep apnea: a review. JAMA 2020;323:1389-400.
+ence, which is crucial for the long-term success of MAD
+                                                                 2. Franklin KA, Lindberg E. Obstructive sleep apnea is a common dis-
+treatment.                                                          order in the population-a review on the epidemiology of sleep ap-
+    Regular monitoring, patient education, and custom-              nea. J Thorac Dis 2015;7:1311-22.
+ized titration protocols can help clinicians perform             3. Lechat B, Naik G, Reynolds A, Aishah A, Scott H, Lofﬂer KA, et al.
+appropriate intervention strategies to better manage                Multinight prevalence, variability, and diagnostic misclassiﬁcation
+                                                                    of obstructive sleep apnea. Am J Respir Crit Care Med 2022;205:
+side effects. Second, on the basis of the literature, the
+                                                                    563-9.
+clinical evidence on appliance selection is still insufﬁ-        4. Young T, Peppard PE, Gottlieb DJ. Epidemiology of obstructive
+cient. Ideally, the ﬁnal selection should be personalized           sleep apnea: a population health perspective. Am J Respir Crit
+by taking efﬁcacy, adherence, preference, and even                  Care Med 2002;165:1217-39.
+cost-effectiveness into consideration to ensure optimal          5. Somers VK, White DP, Amin R, Abraham WT, Costa F, Culebras A,
+                                                                    et al. Sleep apnea and cardiovascular disease: an American Heart
+treatment outcomes.
+                                                                    Association/American College of Cardiology Foundation Scientiﬁc
+                                                                    Statement from the American Heart Association Council for High
+CONCLUSIONS                                                         Blood Pressure Research Professional Education Committee,
+                                                                    Council on Clinical Cardiology, Stroke Council, and Council on
+   On the basis of the results of this systematic review
+                                                                    Cardiovascular Nursing. J Am Coll Cardiol 2008;52:686-717.
+and meta-analysis, we concluded the following:                   6. Javaheri S, Barbe F, Campos-Rodriguez F, Dempsey JA, Khayat R,
+                                                                    Javaheri S, et al. Sleep apnea: types, mechanisms, and clinical car-
+1.   Both titratable and nontitratable MADs, as well as
+                                                                    diovascular consequences. J Am Coll Cardiol 2017;69:841-58.
+     custom-made and ready-made MADs, were effective             7. Punjabi NM, Caffo BS, Goodwin JL, Gottlieb DJ, Newman AB,
+     in treating OSA, whereas no deﬁnitive clinical prefer-         O’Connor GT, et al. Sleep-disordered breathing and mortality: a
+     ence for one type over the other can be established.           prospective cohort study. PLoS Med 2009;6:e1000132.
+2.   Compared with ready-made MADs, custom-made                  8. Benjaﬁeld AV, Ayas NT, Eastwood PR, Heinzer R, Ip MSM,
+                                                                    Morrell MJ, et al. Estimation of the global prevalence and burden
+     MADs generally had fewer side effects and showed
+                                                                    of obstructive sleep apnoea: a literature-based analysis. Lancet Re-
+     potential advantages in patients’ adherence and                spir Med 2019;7:687-98.
+     preference.                                                 9. Tsuyumu M, Tsurumoto T, Iimura J, Nakajima T, Kojima H. Ten-
+                                                                    year adherence to continuous positive airway pressure treatment
+                                                                    in patients with moderate-to-severe obstructive sleep apnea. Sleep
+AUTHOR CREDIT STATEMENT                                             Breath 2020;24:1565-71.
+                                                                10. Ramar K, Dort LC, Katz SG, Lettieri CJ, Harrod CG, Thomas SM,
+    Yanlong Chen contributed to conceptualization, data
+                                                                    et al. Clinical practice guideline for the treatment of obstructive
+curation, formal analysis, investigation, methodology,              sleep apnea and snoring with oral appliance therapy: an update
+and original draft preparation; Jingjing Zhang contrib-             for 2015. J Clin Sleep Med 2015;11:773-827.
+uted to conceptualization, data curation, formal anal-          11. Sutherland K, Vanderveken OM, Tsuda H, Marklund M,
+ysis, and manuscript review and editing; Xuemei Gao                 Gagnadoux F, Kushida CA, et al. Oral appliance treatment for
+                                                                    obstructive sleep apnea: an update. J Clin Sleep Med 2014;10:
+contributed to conceptualization, project administra-
+                                                                    215-27.
+tion, supervision, validation, and manuscript review            12. Sutherland K, Cistulli PA. Oral appliance therapy for obstructive
+and editing; and Fernanda R. Almeida contributed to                 sleep apnoea: state of the art. J Clin Med 2019;8:2121.
+
+
+
+
+American Journal of Orthodontics and Dentofacial Orthopedics                                  June 2025  Vol 167  Issue 6
+646                                                                                                                                    Chen et al
+
+
+
+13. Ahrens A, McGrath C, H€agg U. A systematic review of the efﬁcacy            teristics and upper airway dimensions of Chinese adult obstructive
+    of oral appliance design in the management of obstructive sleep             sleep apnea patients. Angle Orthod 2015;85:962-8.
+    apnoea. Eur J Orthod 2011;33:318-24.                                    32. Al-Dharrab A. A randomized cross over study comparing the efﬁ-
+14. Hoekema A, Stegenga B, De Bont LG. Efﬁcacy and co-morbidity of              cacy of two mandibular advancement appliances in the treatment
+    oral appliances in the treatment of obstructive sleep apnea-                of mild-moderate obstructive sleep apnea. Cranio 2017;35:
+    hypopnea: a systematic review. Crit Rev Oral Biol Med 2004;15:              379-84.
+    137-55.                                                                 33. Isacsson G, Fodor C, Sturebrand M. Obstructive sleep apnea treated
+15. Tsuiki S, Lowe AA, Almeida FR, Kawahata N, Fleetham JA. Effects             with custom-made bibloc and monobloc oral appliances: a retro-
+    of mandibular advancement on airway curvature and obstructive               spective comparative study. Sleep Breath 2017;21:93-100.
+    sleep apnoea severity. Eur Respir J 2004;23:263-8.                      34. La Mantia I, Grillo C, Narelli S, Andaloro C. Monoblock and twin-
+16. Chan ASL, Lee RWW, Cistulli PA. Dental appliance treatment for              block mandibular advancement devices in the treatment of
+    obstructive sleep apnea. Chest 2007;132:693-9.                              obstructive sleep apnea. J Clin Anal Med 2018;9:226-30.
+17. Hoffstein V. Review of oral appliances for treatment of sleep-          35. Isacsson G, Nohlert E, Fransson AMC, Bornefalk-Hermansson A,
+    disordered breathing. Sleep Breath 2007;11:1-22.                            Eriksson EW, Ortlieb E, et al. Use of bibloc and monobloc oral appli-
+18. Dieltjens M, Vanderveken OM, Heyning PHV, Braem MJ. Current                 ances in obstructive sleep apnoea: a multicentre, randomized,
+    opinions and clinical practice in the titration of oral appliances          blinded, parallel-group equivalence trial. Eur J Orthod 2019;41:80-8.
+    in the treatment of sleep-disordered breathing. Sleep Med Rev           36. Umemoto G, Toyoshima H, Yamaguchi Y, Aoyagi N, Yoshimura C,
+    2012;16:177-85.                                                             Funakoshi K. Therapeutic efﬁcacy of twin-block and ﬁxed oral ap-
+19. Dieltjens M, Vanderveken OM, Hamans E, Verbraecken JA,                      pliances in patients with obstructive sleep apnea syndrome. J Pros-
+    Wouters K, Willemen M, et al. Treatment of obstructive sleep ap-            thodont 2019;28:e830-6.
+    nea using a custom-made titratable duobloc oral appliance: a pro-       37. Tegelberg   A, Nohlert E, Bornefalk-Hermansson A, Fransson A,
+    spective clinical study. Sleep Breath 2013;17:565-72.                       Isacsson G. Respiratory outcomes after a 1-year treatment of
+20. Mehta A, Qian J, Petocz P, Darendeliler MA, Cistulli PA. A random-          obstructive sleep apnoea with bibloc versus monobloc oral appli-
+    ized, controlled study of a mandibular advancement splint for               ances: a multicentre, randomized equivalence trial. Acta Odontol
+    obstructive sleep apnea. Am J Respir Crit Care Med 2001;163:                Scand 2020;78:401-8.
+    1457-61.                                                                38. Yanamoto S, Harata S, Miyoshi T, Nakamura N, Sakamoto Y,
+21. Gotsopoulos H, Chen C, Qian J, Cistulli PA. Oral appliance therapy          Murata M, et al. Semi-ﬁxed versus ﬁxed oral appliance therapy
+    improves symptoms in obstructive sleep apnea: a randomized,                 for obstructive sleep apnea: a randomized crossover pilot study.
+    controlled trial. Am J Respir Crit Care Med 2002;166:743-8.                 J Dent Sci 2021;16:404-9.
+22. Uniken Venema JAM, Rosenm€      oller BRAM, de Vries N, de Lange N,     39. Abd-Ellah ME, Mohamed FS, Khamis MM, Abdel Wahab NH.
+    Aarab G, Lobbezoo F, et al. Mandibular advancement device                   Modiﬁed biblock versus monoblock mandibular advancement ap-
+    design: a systematic review on outcomes in obstructive sleep ap-            pliances for treatment of obstructive sleep apnea: a randomized
+    nea treatment. Sleep Med Rev 2021;60:101557.                                controlled trial. J Prosthet Dent 2024;131:633-42.
+23. Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC,               40. Vanderveken OM, Devolder A, Marklund M, Boudewyns An N,
+    Mulrow CD, et al. The PRISMA 2020 statement: an updated guide-              Braem MJ, Okkerse W, et al. Comparison of a custom-made and
+    line for reporting systematic reviews. BMJ 2021;372:n71.                    a thermoplastic oral appliance for the treatment of mild sleep ap-
+24. Sterne JAC, Savovic J, Page MJ, Elbers RG, Blencowe NS,                    nea. Am J Respir Crit Care Med 2008;178:197-202.
+    Boutron I, et al. RoB 2: a revised tool for assessing risk of bias in   41. Friedman M, Hamilton C, Samuelson CG, Kelley K, Pearson-
+    randomised trials. BMJ 2019;366:l4898.                                      Chauhan K, Taylor D, et al. Compliance and efﬁcacy of titratable
+25. Sterne JA, Hernan MA, Reeves BC, Savovic J, Berkman ND,                    thermoplastic versus custom mandibular advancement devices.
+    Viswanathan M, et al. Robins-I: a tool for assessing risk of bias           Otolaryngol Head Neck Surg 2012;147:379-86.
+    in non-randomised studies of interventions. BMJ 2016;                   42. Quinnell TG, Bennett M, Jordan J, Clutterbuck-James A,
+    355:i4919.                                                                  Davies MG, Smith IE, et al. A crossover randomised controlled trial
+26. Bloch KE, Iseli A, Zhang JN, Xie X, Kaplan V, Stoeckli PW, et al. A         of oral mandibular advancement devices for obstructive sleep
+    randomized, controlled crossover trial of two oral appliances for           apnoea-hypopnoea (TOMADO). Thorax 2014;69:938-45.
+    sleep apnea treatment. Am J Respir Crit Care Med 2000;162:              43. Wang L, Liu YH. [Comparison of the efﬁcacy of 2 types of mandib-
+    246-51.                                                                     ular advancement device in severe obstructive sleep apnea hypopnea
+27. Lettieri CJ, Paolino N, Eliasson AH, Shah AA, Holley AB. Compar-            syndrome]. Shanghai Kou Qiang Yi Xue 2014;23:713-7.
+    ison of adjustable and ﬁxed oral appliances for the treatment of        44. Johal A, Haria P, Manek S, Joury E, Riha R. Ready-made versus
+    obstructive sleep apnea. J Clin Sleep Med 2011;7:439-45.                    custom-made mandibular repositioning devices in sleep apnea: a
+28. Sari E, Menillo S. Comparison of titratable oral appliance and              randomized clinical trial. J Clin Sleep Med 2017;13:175-82.
+    mandibular advancement splint in the treatment of patients with         45. Gagnadoux F, Nguyen XL, Le Vaillant M, Priou P, Meslier N,
+    obstructive sleep apnea. ISRN Dent 2011;2011:581692.                        Eberlein A, et al. Comparison of titrable thermoplastic versus
+29. Zhou J, Liu YH. A randomised titrated crossover study comparing             custom-made mandibular advancement device for the treatment
+    two oral appliances in the treatment for mild to moderate obstruc-          of obstructive sleep apnoea. Respir Med 2017;131:35-42.
+    tive sleep apnoea/hypopnoea syndrome. J Oral Rehabil 2012;39:           46. Pepin JL, Raymond N, Lacaze O, Aisenberg N, Forcioli J, Bonte E,
+    914-22.                                                                     et al. Heat-moulded versus custom-made mandibular advance-
+30. Lee WH, Wee JH, Lee CH, Kim M-S, Rhee C-S, Yun P-Y, et al. Com-             ment devices for obstructive sleep apnoea: a randomised non-
+    parison between mono-bloc and bi-bloc mandibular advancement                inferiority trial. Thorax 2019;74:667-74.
+    devices for obstructive sleep apnea. Eur Arch Oto-Rhino-Laryngol        47. Bosschieter PFN, Uniken Venema JAM, Vonk PE, Ravesloot MJL,
+    2013;270:2909-13.                                                           Hoekema A, Plooij JM, et al. Equal effect of a noncustom vs a
+31. Geoghegan F, Ahrens A, McGrath C, H€agg U. An evaluation of two             custom mandibular advancement device in treatment of obstruc-
+    different mandibular advancement devices on craniofacial charac-            tive sleep apnea. J Clin Sleep Med 2022;18:2155-65.
+
+
+
+
+June 2025  Vol 167  Issue 6                                       American Journal of Orthodontics and Dentofacial Orthopedics
+Chen et al                                                                                                                                    647
+
+
+
+48. Lee SH, Choi JH, Shin C, Lee HM, Kwon SY, Lee SH. How does                on obstructive sleep apnea among obese patients with type 2 diabetes:
+    open-mouth breathing inﬂuence upper airway anatomy? Laryn-                the Sleep AHEAD study. Arch Intern Med 2009;169:1619-26.
+    goscope 2007;117:1102-6.                                              59. Dixon JB, Schachter LM, O’Brien PE, Jones K, Grima M, Lambert G,
+49. Rose E, Staats R, Virchow C, Jonas IE. A comparative study of two         et al. Surgical vs conventional therapy for weight loss treatment of
+    mandibular advancement appliances for the treatment of obstruc-           obstructive sleep apnea: a randomized controlled trial. JAMA
+    tive sleep apnoea. Eur J Orthod 2002;24:191-8.                            2012;308:1142-9.
+50. Kato J, Isono S, Tanaka A, Watanabe T, Araki D, Tanzawa H, et al.     60. Blackman A, Foster GD, Zammit G, Rosenberg R, Aronne L,
+    Dose-dependent effects of mandibular advancement on pharyn-               Wadden T, et al. Effect of liraglutide 3.0 mg in individuals with
+    geal mechanics and nocturnal oxygenation in patients with                 obesity and moderate or severe obstructive sleep apnea: the SCALE
+    sleep-disordered breathing. Chest 2000;117:1065-72.                       Sleep Apnea randomized clinical trial. Int J Obes (Lond) 2016;40:
+51. Huang Y, White DP, Malhotra A. The impact of anatomic manipu-             1310-9.
+    lations on pharyngeal collapse: results from a computational model    61. Aurora RN, Casey KR, Kristo D, Auerbach S, Bista SR, Chowdhuri S,
+    of the normal human upper airway. Chest 2005;128:1324-30.                 et al. Practice parameters for the surgical modiﬁcations of the up-
+52. Ng AT, Gotsopoulos H, Qian J, Cistulli PA. Effect of oral appliance       per airway for obstructive sleep apnea in adults. Sleep 2010;33:
+    therapy on upper airway collapsibility in obstructive sleep apnea.        1408-13.
+    Am J Respir Crit Care Med 2003;168:238-41.                            62. Zaghi S, Holty JEC, Certal V, Abdullatif J, Guilleminault C,
+53. Tsuiki S, Lowe AA, Almeida FR, Fleetham JA. Effects of an anteri-         Powell NB, et al. Maxillomandibular advancement for treatment
+    orly titrated mandibular position on awake airway and obstructive         of obstructive sleep apnea: a meta-analysis. JAMA Otolaryngol
+    sleep apnea severity. Am J Orthod Dentofacial Orthop 2004;125:            Head Neck Surg 2016;142:58-66.
+    548-55.                                                               63. Strollo PJ Jr, Soose RJ, Maurer JT, de Vries N, Cornelius J,
+54. Johnston CD, Gleadhill IC, Cinnamond MJ, Gabbey J, Burden DJ.             Froymovich O, et al. Upper-airway stimulation for obstructive
+    Mandibular advancement appliances and obstructive sleep                   sleep apnea. N Engl J Med 2014;370:139-49.
+    apnoea: a randomized clinical trial. Eur J Orthod 2002;24:251-62.     64. de Almeida FR, Lowe AA, Tsuiki S, Otsuka R, Wong M, Fastlicht S,
+55. Gao X, Otsuka R, Ono T, Honda E, Sasaki T, Kuroda T. Effect of            et al. Long-term compliance and side effects of oral appliances
+    titrated mandibular advancement and jaw opening on the upper              used for the treatment of snoring and obstructive sleep apnea syn-
+    airway in nonapneic men: a magnetic resonance imaging and ceph-           drome. J Clin Sleep Med 2005;1:143-52.
+    alometric study. Am J Orthod Dentofacial Orthop 2004;125:191-9.       65. Marklund M, Franklin KA. Long-term effects of mandibular repo-
+56. Patil SP, Ayappa IA, Caples SM, Kimoff RJ, Patel SR, Harrod CG.           sitioning appliances on symptoms of sleep apnoea. J Sleep Res
+    Treatment of adult obstructive sleep apnea with positive airway           2007;16:414-20.
+    pressure: an American Academy of Sleep Medicine systematic re-        66. Vanderveken OM, Dieltjens M, Wouters K, De Backer WA, Van de
+    view, meta-analysis, and GRADE assessment. J Clin Sleep Med               Heyning PH, Braem MJ. Objective measurement of compliance
+    2019;15:301-34.                                                           during oral appliance therapy for sleep-disordered breathing. Tho-
+57. Qaseem A, Holty JEC, Owens DK, Dallas P, Starkey M, Shekelle P,           rax 2013;68:91-6.
+    et al. Management of obstructive sleep apnea in adults: a clinical    67. Dieltjens M, Verbruggen AE, Braem MJ, Wouters K,
+    practice guideline from the American College of Physicians. Ann           Verbraecken JA, De Backer WA, et al. Determinants of objective
+    Intern Med 2013;159:471-83.                                               compliance during oral appliance therapy in patients with sleep-
+58. Foster GD, Borradaile KE, Sanders MH, Millman R, Zammit G,                disordered breathing: a prospective clinical trial. JAMA Otolar-
+    Newman AB, et al. A randomized study on the effect of weight loss         yngol Head Neck Surg 2015;141:894-900.
+
+
+
+
+American Journal of Orthodontics and Dentofacial Orthopedics                                            June 2025  Vol 167  Issue 6
+647.e1                                                                                                    Chen et al
+
+
+
+SUPPLEMENTARY DATA
+
+
+
+
+         Supplementary Fig 1. Funnel plots of outcomes that has more than 5 eligible studies: A, The AHI de-
+         creases between titratable and nontitratable OA groups; B, The AHI decreases between custom-made
+         and ready-made OA groups; C, The ESS decreases between titratable and nontitratable OA groups; D,
+         The ESS decreases between custom-made and ready-made OA groups.
+
+
+
+
+June 2025  Vol 167  Issue 6                       American Journal of Orthodontics and Dentofacial Orthopedics
+Chen et al                                                                                                              647.e2
+
+
+
+
+        Supplementary Fig 2. Subgroup analyses results: A, Subgroup analysis on study design (RCTs vs
+        non-RCTs). The test for subgroup differences indicates that there is no statistically signiﬁcant subgroup
+        effect (P 5 0.54), suggesting that study designs (RCTs vs non-RCTs) did not modify the effect of titrat-
+        able or nontitratable OAs in reducing AHI; B, Subgroup analysis on risk of bias (low or moderate vs high
+        risk of bias). The test for subgroup differences indicates that there is no statistically signiﬁcant subgroup
+        effect (P 5 0.35), suggesting that risk of bias (low or moderate vs high risk of bias) did not modify the
+        effect of titratable or nontitratable OAs in reducing AHI. However, a smaller number of studies and par-
+        ticipants contributed data to the high risk of bias subgroup than to the low or moderate risk of bias sub-
+        group, indicating that the analysis may not be able to detect subgroup differences.
+
+
+
+
+American Journal of Orthodontics and Dentofacial Orthopedics                               June 2025  Vol 167  Issue 6
+647.e3                                                                                                                        Chen et al
+
+
+
+Supplementary Table. Searching strategies                               Supplementary Table. Continued
+
+                                                     Results from                                                          Results from
+No.                      Query                       June 1, 2024       No.                    Query                       June 1, 2024
+Ovid MEDLINE database                                                   16  treatment duration/                               308,640
+1    sleep apnea syndromes/ or sleep apnea,              44,319         17  (non?complian* or non?adheren* or                 710,994
+        central/ or sleep apnea, obstructive/                                  adheren* or complian*).mp.
+2    (osa or apn?ea*).tw,kf.                             67,220         18 (treatment duration or wearing time or              68,203
+3    1 or 2                                              74,203                wearing hour* or duration of treatment
+4    Occlusal Splints/ or Mandibular                     13,813                or duration of therap*).tw,kf.
+        Advancement/ or orthodontic                                     19 or/12-18                                          9,640,588
+        appliances/                                                     20 3 and 11 and 19                                       2,240
+5    (MAS or mandibular advancement                      36,357         Web of Science database
+        splint*).tw,kf.                                                 1   TS5((osa or apn$ea*))                             111,130
+6    (MAD or mandibular advancement                       6,661         2   TS5((MAS or mandibular advancement                 65,145
+        device*).tw,kf.                                                        splint*))
+7    ((dental or occlusal or oral) adj3 (spint* or        4,416         3   TS5((MAD or mandibular advancement                 22,955
+        device* or appliance*)).tw,kf.                                         device*))
+8    night?guard*.tw,kf.                                     102        4   TS5(((dental or occlusal or oral) NEAR/3            5,233
+9    or/4-8                                               59,729               (spint* or device* or appliance*)))
+10 exp treatment outcome/                              1,287,055        5   TS5(night$guard*)                                       53
+11 (efﬁc* or effective*).mp.                           4,679,202        6   #2 OR #3 OR #4 OR #5 OR #6 OR #7                    92,260
+12 ((adverse or negative or side or poor or            1,321,311        7   TS5((efﬁc* or effective*))                      10,631,854
+        worse or bad or safe* or undesir* or                            8   TS5(((adverse or negative or side or poor or     1,550,068
+        unwant*) adj3 (outcome* or effect* or                                  worse or bad or safe* or undesir* or
+        event* or consequence* or                                              unwant*) NEAR/3 (outcome* or effect* or
+        manifest*)).tw,kf.                                                     event* or consequence* or manifest*)))
+13 "treatment adherence and compliance"/ or              87,216         9   TS5((treatment duration or wearing time           377,171
+        patient compliance/ or medication                                      or wearing hour* or duration of
+        adherence/ or "Duration of Therapy"/                                   treatment or duration of therap*))
+14 (non?complian* or non?adheren* or                    437,302         10 TS5((non$complian* or non$adheren* or              557,869
+        adheren* or complian*).mp.                                             adheren* or complian*))
+15 (treatment duration or wearing time or                36,803         11 #7 OR #8 OR #9 OR #10                            12,165,430
+        wearing hour* or duration of treatment                          12 #1 AND #6 AND #11                                     1,300
+        or duration of therap*).tw,kf.
+16 or/12-16                                            6,535,225
+17 3 and 9 and 16                                          1,599
+Ovid Embase database
+1    exp sleep disordered breathing/                     16,540
+2    (osa or apn?ea*).tw,kf.                            110,823
+3    1 or 2                                             115,704
+4    exp occlusal splint/                                 1,161
+5    mandibular advancement/                              1,229
+6    exp orthodontic device/                             24,025
+7    (MAS or mandibular advancement                      30,334
+        splint*).tw,kf.
+8    (MAD or mandibular advancement                       9,352
+        device*).tw,kf.
+9    ((dental or occlusal or oral) adj3 (spint* or        5,306
+        device* or appliance*)).tw,kf.
+10 night?guard*.tw,kf.                                       105
+11 or/4-10                                                69,410
+12 exp treatment outcome/                              2,417,616
+13 (efﬁc* or effective*).mp.                           6,561,595
+14 ((adverse or negative or side or poor or            1,980,217
+        worse or bad or safe* or undesir* or
+        unwant*) adj3 (outcome* or effect* or
+        event* or consequence* or
+        manifest*)).tw,kf.
+15 patient compliance/ or medication                    195,903
+        compliance/
+
+
+
+
+June 2025  Vol 167  Issue 6                                  American Journal of Orthodontics and Dentofacial Orthopedics
+

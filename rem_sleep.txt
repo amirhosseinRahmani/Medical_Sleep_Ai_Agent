@@ -1,0 +1,764 @@
+                                                                      Neuroscience Research 189 (2023) 44–53
+
+
+                                                                     Contents lists available at ScienceDirect
+
+
+                                                                    Neuroscience Research
+                                           journal homepage: www.sciencedirect.com/journal/neuroscience-research
+
+
+Review article
+
+Functional roles of REM sleep
+Yasutaka Mukai a, b, Akihiro Yamanaka c, d, e, *
+a
+  Department of Neuroscience II, Research Institute of Environmental Medicine, Nagoya University, Nagoya 464-8601, Japan
+b
+  Department of Neural Regulation, Nagoya University Graduate School of Medicine, Nagoya 466-8550, Japan
+c
+  Chinese Institute for Brain Research, Beijing 102206, China
+d
+  National Institute for Physiological Sciences, National Institutes of Natural Sciences, Aichi 444-8585, Japan
+e
+  Division of Brain Sciences Institute for Advanced Medical Research, Keio University School of Medicine, Tokyo, 160-8582, Japan
+
+
+
+
+A R T I C L E I N F O                                      A B S T R A C T
+
+Keywords:                                                  Rapid eye movement (REM) sleep is an enigmatic and intriguing sleep state. REM sleep differs from non-REM
+Rapid eye movement                                         sleep by its characteristic brain activity and from wakefulness by a reduced anti-gravity muscle tone. In addi­
+Sleep                                                      tion to these key traits, diverse physiological phenomena appear across the whole body during REM sleep.
+Wakefulness
+                                                           However, it remains unclear whether these phenomena are the causes or the consequences of REM sleep.
+Memory
+Physical function
+                                                           Experimental approaches using humans and animal models have gradually revealed the functional roles of REM
+Psychological function                                     sleep. Extensive efforts have been made to interpret the characteristic brain activity in the context of memory
+Development                                                functions. Numerous physical and psychological functions of REM sleep have also been proposed. Moreover,
+Optogenetics                                               REM sleep has been implicated in aspects of brain development. Here, we review the variety of functional roles of
+                                                           REM sleep, mainly as revealed by animal models. In addition, we discuss controversies regarding the functional
+                                                           roles of REM sleep.
+
+
+
+
+1. Introduction                                                                                  However, little is known about the physiological roles or neural regu­
+                                                                                                 latory mechanisms of REM sleep.
+1.1. Rapid eye movement (REM) sleep                                                                  In human adults, REM sleep can be defined by three parameters:
+                                                                                                 muscle atonia as measured by electromyography (EMG), which assesses
+    Mammalian sleep can be classified into two states: REM sleep and                             the electrical activity of skeletal muscles; rapid movements of the eye,
+non-REM (NREM) sleep (Fig. 1). Healthy sleep usually starts with NREM                            which are confirmed with an electrooculogram (EOG) that measures the
+sleep, and REM sleep occurs subsequently. REM sleep is characterized by                          electrical potential between the cornea and retina; and enhanced
+several biological parameters, including rapid movements of the eye                              cortical activity as confirmed with an EEG (Blumberg et al., 2020). In
+beneath closed eyelids (Aserinsky and Kleitman, 1953), muscle atonia                             animal models, however, there is no consensus on the definition of REM
+(Henley and Morrison, 1974), fluctuation of heart rate and respiration                           sleep, as discussed in detail by Blumberg et al. (2020). One reason is that
+rate (Berlad et al., 1993; Cabiddu et al., 2012; Žemaitytė et al., 1986),                      not all characteristics of REM sleep in humans must be present in animal
+decreased parasympathetic and increased sympathetic tone (Berlad                                 models for REM sleep. Another reason is that some characteristics of
+et al., 1993; Cabiddu et al., 2012), erection of the penis (Fisher et al.,                       REM sleep are hard to assess in animal models. Therefore, in this review,
+1965), and vivid dreaming (Aserinsky and Kleitman, 1953). REM sleep                              we will define “REM sleep” as we usually do in rodent models: a state
+is also called “paradoxical sleep” (Jouvet, 1965), since its brain surface                       when EEG activity is dominated by θ waves and when anti-gravity
+electric activity, as measured by an electroencephalogram (EEG), is                              muscle tone is reduced (Tobler et al., 1997; Tsunematsu et al., 2014).
+dominated by theta (θ) waves (~5–9 Hz, though the range varies across                            In the last part of this review, we will discuss the controversy of REM
+the literature), an activity pattern that is also observed during wake­                          sleep from the point of view of its functional roles.
+fulness. Ponto-geniculo-occipital (PGO) or pontine (P) waves, which
+arise from the brainstem, are also observed during REM sleep (Callaway                           1.2. History of REM sleep research
+et al., 1987; Lim et al., 2007; Tsunematsu et al., 2020). Indeed, these
+parameters set REM sleep apart from NREM sleep and wakefulness.                                      REM sleep was first discovered in humans by Aserinsky and Kleitman
+
+
+    * Corresponding author at: Chinese Institute for Brain Research, Beijing 102206, China.
+      E-mail address: yamank@cibr.ac.cn (A. Yamanaka).
+
+https://doi.org/10.1016/j.neures.2022.12.009
+Received 31 July 2022; Received in revised form 1 December 2022; Accepted 15 December 2022
+Available online 23 December 2022
+0168-0102/© 2022 Elsevier B.V. and Japan Neuroscience Society. All rights reserved.
+Y. Mukai and A. Yamanaka                                                                                                    Neuroscience Research 189 (2023) 44–53
+
+
+                                                                                                                Fig. 1. Representative traces from an electro­
+                                                                                                                encephalogram (EEG) and electromyogram
+                                                                                                                (EMG), and postures in mice during wakeful­
+                                                                                                                ness, NREM sleep, and REM sleep. During
+                                                                                                                wakefulness (Wake), EEG shows a lower
+                                                                                                                amplitude and higher frequency and EMG
+                                                                                                                shows a higher power. Mice often move actively
+                                                                                                                during wakefulness. During NREM sleep, EEG
+                                                                                                                has a higher amplitude and lower frequency,
+                                                                                                                while EMG exhibits a lower power, and their
+                                                                                                                posture is generally curled up. REM sleep is
+                                                                                                                characterized by a lower amplitude and θ waves
+                                                                                                                (~5–9 Hz) on EEG and a lower power on EMG,
+                                                                                                                and their posture is generally curled up, but
+                                                                                                                more relaxed than in NREM sleep.
+
+
+
+
+(1953). They recorded EOG and EEG from adult humans. They found                    neuronal activity between REM sleep and awake states have been
+that two types of sleep states were sequentially repeated—that is, sleep           studied to understand the functional roles of REM sleep. In humans,
+without eye motility and sleep with eye motility. Today, these are                 brain regions that are active during REM sleep have been investigated by
+known as NREM and REM sleep, respectively. Their EEG recordings                    positron emission tomography (PET) and functional magnetic resonance
+during REM sleep showed that this state was characterized by low                   imaging (fMRI). The earliest studies using PET during REM sleep showed
+amplitude and θ-like (5–8 Hz) waves (Aserinsky and Kleitman, 1953). In             that activity of various brain regions was positively or negatively
+animal models, Dement (1958) reported a similar EEG state in cats and              correlated with REM sleep (Buchsbaum et al., 1989; Gottschalk et al.,
+Weiss and Roldán (1964) reported it in rodents. In the last few decades,          1991; Hong et al., 1995; Maquet et al., 1996). Maquet et al. (2000)
+there has been a remarkable development of methods for observing and               compared brain activity in humans between REM sleep and the awake
+manipulating neuronal activity at high spatial and temporal resolution             state after visuomotor activity training. They found that several brain
+using light, such as calcium imaging using fluorescent calcium in­                 regions activated during REM sleep were the same as those activated
+dicators and optogenetics using channelrhodopsins (Boyden et al., 2005;            during training. Although PET and fMRI are suitable for examining
+Miyawaki et al., 1997; Nakai et al., 2001). With these technologies, it            whole-brain activities, they cannot be used to identify the types of
+has become possible to investigate the functional roles and regulatory             neurons activated during REM sleep due to their limitations in temporal
+mechanisms of REM sleep.                                                           and spatial resolution. On the other hand, extracellular recording such
+                                                                                   as local field potential (LFP) and unit firing recording has been widely
+1.3. The neural circuits involved in REM sleep                                     used to examine neuronal activity in specific brain regions, particularly
+                                                                                   in animal models. The earliest studies recorded extracellular activities
+    Many excellent reviews have described the neural circuits involved             during REM sleep in cats (Brooks, 1968; Thomas et al., 1968). After­
+in REM sleep, and we kindly refer the reader to them for detail (Arrigoni          ward, many studies revealed that brain activity in REM sleep were
+et al., 2016; Casaglia and Luppi, 2022; Héricé et al., 2019; Jones, 2020;        similar to that during wakefulness.
+Latifi et al., 2018; Liu and Dan, 2019; Luppi et al., 2012, 2011; Park and             Some fundamental studies examined unit firing of the hippocampal
+Weber, 2020; Peever and Fuller, 2017; Saper et al., 2010; Scammell                 place cells to determine their association with θ waves. Place cells are
+et al., 2017; Vyazovskiy and Delogu, 2014; Wang et al., 2021; Weber and            neurons that fire when an animal is in a specific spatial position (O’Keefe
+Dan, 2016; Yamada and Ueda, 2020). In summary, neurons in the                      and Dostrovsky, 1971; O’Keefe and Recce, 1993). The hippocampus is
+brainstem are important for inducing and maintaining each of the                   the most important brain region for generating θ waves during both
+characteristics of REM sleep, such as muscle atonia, REM, and cortical             wakefulness and REM sleep (Buzsáki, 2002; Jouvet, 1969; Vanderwolf,
+activation, whereas neurons in the midbrain and hypothalamus induce                1969). Poe et al. (2000) recorded unit firing of the place cells and LFP in
+and maintain overall REM sleep. Recently, Hasegawa et al. (2022) re­               the CA1 region of the hippocampus of rats during track running and
+ported that the midbrain dopaminergic neurons projecting to the baso­              subsequent REM sleep. For rats who ran on a novel track, unit firing was
+lateral amygdala have a critical role in the initiation of REM sleep. The          observed in the peaks of the θ wave at the hippocampal fissure during
+characteristic REM sleep θ wave is derived mainly from hippocampal                 both running and REM sleep. On the other hand, for rats that ran on a
+activity. Thus, REM sleep is produced as a result of concerted activities          familiar track, although the unit firing during running was observed in
+among various brain regions.                                                       the peaks, that during REM sleep was observed in the troughs of the θ
+                                                                                   wave. Firings at the peaks and troughs of θ waves in the stratum radi­
+                                                                                   atum correspond to potentiation and depression of synaptic trans­
+2. Functional roles of REM sleep
+                                                                                   mission, respectively (Huerta and Lisman, 1995, 1993). Furthermore, in
+                                                                                   rats that ran repeatedly on a track for 7 days, although the timing of unit
+   To date, a variety of functional roles of REM sleep have been pro­
+                                                                                   firing in the θ phase was stable during running, it varied from peak to
+posed in both humans and animal models. In this review, we focus on
+                                                                                   trough during REM sleep. These results suggested that a role of REM
+recent results obtained from studies on REM sleep using animal models.
+                                                                                   sleep might be to reconstruct neural circuits by strengthening recent
+                                                                                   memories and weakening older ones (Poe et al., 2000). Mizuseki et al.
+2.1. A replay of neural activity experienced in the awake state                    (2011) also recorded unit firing and LFP in rats through the sublayers of
+                                                                                   CA1 during maze running and sleep before and after running. They did
+  As mentioned above, brain activity during REM sleep resembles the                not observe differences in the preference of unit firing in the θ phase
+awake state in terms of EEG wave components. Thus, similarities in
+
+                                                                              45
+Y. Mukai and A. Yamanaka                                                                                                   Neuroscience Research 189 (2023) 44–53
+
+
+between novel and familiar tasks. Instead, during maze running, CA1               sleep differed among projection neurons with lower and higher firing
+pyramidal neurons fired near the trough of the θ wave at the pyramidal            rates. Niethard et al. (2021) measured neuronal activity of the cortical
+cell layer. On the other hand, during REM sleep, superficial CA1 neurons          layer 2/3 in mice by two-photon microscopy (2PM) and found that the
+continued to fire near the trough, whereas a portion of CA1 neurons in            activity of pyramidal neurons was uniformly decreased during REM
+the deeper layer fired near the peak (Mizuseki et al., 2011). It is               sleep compared to those during NREM sleep and wakefulness. Thus,
+important to note that these studies used different brain regions as ref­         cortical activity is also modulated during REM sleep.
+erences for the θ wave—the hippocampal fissure in Poe et al., the stra­               Through a detailed analysis of θ activity, REM sleep can be divided
+tum radiatum in Huerta et al., and the pyramidal cell layer in Mizuseki           into two states: tonic REM (toREM) sleep, which accounts for ~95% of
+et al. Thus, the peaks and troughs between the studies of Poe et al. and          total REM sleep, and phasic REM (phREM) sleep, in which phasic bursts
+Huerta et al. and the study of Mizuseki et al. would be opposite.                 of LFP are observed in the dentate gyrus (DG) molecular layer of rats
+Together, these studies suggest that REM sleep plays a role in processing         (Montgomery et al., 2008). Montgomery et al. showed that during
+information by modulating hippocampal neural circuitry, but its phys­             toREM sleep, the DG and the hippocampal CA3 region were highly
+iological importance is still unknown (Mizuseki et al., 2011; Mizuseki            synchronized in θ (4–12 Hz) and γ (40–120 Hz) oscillations, while γ
+and Miyawaki, 2017).                                                              coherence between CA3 and CA1 was reduced. On the other hand,
+    Although the replay of neural activity during waking tasks has been           during phREM sleep, γ synchrony among the DG, CA3, and CA1 regions
+typically investigated during NREM sleep (Nádasdy et al., 1999; Wilson           was increased compared to that during toREM sleep. From these results,
+and McNaughton, 1994), the replay during REM sleep before or after a              the authors hypothesized that toREM sleep is involved in offline memory
+task has been also reported. Louie and Wilson (2001) found that unit              processing, whereas phREM sleep promotes memory consolidation.
+firing and CA1 θ power patterns in rats while they ran on a circular track        Brankačk et al. (2012) further examined the difference between toREM
+were reproduced during REM sleep. Peyrache et al. (2015) examined                 and phREM sleep and found that the coupling of θ-γ oscillations was
+unit firing in the anterodorsal thalamic nucleus (ADn) and the                    larger in toREM sleep, while the power of the γ wave was larger in
+post-subiculum (PoS) of mice during REM sleep and wakefulness while               phREM sleep in mice. Based on these results, toREM and phREM sleep
+recording head direction (HD). HD can be represented as a combination             may play different roles in information processing.
+of neuronal activities in the ADn and PoS, named HD cell ensembles. HD
+changes induce gradual changes in the ensembles called drifts. They               2.3. Synaptic regulation
+found that the drift of HD cell ensembles was reproduced during REM
+sleep. Eckert et al. (2020) examined unit firing in the forelimb region of            REM sleep deprivation (RSD) and the subsequent rebound of REM
+the primary motor cortex of rats before and after a motor skill task. They        sleep affect synaptic transmission via altering long-term potentiation
+found that the firing sequence activation occurred during REM sleep               (LTP). Ishikawa et al. (2006) examined LTP induced by stimulation of
+before the task, and the activation strength correlated to performance in         the perforant path in the DG of freely moving rats. They performed RSD
+“rapid learners.” Ghandour et al. (2019) examined neuronal ensembles              after LTP induction and found that LTP maintenance was impaired in
+in the CA1 region by calcium imaging after context learning in mice.              RSD animals. Ravassard et al. (2016) induced mild LTP (10 Hz)
+They found that a portion of sub-ensembles that were activated during             mimicking θ rhythms in the dorsal CA1 in rat brain slices immediately
+learning were reactivated during subsequent REM sleep. Thus, neural               after RSD or after the rebound of REM sleep. They found that LTP in­
+activity patterns experienced during waking tasks are reproduced during           duction was impaired after RSD, whereas it was improved after rebound
+REM sleep not only in the hippocampus but in other brain regions as               REM sleep. Thus, these results suggest that REM sleep also has a role in
+well. One possible purpose of this phenomenon is the regulation of                the regulation of LTP.
+memory, such as association and selection of memory. We discuss this                  Using 2PM, recent studies examined the functional roles of REM
+topic in Section 2.4.                                                             sleep at the synaptic level. Li et al. (2017) observed the dendritic spines
+                                                                                  of layer 5 (L5) pyramidal neurons in the motor cortex in mice with and
+2.2. Modulation of neural activity                                                without RSD after motor learning. They found that the elimination of
+                                                                                  new spines was less pronounced in RSD mice. Although almost all of the
+    In addition to the replay of hippocampal activity during REM sleep,           surviving new spines were eliminated over the next 4 days in RSD mice,
+modulation of the activity has also been reported. Grosmark et al. (2012)         the size of persistent new spines increased in control mice without RSD.
+recorded unit firing in the CA1 of rats during sleep. They found that the         Also, they found that dendritic calcium spikes during REM sleep were
+firing rates of both pyramidal neurons and interneurons gradually                 important for selective spine elimination and strengthening. Zhou et al.
+increased during NREM sleep and decreased during REM sleep. The                   (2020) observed dendritic spines of L5 pyramidal neurons in the visual
+decline in firing rate during REM sleep correlated with the θ power               cortex (V1) of mice with and without RSD after monocular deprivation
+during REM sleep. The increase in hippocampal neuron synchrony be­                (MD). They found that MD-induced spine elimination and activity
+tween successive NREM sleep bouts was correlated with the θ power of              reduction in V1 were reduced in RSD mice. They also observed dendritic
+an intervening REM sleep bout. On the other hand, Miyawaki and Diba               spines of L5 pyramidal neurons in the frontal association cortex (FrA)
+(2016) recorded the activity of CA1 neurons in rats across the 24-h cycle.        with and without RSD after auditory-cued fear conditioning (AFC). They
+They found hippocampal θ power during REM sleep could be predicted                found that AFC-induced spine elimination and activity reduction were
+by the incidence of spindles and sharp-wave ripples and the mean firing           reduced in the FrA of RSD mice. Furthermore, calcium spikes during
+rates in the preceding bout of NREM sleep, suggesting that REM sleep              REM sleep were necessary for spine elimination following both MD and
+took over the process of modulation of hippocampal activity from NREM             AFC. These results suggest that REM sleep plays a significant role in
+sleep. Furthermore, Miyawaki et al. (2019) analyzed unit firing of CA1            synaptic regulation by eliminating or strengthening spines.
+neurons in rats and found that the magnitude of the firing rate decline
+during REM sleep differed between pyramidal neurons with lower and                2.4. Memory
+higher firing rates. Thus, hippocampal activity is dynamically modu­
+lated during REM sleep.                                                               Memory is one of the most popular topics within the study of func­
+    Modulation of cortical activity during REM sleep has also been re­            tional roles in REM sleep. In early studies, dreaming was considered an
+ported. Sirota et al. (2008) found that the hippocampal θ rhythm                  important part of REM sleep in humans (Snyder, 1965). Often reflecting
+entrained neocortical gamma (γ) oscillations (30–150 Hz) in rats.                 subjective experiences, dreams were thought to be involved in memory
+Miyawaki et al. (2019) analyzed unit firing of cortical neurons in rats           processing (Greenberg and Leiderman, 1966). More recently, through
+and found that the magnitude of the firing rate increase during REM               striking improvements in methodology, numerous perspectives
+
+                                                                             46
+Y. Mukai and A. Yamanaka                                                                                                   Neuroscience Research 189 (2023) 44–53
+
+
+regarding the relationship between REM sleep and memory have been                  that DG-ABN activity during REM sleep decreased after CFC, and opto­
+proposed.                                                                          genetic suppression of DG-ABN during REM sleep after CFC impaired
+    The correlation between memory retrieval performance during the                contextual memory. They also found an increase in the length of den­
+awake state and neural activity during REM sleep has been examined.                dritic spine necks, which reflects a weakening of synaptic strength, after
+Koike et al. (2017) recorded LFPs in the retrosplenial cortex (RSC),               suppressing DG-ABNs during REM sleep following CFC. These results
+anterior cingulate cortex (ACA), and hippocampus of rats during REM                suggest that DG-ABN activity during REM sleep strengthens synapses
+sleep. They found that the RSC and ACA were highly activated during                and is involved in the consolidation of contextual memory. Thus, REM
+REM sleep. In a subsequent experiment, Almeida-Filho et al. (2021)                 sleep plays a vital role in the consolidation of declarative memory.
+recorded LFPs in the hippocampus and RSC in rats during REM sleep                      The P-wave during REM sleep is reported to increase after two-way
+before and after contextual fear conditioning (CFC) and examined the               active avoidance (TWAA) training in rats (Datta, 2000). In TWAA, two
+directionality and strength of information between the hippocampus                 connected chambers are used. In one chamber, sound and light cues are
+and RSC. They found that the hippocampus drove RSC θ oscillations at               followed by a delayed electric shock, and a rat can avoid the shock by
+baseline, whereas the directionality of control changed after CFC—i.e.,            moving to the other chamber. To test the role of the P-wave in this
+the RSC began to drive hippocampal θ oscillations in some animals. In              avoidance behavior, Mavanji et al. (2004) lesioned the P-wave gener­
+addition, the change in the directionality of control before and after CFC         ating pontine region in rats and examined TWAA. They found that the
+correlated with fear memory retrieval. Popa et al. (2010) examined θ               P-wave generator lesion impaired TWAA retrieval performance. Thus,
+coherence during REM sleep among the hippocampus, medial prefrontal                P-waves generated during REM sleep are involved in memory
+cortex, and amygdala before and after Pavlovian fear conditioning. They            consolidation.
+found correlations between θ coherence among the brain regions and                     Recently, a molecular aspect of declarative memory consolidation
+memory retrieval performance. Thus, neural activity during REM sleep               was proposed. Kim et al. (2021) examined O-linked-N-acetylglucos­
+is correlated with memory retrieval, suggesting that REM sleep may be              amine modification (O-GlcNAcylation) of proteins after RSD in mice.
+involved in memory consolidation or retrieval.                                     They found memory impairment was correlated with dysregulation of
+                                                                                   O-GlcNAcylation in the hippocampus and cortex. Investigating the
+2.4.1. Procedural memory consolidation                                             molecular aspects behind the role of REM sleep in declarative memory
+    The causal relationship between memory and REM sleep was first                 consolidation will enable a better understanding of the underlying
+examined in procedural memory consolidation in humans. Procedural                  mechanisms.
+memory consists of skills, habits, and tasks, which are shown by be­
+haviors (Squire, 1982). Karni et al. (1994) examined performance in the            2.4.3. Declarative memory modulation
+texture discrimination task (TDT), in which human participants were                    Recently, Aime et al. (2022) examined a microcircuit in the dorsal
+asked to identify a letter and a shape displayed briefly (10 ms), before           prefrontal cortex (dPFC) of mice. They monitored dPFC pyramidal
+and after normal sleep, RSD, and NREM sleep deprivation. They found                neurons throughout sleep/wake states and found that somatic activity
+that while performance improved after sleep, it was disrupted by RSD,              decreased while dendritic activity increased during REM sleep
+implicating REM sleep in procedural memory consolidation. On the                   compared to wake and NREM sleep. They also found that the parval­
+other hand, Rasch et al. (2009) found REM sleep-suppressing antide­                bumin (PV) neurons in the dPFC that inhibit activity of the somas of
+pressant drugs, including selective serotonin reuptake inhibitors and              pyramidal neurons were activated during REM sleep. On the other hand,
+selective noradrenaline reuptake inhibitors, did not impair but rather             somatostatin (SST) neurons in the dPFC, which inhibit the dendrites of
+improved procedural memory. They used the mirror sequence task,                    pyramidal neurons, were inhibited. This was because vasoactive intes­
+where participants were asked to trace figures with their fingers shown            tinal peptide (VIP) neurons in the dPFC, which inhibit SST neurons, were
+in a mirror, and the finger-tapping task, where participants were asked            activated during REM sleep. Aime et al. (2022) also performed an AFC
+to tap a keyboard with their 4 fingers following a 5-element sequence.             learning task and optogenetically inhibited VIP or PV neurons in the
+We cannot compare these results directly since Karni et al. disrupted              dPFC exclusively during REM sleep after conditioning and examined
+REM sleep with sound, while Rasch et al. disrupted it with drugs, and the          memory recall. They found that VIP-inhibited animals were less able to
+tasks used in the studies also differed. However, these findings none­             discriminate conditional auditory stimuli (CS) and the AMPA/NMDA
+theless suggest that REM sleep is implicated in the consolidation of               ratio was decreased in pyramidal neurons of the dPFC, while
+procedural memory. Recently, Tamaki et al. (2020) examined perfor­                 PV-inhibited animals showed a significant increase in CS discrimination
+mance on two different TDTs before and after sleep to assess the effect of         and an increase in the AMPA/NMDA ratio in pyramidal neurons in the
+disrupting the first learning by a second learning. This kind of disruption        dPFC. This study suggested that cortical microcircuits modulate memory
+is called retrograde interference and is caused by plasticity after                during REM sleep.
+learning. They found that participants who experienced REM sleep after
+the first TDT were less affected by the interference. This result suggests         2.4.4. Declarative memory forgetting
+that REM sleep is important for decreasing plasticity and stabilizing                  Crick and Mitchison (1983) proposed a hypothesis for the function of
+learning. Thus, REM sleep after learning can play a key role in proce­             REM sleep called “reverse learning” or “unlearning”. They hypothesized
+dural memory consolidation.                                                        that the high brain activity during REM sleep may help cull the large
+                                                                                   amounts of information acquired during the wake state, while input and
+2.4.2. Declarative memory consolidation                                            output to the external world are shut out during REM sleep. Poe (2017)
+   The causal relationships between memory and REM sleep at the                    also hypothesized that REM sleep and transition-to-REM (TR) sleep are
+neural circuit level began to be reported in animal models in the 2010 s.          important for forgetting, which is supported by her own study, as we
+Declarative memory consists of experiences, knowledge, and concepts,               described in Section 2.1 (Poe et al., 2000). Poe (2017) also pointed out
+which “refers to the capacity for conscious recollection about facts and           that noradrenergic neurons in the locus coeruleus are important for
+events” (Squire, 2004, 1982). Boyce et al. (2016) optogenetically sup­             synaptic potentiation, and these neurons are silent during REM and TR
+pressed GABAergic neurons in the medial septum (MS) of mice during                 sleep. Therefore, any learning that requires depotentiation to update
+REM sleep. This approach suppressed θ activity in the CA1 region, and              information can be rewritten during REM and TR sleep.
+impaired spatial and contextual memories. Regarding hippocampal DG                     Our group focused on neurons that produce the neuropeptide
+neurons, Kumar et al. (2020) monitored adult-born neurons (ABN) in the             melanin concentrating-hormone (MCH) in the hypothalamus. Opto­
+DG of mice during REM sleep before and after CFC and optogenetically               genetic activation of MCH neurons during NREM sleep induced REM
+suppressed DG-ABN activity during REM sleep after CFC. They found                  sleep in mice (Izawa et al., 2019; Tsunematsu et al., 2014). To
+
+                                                                              47
+Y. Mukai and A. Yamanaka                                                                                                        Neuroscience Research 189 (2023) 44–53
+
+
+
+
+Fig. 2. Inhibition of MCH neurons during REM sleep suppressed memory forgetting. (A) Schematic of the novel object recognition test. Mice expressing both
+Archaerhodopsin-T (ArchT) and enhanced green fluorescent protein (EGFP) or only EGFP in MCH neurons were used. ArchT is green-light inducible proton pump,
+which when activated hyperpolarizes the membrane potential and suppresses neuronal activity. In this test, a mouse is allowed to explore two objects (α & α’) for
+10 min for encoding. Then, the mouse is placed back into their home cage for a 14-h retention period. During the retention period, MCH neurons were opto­
+genetically suppressed exclusively during wakefulness, REM sleep, or NREM sleep by each state-specific green light illumination. Finally, the animal was placed back
+into a test cage for 10 min to examine their novel object (β) recognition. (B) Graphs show the discrimination ratio in mice illuminated with green light during
+wakefulness, REM sleep, or NREM sleep. The discrimination ratio was calculated as “Exploration time for β (Time β) − Time α” divided by “Time β + Time α”. Higher
+values indicate higher discrimination ability. Heatmaps show representative animal positions near the objects during the retrieval step. REM sleep inhibition of MCH
+neurons (REM illum. in ArchT-EGFP) led to an increased discrimination ratio. * * P < 0.01, one-way repeated measures ANOVA with Bonferroni post hoc comparison.
+Graphs and heatmaps were modified and reproduced from Izawa et al. (2019).
+
+
+characterize the activity patterns of MCH neurons across sleep/wake­                 required to clarify the mechanisms of memory impairment.
+fulness states, we conducted calcium imaging of MCH neurons in vivo at
+a single-cell resolution using microendoscope nVista and found that
+                                                                                     2.5. Physical function
+MCH neurons could be divided into 3 groups based on their calcium
+activity patterns: REM-active (~53%), wake-active (~35%), and
+                                                                                        Regulation of not only the neural circuits behind memory but also of
+wake-REM-active (~12%). To examine the functional roles of MCH
+                                                                                     other physical functions can be mediated by REM sleep.
+neuron activity during REM sleep, we optogenetically suppressed MCH
+neuron activity exclusively during REM sleep within the 14-h retention
+                                                                                     2.5.1. Feeding behavior regulation
+period after memory acquisition (Fig. 2). This approach significantly
+                                                                                         One physical function possibly regulated by REM sleep is feeding
+improved recognition memory, suggesting that MCH neuron activity
+                                                                                     behavior. Oesch et al. (2020) found that feeding behavior was encoded
+during REM sleep impairs memory. Interestingly, MCH neurons are a
+                                                                                     by a consistent subset of vesicular GABA transporter (vgat)-expressing
+major subset of the hippocampus-projecting hypothalamic neurons.                     neurons in the lateral hypothalamus (LHvgat) in mice. This subset of
+Optogenetic activation of MCH nerve terminals in the hippocampus
+                                                                                     neurons was reactivated during REM sleep, and optogenetic inhibition
+increased the frequency and amplitude of inhibitory postsynaptic cur­                of LHvgat neurons during REM sleep reduced food intake during subse­
+rents in the CA1 pyramidal neurons in slice patch-clamp recording.
+                                                                                     quent wakefulness. Furthermore, inhibition of these neurons during
+Furthermore, optogenetic activation of MCH nerve terminals in the                    REM sleep changed the subset of neurons encoding feeding behavior.
+hippocampus was sufficient to impair recognition memory (Izawa et al.,
+                                                                                     Based on this result, REM sleep plays a role in stabilizing and regulating
+2019). From these results, we can conclude that hypothalamic MCH                     LHvgat neuron activity to regulate feeding behavior during later wake­
+neurons have a role in the initiation of REM sleep and a role in the
+                                                                                     fulness states (Oesch et al., 2020; Oesch and Adamantidis, 2021).
+regulation of memory, including forgetting. MCH neurons may modu­
+late hippocampal activity during REM sleep to impair or clear memories.
+                                                                                     2.5.2. Autonomic nervous system regulation
+Since this study did not identify the molecular mechanisms or the                        Autonomic nervous system activity changes are correlated with REM
+detailed neural circuitry behind these phenomena, further studies are
+                                                                                     sleep, although causal relationships have yet to be investigated. Arterial
+
+                                                                                48
+Y. Mukai and A. Yamanaka                                                                                                   Neuroscience Research 189 (2023) 44–53
+
+
+pressure (AP) varies across time during REM sleep (Cianci et al., 1991).         2.6.1. Responses to stress
+Yoshimoto et al. (2011) simultaneously measured renal and lumbar                     REM sleep is involved in responses to stress. Nollet et al. (2019)
+sympathetic nerve activity (RSNA and LSNA, respectively) and AP in               examined mice exposed to unpredictable chronic mild stress (UCMS).
+rats during REM sleep. They found decreased RSNA but increased LSNA              They found that the total amount, bout duration, and θ power of REM
+during REM sleep, while RSNA correlated with LSNA during wakeful­                sleep were all increased by UCMS. They also examined mRNA expres­
+ness. Variability of sympathetic nerve activity may be important for the         sion in the prefrontal cortex, hippocampus, hypothalamus, and blood.
+increase of AP during REM sleep (Miki et al., 2022; Yoshimoto et al.,            They found that the abovementioned REM sleep parameters correlated
+2011). Martire et al. (2018) measured EEG, EMG, AP, and heart rate in            with the mRNA expression level of genes involved in stemness, devel­
+mice during intraperitoneal drug infusion. They found that injection of          opment, immune response, apoptosis, and survival. Based on this, REM
+both atenolol and prazosin, which are β1 and α1 receptor antagonists,            sleep may respond to UCMS by inducing the transcription of several
+respectively, suppressed the increase of AP during the NREM to REM               genes related to the stress response.
+sleep transition. This result implies that increased AP during REM sleep
+may be mediated by an increase in sympathetic modulation in the heart            2.6.2. Responses to threats
+through β1 receptors and in blood vessels through α1 receptors. Thus,               REM sleep is also involved in responses to threats. Tseng et al. (2022)
+REM sleep might be involved in the regulation of the autonomic nervous           examined corticotropin-releasing hormone (CRH)-expressing neurons in
+system.                                                                          the medial subthalamic nucleus (mSTN) of mice. They found that
+                                                                                 mSTN-CRH neurons are activated by predatory cues, and inhibition of
+2.5.3. Regulation of the brain as an organ                                       these neurons extended the latency to wake from REM sleep in response
+    REM sleep may also regulate the brain as an organ. Cerebral blood            to stimulation by predatory cues. Furthermore, they found that
+flow (CBF) is increased during REM sleep in mice (Natsubori et al., 2020;        mSTN-CRH neurons projecting to the lateral globus pallidus were
+Tsai et al., 2021) and rats (Bergel et al., 2018). Tsai et al. (2021)            important for rapid arousal from REM sleep due to predatory cues as
+examined CBF in mice by 2PM. They found that CBF was increased                   well. Thus, REM sleep may be important for recognition and response to
+during REM sleep compared to wake and NREM sleep, and the adenosine              threatening signals.
+A2a receptor was involved in the increase. The CBF increase during REM
+sleep might be related to glymphatic regulation. Natsubori et al. (2020)         2.7. Developmental function
+measured the intracellular concentration of adenosine 5’-triphosphate
+(ATP) in pyramidal neurons in the cortex of mice. They found that                    In Sections 2.1 to 2.6 we introduced the role of REM sleep in adult
+intracellular ATP was decreased during REM sleep. Thus, REM sleep                brain function. Indeed, young adult humans spend about 20% of their
+might be involved in the regulation of the brain as an organ.                    total sleep in a REM state. However, newborn children spend up to 50%
+                                                                                 of their sleep time in REM sleep (Roffwarg et al., 1966). Furthermore,
+2.5.4. NREM sleep modulation                                                     the immaturity of an animal at birth is correlated to the amount of REM
+    REM sleep may regulate sleep structure itself. Hayashi et al. (2015)         sleep it exhibits (Jouvet-Mounier et al., 1969). Therefore, REM sleep
+reported that REM sleep may modulate the delta (δ) wave (0.5–4 Hz)               may have a functional role in the development of the brain and neuro­
+power during subsequent NREM sleep. They genetically labeled a subset            genesis (Marks et al., 1995).
+of the pontine tegmentum neurons transiently expressing Atoh1 at em­
+bryonic day 10.5 (Atoh1-E10.5 cells). They found that activation of              2.7.1. Cortical plasticity
+Atoh1-E10.5 cells in adult mice led to decreased duration and number of              During development, neurons show higher plasticity in the cortical
+REM sleep, while inhibition of downstream GABAergic neurons in the               circuits compared to adulthood. Bridi et al. (2015) examined the effect
+dorsal area of the deep mesencephalic nucleus transiently increased the          of RSD on ocular dominance plasticity (ODP) in perinatal cats. ODP can
+number of REM sleep. By artificially modulating REM sleep duration,              be induced in V1 by monocular deprivation. They found that RSD cats
+they also found that REM sleep duration was positively correlated with           had less ODP and decreased phosphorylation of extracellular
+the δ power of subsequent NREM sleep. Thus, REM sleep may affect the             signal-regulated kinase, which is important for plasticity, in V1
+depth of subsequent NREM sleep.                                                  compared to cats with normal sleep and NREM sleep-fragmented ani­
+                                                                                 mals. This suggests that REM sleep may be involved in the induction of
+2.5.5. Body temperature regulation                                               plasticity. In contrast, in the case of perinatal rats, RSD prolonged the
+    The amount of REM sleep is changed by the ambient temperature                age at which LTP was inducible in visual cortex (Shaffery et al., 2002).
+through the MCH system in mice (Komagata et al., 2019). Szymusiak                Thus, REM sleep may also suppress plasticity. Nonetheless, although the
+and Satinoff (1981) measured the duration of REM sleep in different              directionality of effect is still controversial, REM sleep is likely involved
+ambient temperatures in rats, and they defined the ambient temperature           in the regulation of cortical plasticity during mammalian development.
+with the longest REM sleep duration as the thermoneutral zone. They
+found that the REM sleep duration-defined thermoneutral zone was                 2.7.2. Development of motor skills
+more limited than the zone defined by the lowest oxygen consumption.                 In infants, twitches of the limbs, tails, eyes, and whiskers commonly
+This result suggest that REM sleep duration is sensitive to the ambient          occur during REM sleep (Marcano-Reik et al., 2010; Seelke et al., 2005;
+temperature. On the other hand, RSD decreased the peritoneal temper­             Tiriac et al., 2012). Blumberg et al. (2013) examined limb twitches
+ature in rats (Bergmann et al., 1989). Furthermore, there are several            during REM sleep of infant rats and found that they were not random but
+overlapping brain regions regulating REM sleep and body temperature,             highly structured and the patterns of twitching changed during devel­
+such as the parabrachial nucleus, median preoptic hypothalamus, lateral          opment. The same group also found that hindlimb twitching during REM
+hypothalamus, and periaqueductal gray (Cerri et al., 2017). Thus, REM            sleep induced activity in the primary motor cortex (M1) through cor­
+sleep may be involved in the regulation of body temperature.                     ollary discharges from the motor system, while hindlimb twitching
+                                                                                 during wakefulness did not (Tiriac et al., 2014). They hypothesized that
+2.6. Psychological function                                                      during REM sleep with muscle atonia, twitching is perceived as an un­
+                                                                                 expected movement and is utilized for the development and refinement
+   REM sleep may also regulate psychological function. Below we                  of sensorimotor systems (Tiriac et al., 2015). Interestingly, even adult
+describe some reports in support of this.                                        rats show increasing frequency of twitches of masseter muscles across
+                                                                                 REM sleep (Brooks and Peever, 2016). In the future, interventional
+                                                                                 studies can help to reveal the actual function of twitching during REM
+
+                                                                            49
+Y. Mukai and A. Yamanaka                                                                                                    Neuroscience Research 189 (2023) 44–53
+
+
+
+
+    Fig. 3. Functional roles of REM sleep. A Venn diagram of the proposed functional roles of REM sleep. Each functional role can be related to the others.
+
+
+sleep.                                                                             processes preexisting memories that are irrelevant or competing, then
+                                                                                   during the subsequent REM sleep bouts, acquired memories are inte­
+2.8. Other hypotheses                                                              grated with preexisting memories (Giuditta, 2014). This hypothesis is
+                                                                                   based on observations in which learner rats showed longer NREM sleep
+    There are additional hypotheses for functions of REM sleep, as                 and an increased number of REM sleep bouts compared to non-learner
+described in other review papers. Here, we will list them, but do not go           rats (Giuditta et al., 1985). Li et al. (2017) proposed a hypothesis from
+into detail: to prepare for ensuing wakefulness (Horne, 2013); to                  a viewpoint of spine formation. Their group showed formation of new
+enhance the clearance of metabolic waste from the retina (Magonio,                 spines in L5 pyramidal neurons during NREM sleep after motor learning
+2021); to maintain the sensitivity of noradrenergic receptors (Siegel and          (Yang et al., 2014), and the spines were eliminated or preserved during
+Rogawski, 1988); and to allocate energy resources by inhibiting and                REM sleep (Li et al., 2017). Tamaki et al. (2020) proposed the “com­
+assisting physiological functions (Latifi et al., 2018; Schmidt, 2014).            plementary processing hypothesis” from a viewpoint of procedural
+                                                                                   learning. In this hypothesis, NREM sleep is important for improved
+3. Controversy about the functional roles of REM sleep                             performance, and REM sleep is important for resilience to interference.
+                                                                                   They indirectly showed a putative increase and decrease in plasticity
+   As described above, various functional roles of REM sleep have been             during NREM and REM sleep, respectively. Thus, the sequence of
+proposed. However, there are several controversies as well.                        NREM-REM sleep may reflect physiological functions, however, its exact
+                                                                                   importance is still unknown.
+3.1. Rapid eye movement
+                                                                                   3.3. The necessity of REM sleep
+    REM sleep is characterized by rapid movements of the eye. However,
+in animal models, REM sleep is not usually defined by eye movements,                   It is well known that the amount of REM sleep increases during re­
+but by a higher θ power on EEG and a lower activity on EMG. Is “REM”               covery sleep after RSD (Dement, 1960) suggesting the existence of a
+important for REM sleep? Herrera et al. (2019) examined an important               homeostatic regulation mechanism of REM sleep. This also points to the
+neural circuit for “REM” with EOG, which enables the recording of eye              functional importance of REM sleep. However, studies have demon­
+movements. They found that calbindin-D28K-expressing neurons in the                strated that some mammals exhibit a temporary or chronic lack of REM
+nucleus papilio (NPCalb), which is located in the dorsal para­                     sleep. Cetaceans, such as dolphins and whales, show a unique form of
+gigantocellular nucleus, connect to the oculomotor nucleus, and opto­              sleep called unihemispheric slow wave sleep (USWS), in which unilat­
+genetic activation and inhibition of NPCalb induced and suppressed                 eral hemispheres take turns showing slow waves, and they do not show
+“REM” during REM sleep in mice, respectively. Interestingly, opto­                 characteristics of REM sleep (Lyamin et al., 2008). Moreover, the
+genetic manipulation of these neurons did not change either the dura­              northern fur seal, a semiaquatic mammal, shows typical REM sleep on
+tion or the frequency of REM sleep episodes. This result suggests that this        land, but it suppresses REM sleep and shows USWS while in seawater for
+“REM” characteristic during REM sleep is not necessary for                         days or weeks, and it does not show any rebound effects after returning
+EEG/EMG-defined “REM sleep.” However, it is worth noting that REM                  to land (Lyamin et al., 2018). From these results, REM sleep does not
+sleep duration in that study was assessed during optogenetic manipu­               seem necessary for all mammals. However, it is possible that charac­
+lation, and homeostatic regulation of the “REM” characteristic still               teristics of REM sleep, such as θ activity in EEG and muscle atonia, are
+needs to be clarified.                                                             substituted by another state in these species.
+                                                                                       Interestingly, even in the case of mice, genetic manipulation resulted
+3.2. REM sleep occurrence after NREM sleep                                         in the loss of REM sleep. Niwa et al. (2018) revealed that muscarinic
+                                                                                   acetylcholine receptor M1 and M3 genes (Chrm1 and Chrm3) are
+   In principle, REM sleep only occurs after NREM sleep, except in                 essential for REM sleep in mice. Based on this, they generated Chrm1 and
+disease conditions, such as narcolepsy. Thus, what is the physiological            Chrm3 double knockout (dKO) mice and found that they showed un­
+purpose of NREM-REM order? From a memory processing viewpoint,                     detectable level of REM sleep by the definition of low amplitude EEG
+the “sequential hypothesis” has been proposed (Giuditta, 2014; Giuditta            waves with θ activity and very low EMG power. Although they did not
+et al., 1995). According to the sequential hypothesis, NREM sleep                  show any data on the behavior of dKO mice, this result suggests REM
+
+                                                                              50
+Y. Mukai and A. Yamanaka                                                                                                                             Neuroscience Research 189 (2023) 44–53
+
+
+sleep is not necessary for survival in mice in the laboratory environment.                        Boyce, R., Glasgow, S.D., Williams, S., Adamantidis, A., 2016. Causal evidence for the
+                                                                                                      role of REM sleep theta rhythm in contextual memory consolidation. Science 352,
+Of course, there may be other explanations as in the case of cetaceans,
+                                                                                                      812–816. https://doi.org/10.1126/science.aad5252.
+and further investigation, such as EOG recordings, are needed to                                  Boyden, E.S., Zhang, F., Bamberg, E., Nagel, G., Deisseroth, K., 2005. Millisecond-
+conclude the “loss” of REM sleep. It would also be informative to                                     timescale, genetically targeted optical control of neural activity. Nat. Neurosci. 8,
+examine the hypothesized functional roles of REM sleep in this dKO                                    1263–1268. https://doi.org/10.1038/nn1525.
+                                                                                                  Brankačk, J., Scheffzük, C., Kukushka, V.I., Vyssotski, A.L., Tort, A.B.L., Draguhn, A.,
+mouse.                                                                                                2012. Distinct features of fast oscillations in phasic and tonic rapid eye movement
+                                                                                                      sleep. J. Sleep. Res 21, 630–633. https://doi.org/10.1111/j.1365-2869.2012.01037.
+                                                                                                      x.
+4. Conclusion                                                                                     Bridi, M.C.D., Aton, S.J., Seibt, J., Renouard, L., Coleman, T., Frank, M.G., 2015. Rapid
+                                                                                                      eye movement sleep promotes cortical plasticity in the developing brain. Sci. Adv. 1,
+    Various functional roles of REM sleep have been proposed, including                               e1500105 https://doi.org/10.1126/sciadv.1500105.
+                                                                                                  Brooks, D.C., 1968. Localization and characteristics of the cortical waves associated with
+the replay of activities experienced in the awake state, modulation of
+                                                                                                      eye movement in the cat. Exp. Neurol. 22, 603–613. https://doi.org/10.1016/0014-
+neural activity, synaptic regulation, memory processing, psychological                                4886(68)90152-0.
+function, and developmental function (Fig. 3). These roles are interre­                           Brooks, P.L., Peever, J., 2016. A temporally controlled inhibitory drive coordinates
+                                                                                                      twitch movements during REM sleep. Curr. Biol. 26, 1177–1182. https://doi.org/
+lated and would need to be coordinated to achieve the physiological
+                                                                                                      10.1016/j.cub.2016.03.013.
+purposes of REM sleep, which to date, still remain poorly understood.                             Buchsbaum, M.S., Gillin, J.C., Wu, J., Hazlett, E., Sicotte, N., Dupont, R.M., Bunney, W.
+With recent developments in genetic tools, there are new opportunities                                E., 1989. Regional cerebral glucose metabolic rate in human sleep assessed by
+available for manipulating neuronal activities, including REM sleep-                                  positron emission tomography. Life Sci. 45, 1349–1356. https://doi.org/10.1016/
+                                                                                                      0024-3205(89)90021-0.
+specific neural manipulations, to reveal causal relationships (Aime                               Buzsáki, G., 2002. Theta oscillations in the hippocampus. Neuron 33, 325–340. https://
+et al., 2022; Boyce et al., 2016; Izawa et al., 2019; Kumar et al., 2020;                             doi.org/10.1016/s0896-6273(02)00586-x.
+Oesch et al., 2020). Many more details of the functional roles of REM                             Cabiddu, R., Cerutti, S., Viardot, G., Werner, S., Bianchi, A.M., 2012. Modulation of the
+                                                                                                      sympatho-vagal balance during sleep: frequency domain study of heart rate
+sleep are expected to be revealed in the near future through the appli­                               variability and respiration. Front Physiol. 3, 45. https://doi.org/10.3389/
+cation of optical and genetic tools in animal models.                                                 fphys.2012.00045.
+                                                                                                  Callaway, C.W., Lydic, R., Baghdoyan, H.A., Hobson, J.A., 1987. Pontogeniculooccipital
+                                                                                                      waves: spontaneous visual system activity during rapid eye movement sleep. Cell
+                                                                                                      Mol. Neurobiol. 7, 105–149. https://doi.org/10.1007/bf00711551.
+Competing interests
+                                                                                                  Casaglia, E., Luppi, P., 2022. Is paradoxical sleep setting up innate and acquired complex
+                                                                                                      sensorimotor and adaptive behaviours?: A proposed function based on literature
+    The authors declare no competing interests regarding this work.                                   review. J. Sleep. Res, e13633. https://doi.org/10.1111/jsr.13633.
+                                                                                                  Cerri, M., Luppi, M., Tupone, D., Zamboni, G., Amici, R., 2017. REM sleep and
+                                                                                                      endothermy: potential sites and mechanism of a reciprocal interference. Front
+Data Availability                                                                                     Physiol. 8, 624. https://doi.org/10.3389/fphys.2017.00624.
+                                                                                                  Cianci, T., Zoccoli, G., Lenzi, P., Franzini, C., 1991. Loss of integrative control of
+    No data was used for the research described in the article.                                       peripheral circulation during desynchronized sleep. Am. J. Physiol. -Regul. Integr.
+                                                                                                      Comp. Physiol. 261, R373–R377. https://doi.org/10.1152/ajpregu.1991.261.2.
+                                                                                                      r373.
+Acknowledgments                                                                                   Crick, F., Mitchison, G., 1983. The function of dream sleep. Nature 304, 111–114.
+                                                                                                      https://doi.org/10.1038/304111a0.
+                                                                                                  Datta, S., 2000. Avoidance task training potentiates phasic pontine-wave density in the
+    This work was supported by JSPS KAKENHI grants (21K20688 and                                      rat: a mechanism for sleep-dependent plasticity. J. Neurosci. 20, 8607–8613.
+22K15225) and AMED-CREST (JP20gm1310007) to Y.M and Mitsubishi                                        https://doi.org/10.1523/jneurosci.20-22-08607.2000.
+                                                                                                  Dement, W., 1958. The occurence of low voltage, fast, electroencephalogram patterns
+foundation, Senshin-iyaku foundation and Kao Kenkokagaku foundation
+                                                                                                      during behavioral sleep in the cat. Electro Clin. Neuro 10, 291–296. https://doi.org/
+to A.Y. We appreciate valuable comments and suggestions from Dr.                                      10.1016/0013-4694(58)90037-3.
+Kenji Mizuseki and Dr. Tomomi Tsunematsu and the beautiful illustra­                              Dement, W., 1960. The effect of dream deprivation. Science 131, 1705–1707. https://
+tions prepared by Yan Li.                                                                             doi.org/10.1126/science.131.3415.1705.
+                                                                                                  Eckert, M.J., McNaughton, B.L., Tatsuno, M., 2020. Neural ensemble reactivation in
+                                                                                                      rapid eye movement and slow-wave sleep coordinate with muscle activity to
+References                                                                                            promote rapid motor skill learning. Philos. Trans. R. Soc. B 375, 20190655. https://
+                                                                                                      doi.org/10.1098/rstb.2019.0655.
+                                                                                                  Fisher, C., Gross, J., Zuch, J., 1965. Cycle of penile erection synchronous with dreaming
+Aime, M., Calcini, N., Borsa, M., Campelo, T., Rusterholz, T., Sattin, A., Fellin, T.,
+                                                                                                      (REM) sleep: preliminary report. Arch. Gen. Psychiatr. 12, 29–45. https://doi.org/
+    Adamantidis, A., 2022. Paradoxical somatodendritic decoupling supports cortical
+                                                                                                      10.1001/archpsyc.1965.01720310031005.
+    plasticity during REM sleep. Science 376, 724–730. https://doi.org/10.1126/
+                                                                                                  Ghandour, K., Ohkawa, N., Fung, C.C.A., Asai, H., Saitoh, Y., Takekawa, T., Okubo-
+    science.abk2734.
+                                                                                                      Suzuki, R., Soya, S., Nishizono, H., Matsuo, M., Osanai, M., Sato, M., Ohkura, M.,
+Almeida-Filho, D.G., de, Koike, B.D.V., Billwiller, F., Farias, K.S., Sales, I.R.P., de,
+                                                                                                      Nakai, J., Hayashi, Y., Sakurai, T., Kitamura, T., Fukai, T., Inokuchi, K., 2019.
+    Luppi, P.-H., Ribeiro, S., Queiroz, C.M., 2021. Hippocampus-retrosplenial cortex
+                                                                                                      Orchestrated ensemble activities constitute a hippocampal memory engram. Nat.
+    interaction is increased during phasic REM and contributes to memory
+                                                                                                      Commun. 10, 2637. https://doi.org/10.1038/s41467-019-10683-2.
+    consolidation. Sci. Rep. 11, 13078. https://doi.org/10.1038/s41598-021-91659-5.
+                                                                                                  Giuditta, A., 2014. Sleep memory processing: the sequential hypothesis. Front. Syst.
+Arrigoni, E., Chen, M.C., Fuller, P.M., 2016. The anatomical, cellular and synaptic basis
+                                                                                                      Neurosci. 8, 219. https://doi.org/10.3389/fnsys.2014.00219.
+    of motor atonia during rapid eye movement sleep. J. Physiol. 594, 5391–5414.
+                                                                                                  Giuditta, A., Ambrosini, M.V., Scaroni, R., Chiurulla, C., Sadile, A., 1985. Effect of sleep
+    https://doi.org/10.1113/jp271324.
+                                                                                                      on cerebral DNA synthesized during shuttle-box avoidance training. Physiol. Behav.
+Aserinsky, E., Kleitman, N., 1953. Regularly occurring periods of eye motility, and
+                                                                                                      34, 769–778. https://doi.org/10.1016/0031-9384(85)90376-2.
+    concomitant phenomena, during sleep. Science 118, 273–274. https://doi.org/
+                                                                                                  Giuditta, A., Ambrosini, M.V., Montagnese, P., Mandile, P., Cotugno, M., Zucconi, G.G.,
+    10.1126/science.118.3062.273.
+                                                                                                      Vescia, S., 1995. The sequential hypothesis of the function of sleep. Behav. Brain Res
+Bergel, A., Deffieux, T., Demené, C., Tanter, M., Cohen, I., 2018. Local hippocampal fast
+                                                                                                      69, 157–166. https://doi.org/10.1016/0166-4328(95)00012-i.
+    gamma rhythms precede brain-wide hyperemic patterns during spontaneous rodent
+                                                                                                  Gottschalk, L.A., Buchsbaum, M.S., Gillin, J.C., Wu, J.C., Reynolds, C.A., Herrera, D.B.,
+    REM sleep. Nat. Commun. 9, 5364. https://doi.org/10.1038/s41467-018-07752-3.
+                                                                                                      1991. Anxiety levels in dreams: relation to localized cerebral glucose metabolic rate.
+Bergmann, B.M., Everson, C.A., Kushida, C.A., Fang, V.S., Leitch, C.A., Schoeller, D.A.,
+                                                                                                      Brain Res. 538, 107–110. https://doi.org/10.1016/0006-8993(91)90383-7.
+    Refetoff, S., Rechtschaffen, A., 1989. Sleep deprivation in the rat: V. energy use and
+                                                                                                  Greenberg, R., Leiderman, P.H., 1966. Perceptions, the dream process and memory An
+    mediation. Sleep 12, 31–41. https://doi.org/10.1093/sleep/12.1.31.
+                                                                                                      up-to-date version of notes on a mystic writing pad. Compr. Psychiatr. 7, 517–523.
+Berlad, I., Shlitner, A., Ben-Haim, S., Lavie, P., 1993. Power spectrum analysis and heart
+                                                                                                      https://doi.org/10.1016/s0010-440x(66)80032-9.
+    rate variability in Stage 4 and REM sleep: evidence for state-specific changes in
+                                                                                                  Grosmark, A.D., Mizuseki, K., Pastalkova, E., Diba, K., Buzsáki, G., 2012. REM sleep
+    autonomic dominance. J. Sleep. Res. 2, 88–90. https://doi.org/10.1111/j.1365-
+                                                                                                      reorganizes hippocampal excitability. Neuron 75, 1001–1007. https://doi.org/
+    2869.1993.tb00067.x.
+                                                                                                      10.1016/j.neuron.2012.08.015.
+Blumberg, M.S., Coleman, C.M., Gerth, A.I., McMurray, B., 2013. Spatiotemporal
+                                                                                                  Hasegawa, E., Miyasaka, A., Sakurai, K., Cherasse, Y., Li, Y., Sakurai, T., 2022. Rapid eye
+    structure of REM sleep twitching reveals developmental origins of motor synergies.
+                                                                                                      movement sleep is initiated by basolateral amygdala dopamine signaling in mice.
+    Curr. Biol. 23, 2100–2109. https://doi.org/10.1016/j.cub.2013.08.055.
+                                                                                                      Science 375, 994–1000. https://doi.org/10.1126/science.abl6618.
+Blumberg, M.S., Lesku, J.A., Libourel, P.-A., Schmidt, M.H., Rattenborg, N.C., 2020.
+                                                                                                  Hayashi, Y., Kashiwagi, M., Yasuda, K., Ando, R., Kanuka, M., Sakai, K., Itohara, S., 2015.
+    What is REM sleep? Curr. Biol. 30, R38–R49. https://doi.org/10.1016/j.
+                                                                                                      Cells of a common developmental origin regulate REM/non-REM sleep and
+    cub.2019.11.045.
+
+
+                                                                                             51
+Y. Mukai and A. Yamanaka                                                                                                                                  Neuroscience Research 189 (2023) 44–53
+
+     wakefulness in mice. Science 350, 957–961. https://doi.org/10.1126/science.                         dysfunctions causing narcolepsy and rapid eye movement (REM) behavior disorder.
+     aad1023.                                                                                            Sleep. Med Rev. 15, 153–163. https://doi.org/10.1016/j.smrv.2010.08.002.
+Henley, K., Morrison, A.R., 1974. A re-evaluation of the effects of lesions of the pontine           Luppi, P.-H., Clement, O., Sapin, E., Peyron, C., Gervasoni, D., Léger, L., Fort, P., 2012.
+     tegmentum and locus coeruleus on phenomena of paradoxical sleep in the cat. Acta                    Brainstem mechanisms of paradoxical (REM) sleep generation. Pflu¨g. Arch. - Eur. J.
+     Neurobiol. Exp. 34, 215–232.                                                                        Physiol. 463, 43–52. https://doi.org/10.1007/s00424-011-1054-y.
+Héricé, C., Patel, A.A., Sakata, S., 2019. Circuit mechanisms and computational models             Lyamin, O.I., Manger, P.R., Ridgway, S.H., Mukhametov, L.M., Siegel, J.M., 2008.
+     of REM sleep. Neurosci. Res 140, 77–92. https://doi.org/10.1016/j.                                  Cetacean sleep: an unusual form of mammalian sleep. Neurosci. Biobehav Rev. 32,
+     neures.2018.08.003.                                                                                 1451–1484. https://doi.org/10.1016/j.neubiorev.2008.05.023.
+Herrera, C.G., Girard, F., Bilella, A., Gent, T.C., Roccaro-Waldmeyer, D.M.,                         Lyamin, O.I., Kosenko, P.O., Korneva, S.M., Vyssotski, A.L., Mukhametov, L.M., Siegel, J.
+     Adamantidis, A., Celio, M.R., 2019. Neurons in the Nucleus papilio contribute to the                M., 2018. Fur seals suppress REM sleep for very long periods without subsequent
+     control of eye movements during REM sleep. Nat. Commun. 10, 5225. https://doi.                      rebound. Curr. Biol. 28 (2000–2005), e2 https://doi.org/10.1016/j.
+     org/10.1038/s41467-019-13217-y.                                                                     cub.2018.05.022.
+Hong, C.C.-H., Gillin, J.C., Dow, B.M., Wu, J., Buchsbaum, M.S., 1995. Localized and                 Magonio, F., 2021. REM phase: An ingenious mechanism to enhance clearance of
+     lateralized cerebral glucose metabolism associated with eye movements during REM                    metabolic waste from the retina. Exp. Eye Res. 214, 108860 https://doi.org/
+     sleep and wakefulness: a positron emission tomography (PET) study. Sleep 18,                        10.1016/j.exer.2021.108860.
+     570–580. https://doi.org/10.1093/sleep/18.7.570.                                                Maquet, P., Péters, J.-M., Aerts, J., Delfiore, G., Degueldre, C., Luxen, A., Franck, G.,
+Horne, J., 2013. Why REM sleep? Clues beyond the laboratory in a more challenging                        1996. Functional neuroanatomy of human rapid-eye-movement sleep and dreaming.
+     world. Biol. Psychol. 92, 152–168. https://doi.org/10.1016/j.                                       Nature 383, 163–166. https://doi.org/10.1038/383163a0.
+     biopsycho.2012.10.010.                                                                          Maquet, P., Laureys, S., Peigneux, P., Fuchs, S., Petiau, C., Phillips, C., Aerts, J., Fiore, G.
+Huerta, P.T., Lisman, J.E., 1993. Heightened synaptic plasticity of hippocampal CA1                      D., Degueldre, C., Meulemans, T., Luxen, A., Franck, G., Linden, M.V.D., Smith, C.,
+     neurons during a Cholinergically induced rhythmic state. Nature 364, 723–725.                       Cleeremans, A., 2000. Experience-dependent changes in cerebral activation during
+     https://doi.org/10.1038/364723a0.                                                                   human REM sleep. Nat. Neurosci. 3, 831–836. https://doi.org/10.1038/77744.
+Huerta, P.T., Lisman, J.E., 1995. Bidirectional synaptic plasticity induced by a single              Marcano-Reik, A.J., Prasad, T., Weiner, J.A., Blumberg, M.S., 2010. An abrupt
+     burst during cholinergic theta oscillation in CA1 in vitro. Neuron 15, 1053–1063.                   developmental shift in callosal modulation of sleep-related spindle bursts coincides
+     https://doi.org/10.1016/0896-6273(95)90094-2.                                                       with the emergence of excitatory-inhibitory balance and a reduction of
+Ishikawa, A., Kanayama, Y., Matsumura, H., Tsuchimochi, H., Ishida, Y., Nakamura, S.,                    somatosensory cortical plasticity. Behav. Neurosci. 124, 600–611. https://doi.org/
+     2006. Selective rapid eye movement sleep deprivation impairs the maintenance of                     10.1037/a0020774.
+     long-term potentiation in the rat hippocampus. Eur. J. Neurosci. 24, 243–248.                   Marks, G.A., Shaffery, J.P., Oksenberg, A., Speciale, S.G., Roffwarg, H.P., 1995.
+     https://doi.org/10.1111/j.1460-9568.2006.04874.x.                                                   A functional role for REM sleep in brain maturation. Behav. Brain Res 69, 1–11.
+Izawa, S., Chowdhury, S., Miyazaki, T., Mukai, Y., Ono, D., Inoue, R., Ohmura, Y.,                       https://doi.org/10.1016/0166-4328(95)00018-o.
+     Mizoguchi, H., Kimura, K., Yoshioka, M., Terao, A., Kilduff, T.S., Yamanaka, A.,                Martire, V.L., Silvani, A., Alvente, S., Bastianini, S., Berteotti, C., Valli, A., Zoccoli, G.,
+     2019. REM sleep–active MCH neurons are involved in forgetting hippocampus-                          2018. Modulation of sympathetic vasoconstriction is critical for the effects of sleep
+     dependent memories. Science 365, 1308–1313. https://doi.org/10.1126/science.                        on arterial pressure in mice. J. Physiol. 596, 591–608. https://doi.org/10.1113/
+     aax9238.                                                                                            jp275353.
+Jones, B.E., 2020. Arousal and sleep circuits. Neuropsychopharmacol 45, 6–20. https://               Mavanji, V., Ulloor, J., Saha, S., Datta, S., 2004. Neurotoxic lesions of phasic pontine-
+     doi.org/10.1038/s41386-019-0444-2.                                                                  wave generator cells impair retention of 2-way active avoidance memory. Sleep 27,
+Jouvet, M., 1965. Paradoxical sleep — a study of its nature and mechanisms. Prog. Brain                  1282–1292. https://doi.org/10.1093/sleep/27.7.1282.
+     Res 18, 20–62. https://doi.org/10.1016/s0079-6123(08)63582-7.                                   Miki, K., Ikegame, S., Yoshimoto, M., 2022. Regional differences in sympathetic nerve
+Jouvet, M., 1969. Biogenic amines and the states of sleep. Science 163, 32–41. https://                  activity are generated by multiple arterial baroreflex loops arranged in parallel.
+     doi.org/10.1126/science.163.3862.32.                                                                Front Physiol. 13, 858654 https://doi.org/10.3389/fphys.2022.858654.
+Jouvet-Mounier, D., Astic, L., Lacote, D., 1969. Ontogenesis of the states of sleep in rat,          Miyawaki, A., Llopis, J., Heim, R., McCaffery, J.M., Adams, J.A., Ikura, M., Tsien, R.Y.,
+     cat, and guinea pig during the first postnatal month. Dev. Psychobiol. 2, 216–239.                  1997. Fluorescent indicators for Ca2+based on green fluorescent proteins and
+     https://doi.org/10.1002/dev.420020407.                                                              calmodulin. Nature 388, 882–887. https://doi.org/10.1038/42264.
+Karni, A., Tanne, D., Rubenstein, B.S., Askenasy, J.J.M., Sagi, D., 1994. Dependence on              Miyawaki, H., Diba, K., 2016. Regulation of hippocampal firing by network oscillations
+     REM sleep of overnight improvement of a perceptual skill. Science 265, 679–682.                     during sleep. Curr. Biol. 26, 893–902. https://doi.org/10.1016/j.cub.2016.02.024.
+     https://doi.org/10.1126/science.8036518.                                                        Miyawaki, H., Watson, B.O., Diba, K., 2019. Neuronal firing rates diverge during REM
+Kim, S.-M., Zhang, S., Park, J., Sung, H.J., Tran, T.-D.T., Chung, C., Han, I.-O., 2021.                 and homogenize during non-REM. Sci. Rep. -uk 9, 689. https://doi.org/10.1038/
+     REM sleep deprivation impairs learning and memory by decreasing brain O-GlcNAc                      s41598-018-36710-8.
+     cycling in mouse. Neurotherapeutics 18, 2504–2517. https://doi.org/10.1007/                     Mizuseki, K., Miyawaki, H., 2017. Hippocampal information processing across sleep/
+     s13311-021-01094-7.                                                                                 wake cycles. Neurosci. Res 118, 30–47. https://doi.org/10.1016/j.
+Koike, B.D.V., Farias, K.S., Billwiller, F., Almeida-Filho, D., Libourel, P.-A., Tiran-                  neures.2017.04.018.
+     Cappello, A., Parmentier, R., Blanco, W., Ribeiro, S., Luppi, P.-H., Queiroz, C.M.,             Mizuseki, K., Diba, K., Pastalkova, E., Buzsáki, G., 2011. Hippocampal CA1 pyramidal
+     2017. Electrophysiological evidence that the retrosplenial cortex displays a strong                 cells form functionally distinct sublayers. Nat. Neurosci. 14, 1174–1181. https://doi.
+     and specific activation phased with hippocampal theta during paradoxical (REM)                      org/10.1038/nn.2894.
+     sleep. J. Neurosci. 37, 8003–8013. https://doi.org/10.1523/jneurosci.0026-                      Montgomery, S.M., Sirota, A., Buzsaki, G., 2008. Theta and gamma coordination of
+     17.2017.                                                                                            hippocampal networks during waking and rapid eye movement sleep. J. Neurosci.
+Komagata, N., Latifi, B., Rusterholz, T., Bassetti, C.L.A., Adamantidis, A., Schmidt, M.H.,              28, 6731–6741. https://doi.org/10.1523/jneurosci.1227-08.2008.
+     2019. Dynamic REM sleep modulation by ambient temperature and the critical role                 Nádasdy, Z., Hirase, H., Czurkó, A., Csicsvari, J., Buzsáki, G., 1999. Replay and time
+     of the melanin-concentrating hormone system. Curr. Biol. 29 (1976–1987), e4                         compression of recurring spike sequences in the hippocampus. J. Neurosci. Off. J.
+     https://doi.org/10.1016/j.cub.2019.05.009.                                                          Soc. Neurosci. 19, 9497–9507.
+Kumar, D., Koyanagi, I., Carrier-Ruiz, A., Vergara, P., Srinivasan, S., Sugaya, Y.,                  Nakai, J., Ohkura, M., Imoto, K., 2001. A high signal-to-noise Ca2+ probe composed of a
+     Kasuya, M., Yu, T.-S., Vogt, K.E., Muratani, M., Ohnishi, T., Singh, S., Teixeira, C.M.,            single green fluorescent protein. Nat. Biotechnol. 19, 137–141. https://doi.org/
+     Chérasse, Y., Naoi, T., Wang, S.-H., Nondhalee, P., Osman, B.A.H., Kaneko, N.,                     10.1038/84397.
+     Sawamoto, K., Kernie, S.G., Sakurai, T., McHugh, T.J., Kano, M., Yanagisawa, M.,                Natsubori, A., Tsunematsu, T., Karashima, A., Imamura, H., Kabe, N., Trevisiol, A.,
+     Sakaguchi, M., 2020. Sparse activity of hippocampal adult-born neurons during REM                   Hirrlinger, J., Kodama, T., Sanagi, T., Masamoto, K., Takata, N., Nave, K.-A.,
+     sleep is necessary for memory consolidation. Neuron 107 (552–565), e10. https://                    Matsui, K., Tanaka, K.F., Honda, M., 2020. Intracellular ATP levels in mouse cortical
+     doi.org/10.1016/j.neuron.2020.05.008.                                                               excitatory neurons varies with sleep–wake states. Commun. Biol. 3, 491. https://doi.
+Latifi, B., Adamantidis, A., Bassetti, C., Schmidt, M.H., 2018. Sleep-wake cycling and                   org/10.1038/s42003-020-01215-6.
+     energy conservation: role of hypocretin and the lateral hypothalamus in dynamic                 Niethard, N., Brodt, S., Born, J., 2021. Cell-type-specific dynamics of calcium activity in
+     state-dependent resource optimization. Front Neurol. 9, 790. https://doi.org/                       cortical circuits over the course of slow-wave sleep and rapid eye movement sleep.
+     10.3389/fneur.2018.00790.                                                                           J. Neurosci. 41, 4212–4222. https://doi.org/10.1523/jneurosci.1957-20.2021.
+Li, W., Ma, L., Yang, G., Gan, W.-B., 2017. REM sleep selectively prunes and maintains               Niwa, Y., Kanda, G.N., Yamada, R.G., Shi, S., Sunagawa, G.A., Ukai-Tadenuma, M.,
+     new synapses in development and learning. Nat. Neurosci. 20, 427–437. https://doi.                  Fujishima, H., Matsumoto, N., Masumoto, K., Nagano, M., Kasukawa, T.,
+     org/10.1038/nn.4479.                                                                                Galloway, J., Perrin, D., Shigeyoshi, Y., Ukai, H., Kiyonari, H., Sumiyama, K.,
+Lim, A.S., Lozano, A.M., Moro, E., Hamani, C., Hutchison, W.D., Dostrovsky, J.O.,                        Ueda, H.R., 2018. Muscarinic acetylcholine receptors Chrm1 and Chrm3 are
+     Lang, A.E., Wennberg, R.A., Murray, B.J., 2007. Characterization of REM-sleep                       essential for REM sleep. Cell Rep. 24 (2231–2247), e7 https://doi.org/10.1016/j.
+     associated ponto-geniculo-occipital waves in the human pons. Sleep 30, 823–827.                     celrep.2018.07.082.
+     https://doi.org/10.1093/sleep/30.7.823.                                                         Nollet, M., Hicks, H., McCarthy, A.P., Wu, H., Möller-Levet, C.S., Laing, E.E., Malki, K.,
+Liu, D., Dan, Y., 2019. A motor theory of sleep-wake control: arousal-action circuit. Annu               Lawless, N., Wafford, K.A., Dijk, D.-J., Winsky-Sommerer, R., 2019. REM sleep’s
+     Rev. Neurosci. 42, 1–20. https://doi.org/10.1146/annurev-neuro-080317-061813.                       unique associations with corticosterone regulation, apoptotic pathways, and
+Louie, K., Wilson, M.A., 2001. Temporally structured replay of awake hippocampal                         behavior in chronic stress in mice. Proc. Natl. Acad. Sci. USA 116, 2733–2742.
+     ensemble activity during rapid eye movement sleep. Neuron 29, 145–156. https://                     https://doi.org/10.1073/pnas.1816456116.
+     doi.org/10.1016/s0896-6273(01)00186-6.                                                          O’Keefe, J., Dostrovsky, J., 1971. The hippocampus as a spatial map. Preliminary
+Luppi, P.-H., Clément, O., Sapin, E., Gervasoni, D., Peyron, C., Léger, L., Salvert, D.,               evidence from unit activity in the freely-moving rat. Brain Res 34, 171–175. https://
+     Fort, P., 2011. The neuronal network responsible for paradoxical sleep and its                      doi.org/10.1016/0006-8993(71)90358-1.
+
+
+
+
+                                                                                                52
+Y. Mukai and A. Yamanaka                                                                                                                               Neuroscience Research 189 (2023) 44–53
+
+O’Keefe, J., Recce, M.L., 1993. Phase relationship between hippocampal place units and             Tamaki, M., Wang, Z., Barnes-Diana, T., Guo, D., Berard, A.V., Walsh, E., Watanabe, T.,
+    the EEG theta rhythm. Hippocampus 3, 317–330. https://doi.org/10.1002/                              Sasaki, Y., 2020. Complementary contributions of NREM and REM sleep to visual
+    hipo.450030307.                                                                                     learning. Nat. Neurosci. 23, 1150–1156. https://doi.org/10.1038/s41593-020-0666-
+Oesch, L.T., Adamantidis, A.R., 2021. How REM sleep shapes hypothalamic                                 y.
+    computations for feeding behavior. Trends Neurosci. 44, 990–1003. https://doi.org/             Thomas, J., Groves, P., Verzeano, M., 1968. The activity of neurons in the lateral
+    10.1016/j.tins.2021.09.003.                                                                         geniculate body during wakefulness and natural sleep. Experientia 24, 360–362.
+Oesch, L.T., Gazea, M., Gent, T.C., Bandarabadi, M., Herrera, C.G., Adamantidis, A.R.,                  https://doi.org/10.1007/bf02140822.
+    2020. REM sleep stabilizes hypothalamic representation of feeding behavior. P Natl.            Tiriac, A., Uitermarkt, B.D., Fanning, A.S., Sokoloff, G., Blumberg, M.S., 2012. Rapid
+    Acad. Sci. USA 117, 19590–19598. https://doi.org/10.1073/pnas.1921909117.                           whisker movements in sleeping newborn rats. Curr. Biol. 22, 2075–2080. https://
+Park, S.-H., Weber, F., 2020. Neural and homeostatic regulation of REM sleep. Front                     doi.org/10.1016/j.cub.2012.09.009.
+    Psychol. 11, 1662. https://doi.org/10.3389/fpsyg.2020.01662.                                   Tiriac, A., Del Rio-Bermudez, C., Blumberg, M.S., 2014. Self-generated movements with
+Peever, J., Fuller, P.M., 2017. The biology of REM sleep. Curr. Biol. 27, R1237–R1248.                  “unexpected” sensory consequences. Curr. Biol. 24, 2136–2141. https://doi.org/
+    https://doi.org/10.1016/j.cub.2017.10.026.                                                          10.1016/j.cub.2014.07.053.
+Peyrache, A., Lacroix, M.M., Petersen, P., Buzsáki, G., 2015. Internally-organized                Tiriac, A., Sokoloff, G., Blumberg, M.S., 2015. Myoclonic twitching and sleep-dependent
+    mechanisms of the head direction sense. Nat. Neurosci. 18, 569–575. https://doi.                    plasticity in the developing sensorimotor system. Curr. Sleep. Med. Rep. 1, 74–79.
+    org/10.1038/nn.3968.                                                                                https://doi.org/10.1007/s40675-015-0009-9.
+Poe, G.R., 2017. Sleep is for forgetting. J. Neurosci. 37, 464–473. https://doi.org/               Tobler, I., Deboer, T., Fischer, M., 1997. Sleep and sleep regulation in normal and prion
+    10.1523/jneurosci.0820-16.2017.                                                                     protein-deficient mice. J. Neurosci. Off. J. Soc. Neurosci. 17, 1869–1879. https://
+Poe, G.R., Nitz, D.A., McNaughton, B.L., Barnes, C.A., 2000. Experience-dependent                       doi.org/10.1523/jneurosci.17-05-01869.1997.
+    phase-reversal of hippocampal neuron firing during REM sleep. Brain Res 855,                   Tsai, C.-J., Nagata, T., Liu, C.-Y., Suganuma, T., Kanda, T., Miyazaki, T., Liu, K.,
+    176–180. https://doi.org/10.1016/s0006-8993(99)02310-0.                                             Saitoh, T., Nagase, H., Lazarus, M., Vogt, K.E., Yanagisawa, M., Hayashi, Y., 2021.
+Popa, D., Duvarci, S., Popescu, A.T., Léna, C., Paré, D., 2010. Coherent amygdalocortical             Cerebral capillary blood flow upsurge during REM sleep is mediated by A2a
+    theta promotes fear memory consolidation during paradoxical sleep. Proc. Natl.                      receptors. Cell Rep. 36, 109558 https://doi.org/10.1016/j.celrep.2021.109558.
+    Acad. Sci. 107, 6516–6519. https://doi.org/10.1073/pnas.0913016107.                            Tseng, Y.-T., Zhao, B., Chen, S., Ye, J., Liu, J., Liang, L., Ding, H., Schaefke, B., Yang, Q.,
+Rasch, B., Pommer, J., Diekelmann, S., Born, J., 2009. Pharmacological REM sleep                        Wang, Lina, Wang, F., Wang, Liping, 2022. The subthalamic corticotropin-releasing
+    suppression paradoxically improves rather than impairs skill memory. Nat. Neurosci.                 hormone neurons mediate adaptive REM-sleep responses to threat. Neuron 110
+    12, 396–397. https://doi.org/10.1038/nn.2206.                                                       (1223–1239), e8. https://doi.org/10.1016/j.neuron.2021.12.033.
+Ravassard, P., Hamieh, A.M., Joseph, M.A., Fraize, N., Libourel, P.-A., Lebarillier, L.,           Tsunematsu, T., Ueno, T., Tabuchi, S., Inutsuka, A., Tanaka, K.F., Hasuwa, H., Kilduff, T.
+    Arthaud, S., Meissirel, C., Touret, M., Malleret, G., Salin, P.-A., 2016. REM sleep-                S., Terao, A., Yamanaka, A., 2014. Optogenetic manipulation of activity and
+    dependent bidirectional regulation of hippocampal-based emotional memory and                        temporally controlled cell-specific ablation reveal a role for MCH neurons in sleep/
+    LTP. Cereb. Cortex 26, 1488–1500. https://doi.org/10.1093/cercor/bhu310.                            wake regulation. J. Neurosci. 34, 6896–6909. https://doi.org/10.1523/
+Roffwarg, H.P., Muzio, J.N., Dement, W.C., 1966. Ontogenetic development of the                         jneurosci.5344-13.2014.
+    human sleep-dream cycle. Science 152, 604–619. https://doi.org/10.1126/                        Tsunematsu, T., Patel, A.A., Onken, A., Sakata, S., 2020. State-dependent brainstem
+    science.152.3722.604.                                                                               ensemble dynamics and their interactions with hippocampus across sleep states.
+Saper, C.B., Fuller, P.M., Pedersen, N.P., Lu, J., Scammell, T.E., 2010. Sleep state                    Elife 9, e52244. https://doi.org/10.7554/elife.52244.
+    switching. Neuron 68, 1023–1042. https://doi.org/10.1016/j.neuron.2010.11.032.                 Vanderwolf, C.H., 1969. Hippocampal electrical activity and voluntary movement in the
+Scammell, T.E., Arrigoni, E., Lipton, J.O., 2017. Neural circuitry of wakefulness and                   rat. Electro Clin. Neuro 26, 407–418. https://doi.org/10.1016/0013-4694(69)
+    sleep. Neuron 93, 747–765. https://doi.org/10.1016/j.neuron.2017.01.014.                            90092-3.
+Schmidt, M.H., 2014. The energy allocation function of sleep: a unifying theory of sleep,          Vyazovskiy, V.V., Delogu, A., 2014. NREM and REM sleep. Neurosci 20, 203–219.
+    torpor, and continuous wakefulness. Neurosci. Biobehav Rev. 47, 122–153. https://                   https://doi.org/10.1177/1073858413518152.
+    doi.org/10.1016/j.neubiorev.2014.08.001.                                                       Wang, Y.-Q., Liu, W.-Y., Li, L., Qu, W.-M., Huang, Z.-L., 2021. Neural circuitry underlying
+Seelke, A.M.H., Karlsson, K.Æ., Gall, A.J., Blumberg, M.S., 2005. Extraocular muscle                    REM sleep: a review of the literature and current concepts. Prog. Neurobiol. 204,
+    activity, rapid eye movements and the development of active and quiet sleep. Eur. J.                102106 https://doi.org/10.1016/j.pneurobio.2021.102106.
+    Neurosci. 22, 911–920. https://doi.org/10.1111/j.1460-9568.2005.04322.x.                       Weber, F., Dan, Y., 2016. Circuit-based interrogation of sleep control. Nature 538, 51–59.
+Shaffery, J.P., Sinton, C.M., Bissette, G., Roffwarg, H.P., Marks, G.A., 2002. Rapid eye                https://doi.org/10.1038/nature19773.
+    movement sleep deprivation modifies expression of long-term potentiation in visual             Weiss, T., Roldán, E., 1964. Comparative study of sleep cycles in rodents. Experientia 20,
+    cortex of immature rats. Neuroscience 110, 431–443. https://doi.org/10.1016/                        280–281. https://doi.org/10.1007/bf02151809.
+    s0306-4522(01)00589-9.                                                                         Wilson, M.A., McNaughton, B.L., 1994. Reactivation of hippocampal ensemble memories
+Siegel, J.M., Rogawski, M.A., 1988. A function for REM sleep: regulation of                             during sleep. Science 265, 676–679. https://doi.org/10.1126/science.8036517.
+    noradrenergic receptor sensitivity. Brain Res Rev. 13, 213–233. https://doi.org/               Yamada, R.G., Ueda, H.R., 2020. Molecular mechanisms of REM Sleep. Front Neurosci.
+    10.1016/0165-0173(88)90007-0.                                                                       -Switz. 13, 1402. https://doi.org/10.3389/fnins.2019.01402.
+Sirota, A., Montgomery, S., Fujisawa, S., Isomura, Y., Zugaro, M., Buzsáki, G., 2008.             Yang, G., Lai, C.S.W., Cichon, J., Ma, L., Li, W., Gan, W.-B., 2014. Sleep promotes branch-
+    Entrainment of neocortical neurons and gamma oscillations by the hippocampal                        specific formation of dendritic spines after learning. Science 344, 1173–1178.
+    theta rhythm. Neuron 60, 683–697. https://doi.org/10.1016/j.neuron.2008.09.014.                     https://doi.org/10.1126/science.1249098.
+Snyder, F., 1965. Progress in the new biology of dreaming. Am. J. Psychiatr. 122,                  Yoshimoto, M., Yoshida, I., Miki, K., 2011. Functional role of diverse changes in
+    377–391. https://doi.org/10.1176/ajp.122.4.377.                                                     sympathetic nerve activity in regulating arterial pressure during REM Sleep. Sleep
+Squire, L.R., 1982. The neuropsychology of human memory. Annu Rev. Neurosci. 5,                         34, 1093–1101. https://doi.org/10.5665/sleep.1168.
+    241–273. https://doi.org/10.1146/annurev.ne.05.030182.001325.                                  Žemaitytė, D., Varoneckas, G., Plauška, K., Kaukėnas, J., 1986. Components of the heart
+Squire, L.R., 2004. Memory systems of the brain: a brief history and current perspective.               rhythm power spectrum in wakefulness and individual sleep stages. Int J.
+    Neurobiol. Learn Mem. 82, 171–177. https://doi.org/10.1016/j.nlm.2004.06.005.                       Psychophysiol. 4, 129–141. https://doi.org/10.1016/0167-8760(86)90006-1.
+Szymusiak, R., Satinoff, E., 1981. Maximal REM sleep time defines a narrower                       Zhou, Y., Lai, C.S.W., Bai, Y., Li, W., Zhao, R., Yang, G., Frank, M.G., Gan, W.-B., 2020.
+    thermoneutral zone than does minimal metabolic rate. Physiol. Behav. 26, 687–690.                   REM sleep promotes experience-dependent dendritic spine elimination in the mouse
+    https://doi.org/10.1016/0031-9384(81)90145-1.                                                       cortex. Nat. Commun. 11, 4819. https://doi.org/10.1038/s41467-020-18592-5.
+
+
+
+
+                                                                                              53
+

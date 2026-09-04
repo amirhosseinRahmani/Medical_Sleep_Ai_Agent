@@ -1,0 +1,24 @@
+{
+  "number_of_questions": 12,
+  "retrieval": {
+    "recall@1": 0.9444444444444443,
+    "recall@3": 0.9444444444444443,
+    "recall@5": 0.9444444444444443,
+    "precision@5": 0.9833333333333334,
+    "mrr": 1.0,
+    "ndcg@5": 2.7933847946454455
+  },
+  "answer_quality": {
+    "token_f1": 0.10675062117022316,
+    "rouge1": 0.11455405767098549,
+    "rouge2": 0.049476591238685974,
+    "rougeL": 0.09453844299372105,
+    "semantic_similarity": 0.7616979479789734,
+    "grounding": 0.8606230879330908
+  },
+  "performance": {
+    "average_retrieval_ms": 62.08647499998884,
+    "average_generation_ms": 49179.18878333331,
+    "average_total_ms": 49241.275258333306
+  }
+}

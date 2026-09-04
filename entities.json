@@ -1,0 +1,77 @@
+{
+  "diseases_conditions": [
+    "Obstructive Sleep Apnea (OSA)",
+    "Obstructive Sleep Apnea-Hypopnea Syndrome (OSAHS)",
+    "Positional Obstructive Sleep Apnea (POSA)",
+    "Coronary Artery Disease (CAD)",
+    "Aortic Dissection (TAAD/TBAD)",
+    "Thoracic Aortic Aneurysm (TAA)",
+    "Abdominal Aortic Aneurysm (AAA)",
+    "Chronic Kidney Disease (CKD)",
+    "Pulmonary Hypertension",
+    "Venous Thromboembolism (VTE)",
+    "Peripheral Arterial Disease (PAD)",
+    "Nonarteritic Anterior Ischemic Optic Neuropathy (NAION)",
+    "Preeclampsia",
+    "Atherosclerosis"
+  ],
+  "treatments_devices": [
+    "Continuous Positive Airway Pressure (CPAP)",
+    "Sleep Positional Therapy (SPT)",
+    "Oral Appliance Therapy (OAT)",
+    "Mandibular Advancement Device (MAD)",
+    "Titratable MAD",
+    "Nontitratable MAD",
+    "Custom-made MAD",
+    "Ready-made / Boil-and-bite MAD",
+    "NightBalance",
+    "Night Shift",
+    "Zzoma",
+    "Buzz-POD",
+    "Somnibel",
+    "Thornton Adjustable Positioner",
+    "SomnoDent Flex",
+    "BluePro"
+  ],
+  "metrics_indices": [
+    "Apnea-Hypopnea Index (AHI)",
+    "Oxygen Desaturation Index (ODI)",
+    "Epworth Sleepiness Scale (ESS)",
+    "Total Sleep Time (TST)",
+    "Arousal Index",
+    "Sleep Efficiency",
+    "Minimum SaO2",
+    "CT90 (% TST SaO2 <90%)",
+    "Functional Outcomes of Sleep Questionnaire (FOSQ)"
+  ],
+  "sleep_stages_concepts": [
+    "REM sleep",
+    "NREM sleep",
+    "Tonic REM (toREM)",
+    "Phasic REM (phREM)",
+    "Theta waves",
+    "PGO / Pontine waves",
+    "Muscle atonia",
+    "Sleep architecture",
+    "Memory consolidation",
+    "Synaptic homeostasis",
+    "Neural replay"
+  ],
+  "psychological_factors": [
+    "3P Model (Predisposing, Precipitating, Perpetuating)",
+    "Health literacy",
+    "Self-efficacy",
+    "Device-related anxiety",
+    "Social stigma / embarrassment",
+    "Bed partner support",
+    "Perceived efficacy",
+    "Cognitive Behavioral Therapy (CBT)"
+  ],
+  "authors_institutions": [
+    "Beijing Jishuitan Hospital / Capital Medical University",
+    "Nagoya University / Chinese Institute for Brain Research",
+    "Tongji Hospital / Huazhong University of Science and Technology",
+    "IRCCS Fondazione Don Carlo Gnocchi / Università Cattolica del Sacro Cuore",
+    "University of British Columbia / Peking University School of Stomatology"
+  ]
+}

@@ -1,0 +1,1083 @@
+                                                                        Sleep Medicine 119 (2024) 296–311
+
+
+                                                                    Contents lists available at ScienceDirect
+
+
+                                                                             Sleep Medicine
+                                                           journal homepage: www.elsevier.com/locate/sleep
+
+
+
+
+Obstructive sleep apnea hypopnea syndrome and vascular lesions: An
+update on what we currently know
+Zhenyu Mao a, Pengdou Zheng a, Xiaoyan Zhu a, Lingling Wang a, Fengqin Zhang a, Huiguo Liu a,
+Hai Li b, c, Ling Zhou a, *, Wei Liu b, c, **
+a
+  Department of Respiratory and Critical Care Medicine, National Health Committee (NHC) Key Laboratory of Respiratory Disease, Tongji Hospital, Tongji Medical
+College, Huazhong University of Science and Technology, Wuhan, China
+b
+  Department of Geriatrics, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430030, China
+c
+  Key Laboratory of Vascular Aging, Ministry of Education, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, 1095 Jiefang
+Avenue, Wuhan, 430030, China
+
+
+
+
+A R T I C L E I N F O                                      A B S T R A C T
+
+Keywords:                                                  Obstructive sleep apnea-hypopnea syndrome (OSAHS) is the most prevalent sleep and respiratory disorder. This
+OSAHS                                                      syndrome can induce severe cardiovascular and cerebrovascular complications, and intermittent hypoxia is a
+Vascular lesions                                           pivotal contributor to this damage. Vascular pathology is closely associated with the impairment of target organs,
+Pathophysiological mechanisms
+                                                           marking a focal point in current research. Vascular lesions are the fundamental pathophysiological basis of
+Treatments
+                                                           multiorgan ailments and indicate a shared pathogenic mechanism among common cardiovascular and cere­
+                                                           brovascular conditions, suggesting their importance as a public health concern. Increasing evidence shows a
+                                                           strong correlation between OSAHS and vascular lesions. Previous studies predominantly focused on the patho­
+                                                           physiological alterations in OSAHS itself, such as intermittent hypoxia and fragmented sleep, leading to vascular
+                                                           disruptions. This review aims to delve deeper into the vascular lesions affected by OSAHS by examining the
+                                                           microscopic pathophysiological mechanisms involved. Emphasis has been placed on examining how OSAHS
+                                                           induces vascular lesions through disruptions in the endothelial barrier, metabolic dysregulation, cellular
+                                                           phenotype alterations, neuroendocrine irregularities, programmed cell death, vascular inflammation, oxidative
+                                                           stress and epigenetic modifications. This review examines the epidemiology and associated risk factors for
+                                                           OSAHS and vascular diseases and subsequently describes the existing evidence on vascular lesions induced by
+                                                           OSAHS in the cardiovascular, cerebrovascular, retinal, renal and reproductive systems. A detailed account of the
+                                                           current research on the pathophysiological mechanisms mediating vascular lesions caused by OSAHS is provided,
+                                                           culminating in a discussion of research advancements in therapeutic modalities to mitigate OSAHS-related
+                                                           vascular lesions and the implications of these treatment strategies.
+
+
+
+
+1. Introduction                                                                                 awakenings, as well as significant fluctuations in intrathoracic pressure.
+                                                                                                According to the World Health Organization, 523 million cases of car­
+    OSAHS is a prevalent chronic respiratory disorder, and a global study                       diovascular disease were reported in 2019, and cardiovascular
+reported that nearly one billion people worldwide are affected by this                          disease-related deaths increased from 12.1 million in 1990 to 18.6
+condition; some countries have prevalence rates exceeding 50 % [1].                             million in 2019 [2]. Vascular lesions, which are exemplified by car­
+Patients with OSAHS often exhibit recurrent pharyngeal collapse and                             diovascular diseases, pose a substantial medical burden on society. The
+respiratory pauses during sleep, resulting from the loss of pharyngeal                          ability of OSAHS to cause vascular lesions (especially cardiovascular
+dilator muscle tone upon falling asleep. Recurrent episodes of hypoxia                          lesions) has been reported in numerous studies. Atherosclerosis, insulin
+and carbon dioxide retention result in fragmented sleep and frequent                            resistance, hypertension, dyslipidemia, type 2 diabetes mellitus and
+
+
+  * Corresponding author. Department of Respiratory and Critical Care Medicine, National Health Committee (NHC), Key Laboratory of Respiratory Disease, Tongji
+Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.
+ ** Corresponding author. Department of Geriatrics, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, 1095 Jiefang Avenue,
+Wuhan, China.
+    E-mail addresses: 471699217@tjh.tjmu.edu.cn (L. Zhou), 404793938@tjh.tjmu.edu.cn (W. Liu).
+
+https://doi.org/10.1016/j.sleep.2024.05.010
+Received 21 March 2024; Received in revised form 23 April 2024; Accepted 2 May 2024
+Available online 7 May 2024
+1389-9457/© 2024 The Authors. Published by Elsevier B.V. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+Z. Mao et al.                                                                                                                         Sleep Medicine 119 (2024) 296–311
+
+
+hypertension have all been reported to be strongly associated with                     sections will elaborate on these impacts (Fig. 1, Table 1).
+OSAHS [3]. The vasculature constitutes the largest network of vessels
+within the human body and is dispersed throughout various organs.                      2. Specific vascular lesions associated with OSAHS
+Blood vessels can respond to external stimuli to maintain functional
+homeostasis [4]. Vascular homeostasis is characterized by the control of               2.1. Coronary artery disease
+vascular tone, prevention of thrombus formation, regulation of inflam­
+mation, preservation of barrier integrity and modulation of vascular                       It has long been known that OSAHS and cardiovascular disease
+growth to ensure optimal vascular function. Metabolic alterations such                 (CVD) are closely linked. Coronary artery disease (CAD) and OSAHS are
+as changes in glucose and lipid metabolism, dysregulated inflammatory                  significantly correlated, but risk factors associated with cardiovascular
+responses and disruptions in the neuroendocrine system can lead to                     diseases are not related [32]. Coronary artery lesions can present as
+abnormal secretion of signaling molecules that can regulate endothelial                structural and functional changes. Structural CAD is primarily charac­
+cells, such as nitric oxide (NO). This disruption can compromise the                   terized by coronary atherosclerosis. On the other hand, functional CAD
+vascular barrier, subsequently resulting in a cascade of vascular pa­                  is characterized by disruption of the endothelial barrier and impaired
+thologies [5]. During the course of OSAHS, intermittent hypoxia, frag­                 coronary microcirculation. Apolipoprotein E is a unique protein capable
+mented sleep and sympathetic nervous system activation can directly                    of binding and transporting lipids, playing a crucial role in lipid meta­
+lead to vascular lesions. Concurrently, alterations in systemic metabolic              bolism and the development of vascular diseases. Currently, Apolipo­
+levels and increases in oxidative stress and inflammation can result in an             protein E-knockout (ApoE− /− ) mice have become the most widely used
+imbalance in vascular homeostasis, directly or indirectly leading to                   animal model for atherosclerosis research [33]. Intermittent hypoxia
+adverse pathophysiological consequences [6]. This consequences                         can increase atherosclerotic plaque volume in ApoE− /− mice [7]. The
+include impaired vascular dilation [7], disruption of normal coagulation               study also revealed that intermittent hypoxia can independently induce
+and thrombus formation [8], vascular inflammatory responses [9], and                   plaque development, even in the absence of a high-fat diet. This un­
+endothelial and smooth muscle cell dysfunction, resulting in rupture of                derscores the significant promoting effect of intermittent hypoxia on the
+the vascular barrier [10,11]. At the systemic level, OSAHS can exert                   initiation and progression of atherosclerosis, consistent with previous
+detrimental effects on the cardiovascular system (coronary arteries,                   clinical findings. A recent in vitro study indicated that chronic inter­
+aorta, pulmonary arteries), cerebral vasculature, uterine arteries, and                mittent hypoxia-induced plaque progression involves the activation of
+microvasculature (retinal vessels and renal vessels). The following                    cyclooxygenase-1 (COX-1), and inhibition of COX-1 simultaneously
+
+
+
+
+Fig. 1. | OSAHS induces vascular lesions through disruptions in the endothelial barrier, metabolic dysregulation, changes in cellular phenotype, neuroendocrine
+irregularities, programmed cell death, vascular inflammation, oxidative stress and epigenetic modifications and affects the cardiovascular, cerebrovascular, retinal,
+renal and reproductive systems. The specific vessels affected include the vasculature of the cardiovascular, cerebrovascular, retinal, renal and reproductive systems.
+
+                                                                                 297
+Z. Mao et al.                                                                                                                                   Sleep Medicine 119 (2024) 296–311
+
+
+Table 1
+Specific vascular lesions associated with OSAHS.
+  Specific Vascular lesion   Subjects                                  Results                                                                                        References
+
+  Coronary Artery Disease    ApoE− /− mice exposed to IH               IH increases atherosclerotic plaque volume.                                                    [7]
+                             692 clinical subjects                     Coronary plaques are more likely in patients with moderate to severe OSAHS.                    [12]
+                             42 patients with coronary artery          Moderate to severe OSAHS is independently associated with coronary spasm angina.               [13]
+                             spasmodic angina pectoris
+  Aortic Pathologies         151 patients with TBAD                    The prevalence of OSAHS was 66.2 %, and OSAHS severity was positively associated with          [14]
+                                                                       thrombosis.
+                             83 patients with TAAD                     Patients with comorbid OSAHS who underwent aortic repair had a greater incidence of            [15]
+                                                                       hypoxemia (83.0 %/52.4 %) and a greater likelihood of developing postoperative
+                                                                       complications (75.6 %/52.4 %).
+                             208 patients with TAA versus 104          The prevalence of OSAHS was significantly higher in the TAA group (63 %/47 %).                 [16]
+                             control subjects without TAA
+                             127 AAA patients                          An ODI or AHI greater than 10 was observed in 40.5 % and 41.5 % of patients, respectively,     [17]
+                                                                       and patients with an ODI greater than 30 had a faster rate of annual AAA expansion than
+                                                                       those with a low ODI.
+  Microvascular              35 patients with diabetes mellitus        Significant improvements in visual acuity after 6 months of treatment in patients with good    [18]
+   Complications             combined with OSAHS                       CPAP compliance.
+                             89 patients with NAION                    67 patients (75 %) with concomitant OSAHS.                                                     [19]
+                             1525 participants                         Severe OSA was associated with increased risk of CKD during 19 years of follow-up.             [20]
+  Pulmonary Vascular         44 patients with OSAHS                    Precapillary pulmonary hypertension was observed in 12 patients.                               [21]
+    Diseases and VTE         52 patients with pulmonary                56 % of the subjects had OSAHS.                                                                [22]
+                             hypertension
+                             23 patients with pulmonary                Effective CPAP therapy resulted in significant reductions in pulmonary systolic blood          [23]
+                             hypertension and OSAHS                    pressure values.
+                             31,309 patients undergoing overnight      Patients with oxyhemoglobin saturation <90 % during sleep have a 48 % increased risk of        [24]
+                             polysomnography                           VTE.
+  Cerebrovascular Lesions    3000 hemorrhagic stroke patients and      OSAHS was more common in the group with hemorrhagic stroke (71 %/52 %).                        [25]
+                             3000 control subjects
+                             5422 OSAHS patients without a history     There were 193 patients with concomitant ischemic stroke and an estimated 6 % increase in      [26]
+                             of stroke                                 stroke risk for each unit increase in male AHI at 5–25 in male patients.
+  Peripheral Arterial        82 patients with PAD who underwent        70 patients were diagnosed with OSAHS.                                                         [27]
+    Disease                  inguinal surgical hemodialysis
+                             100 subjects with a suspected diagnosis   The prevalence of PAD was 88 %.                                                                [28]
+                             of OSAHS
+  Uterine Arterial Lesions   pregnant mice exposed to CIH              Persistent increase in systolic blood pressure with proteinuria in the CIH group of pregnant   [29]
+                                                                       mice with concomitant fetal and placental growth restriction and reduced number of
+                                                                       fetuses.
+                             pregnant mice receive IH stimulation      CIH induces endothelium-dependent vasodilation and enhanced vasoconstriction in mouse          [30]
+                                                                       uterine arteries
+                             182 high-risk pregnant women              Combined sleep apnea during pregnancy can lead to arterial stiffness and an increased risk     [31]
+                                                                       of preeclampsia.
+
+IH: intermittent hypoxia; TAAD: Type A aortic dissection; TBAD: Type B aortic dissection; TAA: Thoracic aortic aneurysm; AAA: abdominal aortic aneurysm; ODI:
+oxygen desaturation index; AHI: apnea–hypopnea index; NAION: nonarteritic anterior ischemic optic neuropathy; CKD: chronic kidney disease; VTE: venous
+thromboembolism; PAD: peripheral arterial disease.
+
+
+ameliorates atherosclerosis caused by intermittent hypoxia. This sug­                     classified as having mild OSAHS, 21 patients (13.9 %) had moderate
+gests a potential mechanism by which intermittent hypoxia contributes                     OSAHS, and 23 patients (15.2 %) classified had severe OSAHS. After
+to the development of atherosclerosis [34]. Both clinical and in vitro                    adjusting for other confounding factors, more severe OSAHS was more
+experimental data demonstrate that the cleavage level of VE-cadherin                      likely thrombus formation was [14]. Furthermore, in a study of 83 pa­
+serves as a crucial mediator in the intermittent hypoxia-mediated                         tients with TAAD, 41 patients (49.4 %) were diagnosed with OSAHS
+development of atherosclerosis. Studies have revealed that intermit­                      through sleep monitoring. Compared with patients in the TAAD-alone
+tent hypoxia leads to decreased expression of VE-cadherin, resulting in                   group, those in the TAAD-concomitant OSAHS group were more likely
+vascular intimal thickening and alterations in elastic fibers, ultimately                 to experience postoperative hypoxemia (83.0 % vs. 52.4 %) and post­
+mediating the occurrence of atherosclerosis [10,35]. In a cross-sectional                 operative complications (75.6 % vs. 52.4 %) after undergoing aortic
+study of 692 subjects, patients with more severe OSAHS were more                          repair [15].
+likely to develop coronary plaque [12]. An analysis of 42 patients with                       OSAHS is also closely associated with aortic aneurysms, including
+coronary artery vasospastic angina involving moderate-to-severe                           thoracic aortic aneurysms (TAAs) and abdominal aortic aneurysms
+OSAHS indicated that OSAHS was independently linked to coronary                           (AAAs), based on their location. In a prospective study, researchers
+artery vasospastic angina [13]. Thus, early diagnosis and treatment of                    included 208 TAA patients and 104 non-TAA patients. A higher pro­
+individuals with OSAHS offer significant benefits for controlling the                     portion of OSAHS complications occurred in the TAA group than in the
+occurrence and progression of coronary atherosclerosis.                                   non-TAA group (63 % vs. 47 %) [16]. In a multicenter study involving
+                                                                                          127 patients with AAA, the oxygen desaturation index (ODI) was greater
+2.2. Aortic pathologies                                                                   than 10 in 40.5 % of patients, and the apnea–hypopnea index (AHI) was
+                                                                                          greater than 10 in 41.5 % of patients; the ODI and AHI are important
+    Several studies have shown that OSAHS significantly contributes to                    indicators for the diagnosis of OSAHS. Moreover, patients with an ODI
+vascular dysfunction, and aneurysms and dissection of the aorta are two                   higher than 30 had a higher annual AAA expansion rate (2.9 %) than
+diseases associated with this condition. According to the Stanford clas­                  those with an ODI of 0–5 (1.2 %) or ODI of 6–15 (1.3 %) [17]. These
+sification, aortic dissection can be classified as type A (TAAD) or type B                findings indicate a high prevalence of OSAHS among AAA patients, and
+(TBAD). In an observational study involving 151 patients with TBAD,                       severe OSAHS may contribute to the acceleration of AAA expansion. At
+the prevalence of OSAHS was 66.2 %, and 56 patients (37.1 %) were                         present, the pathophysiological mechanisms by which OSAHS mediates
+
+                                                                                    298
+Z. Mao et al.                                                                                                                     Sleep Medicine 119 (2024) 296–311
+
+
+aortic pathology remain elusive. However, several potential mecha­                  being a small-sample single-center study, requires further confirmation
+nisms warrant attention. Firstly, OSAHS-related hemodynamic alter­                  of its reliability through larger sample size studies. Additionally, since
+ations are noteworthy. Upper airway obstruction during OSAHS                        patients with severe retinal diseases were included in the study and
+episodes can lead to changes in intrathoracic pressures, resulting in               received ophthalmic specialist treatments such as laser therapy during
+compression of thoracic vessels, including the aorta [36]. The afore­               the follow-up period, the potential interference of ophthalmic treat­
+mentioned alterations in physical shear stress can further lead to dilation         ments on the evaluation of CPAP efficacy cannot be excluded. Further­
+or even rupture of the aorta [37]. Moreover, chronic intermittent hyp­              more, patients with OSAHS can have complications such as nonarteritic
+oxia induced by OSAHS is a significant factor in the development of                 anterior ischemic optic neuropathy (NAION), which causes optic nerve
+aortic pathology. Studies have reported that chronic intermittent hyp­              damage. In a study involving 89 patients with NAION, 67 patients (75
+oxia can promote mouse aortic dissection by regulating the                          %) were diagnosed with OSAHS through polysomnography. A 3-year
+ROS–HIF–1α-MMPs pathway, leading to a significant enlargement of the                follow-up study revealed that 15.4 % of patients with OSAHS had
+dissection cavity and thickening of the outer membrane [38]. In another             bilateral NAION [19]. While this study also suffered from a small sample
+in vitro experiment involving a mouse model of AAA, it was found that               size issue, it improved the accuracy of OSAHS diagnosis by introducing
+chronic intermittent hypoxia can regulate the CaMKII-dependent MAPK                 overnight multichannel sleep monitoring compared with previous
+pathway to promote the occurrence of AAA [39]. Concurrently, alter­                 similar studies. It highlighted a high comorbidity rate of OSAHS in pa­
+ations in sympathetic nervous system activity during the course of                  tients with NAION, suggesting a new potential avenue for the treatment
+OSAHS can lead to fluctuations in arterial blood pressure, promoting                of NAION, for which there are currently no effective therapeutic options.
+arterial pathology through vascular stiffening and remodeling, ulti­                Moreover, based on the results of a meta-analysis involving four pro­
+mately contributing to aortic pathology [40]. CPAP therapy is currently             spective cohort studies and a case‒control study, OSAHS patients have a
+the primary treatment for OSAHS in clinical practice. It has been                   sixfold higher risk of developing NAION than non-OSAHS patients [47].
+demonstrated to effectively improve OSAHS-associated hypertension,                  As a meta-analysis, the severity of OSAHS in the included studies may
+endothelial damage, and to reduce oxidative stress and inflammation                 vary. Additionally, OSAHS patients often have comorbidities such as
+levels. CPAP therapy is of significant value in controlling vascular                hypertension and diabetes, which are also risk factors for NAION. These
+damage associated with OSAHS [41]. Hypertension and arteriosclerosis                confounding factors could impact the study’s conclusions. However, this
+are considered significant risk factors for aortic pathology. The appli­            study once again confirms a clear association between OSAHS and
+cation of CPAP has been shown to help improve vascular damage                       NAION. OSAHS can also cause renal microvascular lesions that even­
+associated with hypertension and arteriosclerosis [42]. Currently, there            tually progress to chronic kidney disease. Recent studies have shown
+is limited research on the impact of CPAP therapy on improving aortic               that OSAHS can lead to hypertension through chronic intermittent
+pathologies such as aortic dissection or aortic aneurysm. However, a                hypoxia, activate the renin-angiotensin-aldosterone system and sym­
+case report from Japan highlighted a patient with acute aortic dissection           pathetic nervous system and promote the production of reactive oxygen
+complicated by severe OSAHS who responded favorably to treatment                    species, leading to renal dysfunction, inflammation, endothelial
+with CPAP and antihypertensive medications, leading to rapid control of             dysfunction and renal fibrosis. A follow-up study involving 1525 par­
+the condition [43]. Another study reported that patients with OSAHS                 ticipants revealed that over a period of 19 years, there were 461 chronic
+and Marfan syndrome showed suppression of aortic root dilation after                kidney disease (CKD) events, and there was a clear correlation between
+receiving CPAP therapy [44]. Although CPAP therapy may not reverse                  the severity of obstructive sleep apnea and the risk of chronic kidney
+the pathological process of acute aortic conditions like aortic dissection,         disease [20]. This study, as a large-sample prospective study, holds
+timely administration of CPAP therapy in the early stages can effectively           significant clinical value but inevitably faces certain limitations. Firstly,
+control hypertension, improve hemodynamic changes, and provide                      the inclusion of participants from a single ethnicity raises concerns
+important clinical value for patients with aortic pathology complicated             about the generalizability of the results, as studies suggest differences in
+by OSAHS.                                                                           the occurrence of sleep disorders and kidney diseases among different
+                                                                                    ethnicities. Moreover, the study’s definition of CKD is somewhat nar­
+2.3. Microvascular complications                                                    row, relying solely on eGFR as an indicator. Lastly, the study lacks
+                                                                                    adjustment for confounding factors such as hypertension. These limi­
+    The data suggest that OSAHS and type 2 diabetes have synergistic                tations somewhat reduce the reliability of the study; however, it still
+effects on endothelial dysfunction. Abnormally high blood sugar levels              emphasizes the importance of monitoring and timely controlling OSAHS
+and hypertension can promote oxidative stress, and OSAHS can cause an               comorbid with CKD for preventive purposes in clinical practice.
+imbalance in oxidative stress levels. Moreover, OSAHS patients with
+concomitant type 2 diabetes are more likely to develop microvascular                2.4. Pulmonary vascular diseases and venous thromboembolism
+complications. Among patients with OSAHS and type 2 diabetes, OSAHS
+has been shown to be independently associated with peripheral neu­                      OSAHS can lead to pulmonary vascular lesions, primarily in the form
+ropathy and the exacerbation of diabetic nephropathy [3]. According to              of pulmonary hypertension (PH). Studies suggest that there is bidirec­
+previous studies, people with severe OSAHS have a higher risk for                   tional promotion of OSAHS and the development of PH. The underlying
+developing hypertensive retinopathy-like retinal changes, regardless of             mechanisms by which pulmonary vascular remodeling and PH are
+systemic hypertension [45]. Patients with OSAHS exhibit a variety of                induced during the course of OSAHS have not been elucidated, but
+changes in retinal microvascular function, including delayed response               studies suggest that nocturnal intermittent hypoxia can trigger the
+time to flickers and decreases in dilation amplitude. These findings                sympathetic nervous system, which is accompanied by increased levels
+suggest that untreated OSAHS patients may exhibit increased arterial                of oxidative stress. Additionally, alveolar hypoxia can increase vascular
+stiffness and impaired retinal microvascular function in the absence of             tone, leading to hypoxic pulmonary vasoconstriction (HPV) [48,49]. In
+cardiovascular disease [46]. A study involving 35 participants with                 an observational study, hypertension of the pulmonary arteries (mean
+diabetes and comorbid sleep apnea revealed significant improvements                 pulmonary artery pressure greater than 20 mmHg) was observed in 12
+in visual acuity after 6 months of strict treatment with continuous pos­            out of 44 OSAHS patients [21], suggesting a high rate of concomitant
+itive airway pressure (CPAP) compared with those who were not strictly              pulmonary hypertension in patients with OSAHS. The results of this
+treated with CPAP [18]. This suggests that CPAP treatment can effec­                study are more conservative compared with previous studies. The study
+tively ameliorate retinal changes associated with diabetes and OSAHS,               included patients with severe OSAHS (AHI >30/h or AI > 20/h) who
+which also indirectly suggests that OSAHS mediates diabetes-related                 were receiving CPAP therapy. Therefore, the conclusion that OSAHS is
+microvascular lesions. However, it is essential to note that this study,            associated with pulmonary arterial hypertension in 27 % of the cases is
+
+                                                                              299
+Z. Mao et al.                                                                                                                    Sleep Medicine 119 (2024) 296–311
+
+
+lower than what has been reported in some studies. Nonetheless, this                2.5. Cerebrovascular lesions
+proportion is still significant. Furthermore, a retrospective study
+involving 52 subjects diagnosed with pulmonary arterial hypertension                    Stroke patients have high rates of concomitant OSAHS, and studies
+showed that 56 % of the subjects had OSAHS [22], indicating an                      have shown that severe OSAHS can cause stroke recurrence and may
+increased prevalence of OSAHS in patients with pulmonary arterial                   promote death due to stroke, and CPAP, which is a treatment for OSAHS,
+hypertension. This retrospective study inevitably has limitations. Firstly,         can improve stroke prognosis [56]. Stroke can manifest as hemorrhagic
+there is inconsistency in the timing of conducting multichannel sleep               stroke or ischemic stroke. A multicenter case‒control study that
+monitoring in patients after diagnosing pulmonary arterial hypertension             included 3000 hemorrhagic stroke subjects and 3000 control subjects
+(PAH). Additionally, the inclusion of patients referred from other                  showed that OSAHS was more common in the hemorrhagic stroke group
+medical institutions in the study might have led to a loss of overall               (71 % vs. 52 %). According to a multivariable logistic regression model,
+population representativeness. In a randomized controlled trial, 23                 complicated OSAHS can increase the risk of hemorrhagic stroke [25],
+OSAHS patients with pulmonary hypertension showed improvements in                   and OSAHS increases the risk of hemorrhagic stroke. Despite being a
+pulmonary hypertension after effective CPAP treatment, further con­                 cross-sectional analysis, the study benefits from its multi-center large
+firming the independent association between OSAHS and PH and sug­                   sample size advantage, which effectively controls confounding factors
+gesting that CPAP treatment can lower pulmonary systolic blood                      and provides robust evidence indicating that OSAHS is an important and
+pressure [23], which provides a new approach for controlling the                    independent risk factor for hemorrhagic stroke. In a follow-up study of
+development of PH. This study has significant limitations, as it mainly             5422 OSAHS patients without a history of stroke and who were not
+included male patients, making gender an important confounding fac­                 receiving sleep apnea treatment, 193 cases of ischemic stroke were
+tor. Additionally, these studies had a relatively small sample size, indi­          observed. In men, higher AHI values are more likely to indicate com­
+cating the need for larger randomized controlled trials to confirm its              plications of ischemic stroke. In the range of 5–25, each unit increase in
+reliability. However, numerous observational, retrospective and ran­                the AHI was associated with a 6 % increase in stroke risk [26]. This
+domized controlled studies have, to some extent, revealed a close as­               study, as a rare multi-center large sample prospective study, provides
+sociation between OSAHS and pulmonary arterial hypertension. These                  reliable evidence demonstrating that after adjusting for confounding
+studies provide new insights for the clinical management of comorbid­               factors, OSAHS remains a critical risk factor for ischemic stroke. These
+ities in patients with both conditions. Pulmonary embolism is a signifi­            studies demonstrate that OSAHS is not only associated with stroke
+cant component of VTE, and there is growing evidence that OSAHS                     occurrence but also positively correlated with the severity of stroke.
+contributes to VTE. However, the association between the two is still               Therefore, early diagnosis and treatment of OSAHS are crucial.
+influenced by confounding factors, including obesity [50]. In a nation­
+wide cohort study, researchers found that after adjusting for con­
+founding factors such as age, gender, and comorbidities, the risk of                2.6. Peripheral arterial disease (PAD)
+pulmonary embolism and deep vein thrombosis was 3.5 times and 3.97
+times higher, respectively, in patients with OSAHS compared with the                    Peripheral arterial disease is defined as narrowing, occlusion or
+control group. This underscores the importance of recognizing and                   aneurysmal dilation of arteries other than those in the heart and brain.
+managing the increased risk of thrombotic events in individuals with                Atherosclerosis is the main cause of PAD, and lower limb arterial disease
+OSAHS [51]. The AHI (a key diagnostic indicator of OSAHS) was asso­                 accounts for approximately 80 % of all PAD cases. When atherosclerosis
+ciated with the incidence of VTE in one large cohort study conducted in             develops to a certain extent, it can manifest as a peripheral arterial
+the United States. As the AHI increases by 10 events per hour, the odds of          disease, and OSAHS has been shown to promote atherosclerosis. Current
+developing VTE increase by 4 %, unfortunately, the findings of this study           research indicates that the key risk factors for the development and
+were also confounded by the presence of obesity as a confounding factor.            progression of atherosclerosis are endothelial dysfunction and arterial
+Moreover, this study showed that nocturnal hypoxemia was indepen­                   stiffness. OSAHS has been shown to accelerate the pathological pro­
+dently associated with VTE. Patients who had oxygen hemoglobin                      cesses associated with these conditions [57]. Obesity, as an independent
+saturation lower than 90 % during sleep were 48 % more likely to                    risk factor for OSAHS, is also a significant risk factor for the development
+develop VTE than normal subjects [24], although a clear relationship                and progression of atherosclerosis [58]. Furthermore, during the course
+between OSAHS and VTE has not yet been demonstrated. Currently,                     of OSAHS, systemic inflammatory responses, sympathetic nervous sys­
+indications suggest that during the course of OSAHS, there is often a               tem activation, hemodynamic changes and other pathophysiological
+manifestation of a hypercoagulable state, characterized by increased                processes are considered potential risk factors that promote the devel­
+plasma fibrinogen, reduced fibrinolysis capacity and enhanced platelet              opment and progression of atherosclerosis [59,60]. Although current
+activity in the body [8,52]. The aforementioned physiological changes               research has not definitively established a causal relationship between
+are all key mechanisms that contribute to thrombus formation. Studies               OSAHS and vascular disease, it provides important insights for early
+utilizing thromboelastometry have detected an increased formation of                clinical interventions to prevent OSAHS-related vascular changes. Re­
+platelet-leukocyte aggregates in patients with OSAHS compared with                  searchers performed preoperative polysomnography and echocardiog­
+healthy control groups [53]. These findings suggest that inflammatory               raphy on 82 PAD patients who underwent femoral artery bypass surgery,
+responses play a role in mediating enhanced coagulation in OSAHS.                   and 70 patients were diagnosed with OSAHS, including 24 patients with
+Anticoagulant therapy is the primary treatment for VTE. Current                     severe OSAHS [27]. Due to the limitations of small sample size and
+research has indicated a close association between OSAHS and the                    cross-sectional study design, the study cannot establish a definitive
+development of VTE. While the effectiveness of OSAHS treatment mo­                  causal relationship, but to some extent, it suggests a close association
+dalities such as CPAP in improving coagulation function remains un­                 between OSAHS and PAD. In another study, 100 subjects suspected of
+certain, a clinical study showed that one month of CPAP therapy in                  having OSAHS were screened for PAD, and the prevalence of PAD was
+OSAHS patients led to a decrease in cholesterol levels but did not lower            88 %; among these individuals, 68 % had asymptomatic plaque and 20
+the levels of coagulation factors [54]. In another randomized crossover             % had symptomatic PAD. Among confirmed OSAHS patients, the prev­
+trial, CPAP therapy was found to reduce the levels of von Willebrand                alence of PAD reached 98 % [28]. This study is the first prospective
+factor (vWF), factor VIII (FVIII) and factor V (FV) to varying degrees in           study to report a high prevalence of PAD in patients with OSAHS. It
+patients with OSAHS [55]. The inconsistency in the above results                    confirms previous findings that patients with PAD often have a high
+highlights the importance of larger sample sizes and longer observa­                prevalence of OSAHS, suggesting a strong correlation between OSAHS
+tional periods in clinical studies.                                                 and PAD. However, larger-scale studies are needed to increase the
+                                                                                    credibility of the conclusions.
+
+                                                                              300
+Z. Mao et al.                                                                                                                      Sleep Medicine 119 (2024) 296–311
+
+
+2.7. Uterine arterial lesions                                                        levels of adhesion molecules, including intercellular adhesion
+                                                                                     molecule-1 (ICAM-1) and vascular cell adhesion molecule-1 (VCAM-1),
+    Research has shown that OSAHS during pregnancy is associated with                were increased in OSAHS patients. OSAHS can also cause a significant
+pregnancy-induced hypertension and preeclampsia and may lead to                      decrease in serum nitrite/nitrate levels, subsequently mediating a
+gestational diabetes and miscarriage. A significant number of women                  decrease in circulating nitric oxide (NO) levels and resulting in endo­
+may develop OSAHS in the late stages of pregnancy, and intermittent                  thelial dysfunction. Additionally, the apnea-hypopnea index (AHI) is
+hypoxia can significantly impair uterine arterial function, resulting in             negatively correlated with serum nitrite/nitrate levels [67]. This evi­
+reduced endothelium-dependent vasodilation and increased vasocon­                    dence shows a positive correlation between OSAHS severity and endo­
+striction, ultimately leading to fetal intrauterine hypoxia [61]. Re­                thelial dysfunction. Moreover, multiple studies have shown that
+searchers exposed pregnant and nonpregnant mice to a chronic                         circulating nitric oxide (NO) levels are increased in patients with OSAHS
+intermittent hypoxia and air. In the nonpregnant mouse group, chronic                following CPAP therapy [68], indicating the restoration of endothelial
+intermittent hypoxia increased systolic blood pressure. In the pregnant              function. These results indicate that controlling the occurrence and
+group, chronic intermittent hypoxia led to a sustained increase in sys­              development of OSAHS is of great clinical value for improving endo­
+tolic blood pressure and proteinuria. Further studies have shown that                thelial dysfunction and treating vascular lesions.
+intermittent hypoxia can impair placental function in pregnant mice,
+which in turn leads to adverse birth outcomes [29]. Another study                    3.2. Metabolic disorders
+exposed pregnant mice to intermittent hypoxia, which disrupted uterine
+arterial function, as evidenced by increases in circulating angiogenic                   Metabolism is broadly defined as the sum of the biochemical pro­
+and antiangiogenic factors, which could induce placental hypoxia and                 cesses within an organism that generate or consume energy [69] and
+increase the levels of oxidative stress, decrease endothelium-dependent              primarily encompasses three main categories: carbohydrate meta­
+vasodilation and increase vasoconstriction [30]. According to these re­              bolism, fatty acid metabolism and amino acid metabolism. Disturbances
+sults, uterine vascular function is severely adversely affected by chronic           in metabolic functions are closely associated with various diseases.
+intermittent hypoxia. An observational study of pregnant women                       Current research suggests that vascular dysfunction is a secondary
+showed that sleep apnea associated with pregnancy could lead to                      manifestation of metabolic-related abnormalities such as obesity or
+increased arterial stiffness. Moreover, studies have shown that pregnant             diabetes [70].
+women with comorbid sleep breathing disorders are at increased risk of                   Carbohydrate metabolism imbalance in patients with OSAHS is pri­
+preeclampsia [31]. In summary, controlling OSAHS is highly important                 marily characterized by abnormal glucose levels and insulin resistance.
+for reducing adverse complications during pregnancy and improving                    There are numerous reports linking OSAHS to diabetes. In a multicenter
+fetal outcomes.                                                                      study involving 306 participants with type 2 diabetes, it was found that
+                                                                                     over 86 % of the subjects had an apnea-hypopnea index (AHI) of more
+3. Pathophysiologic mechanisms by which vascular lesions form                        than 5 times per hour, suggesting some degree of apnea [71]. In a ran­
+during OSAHS                                                                         domized controlled study, OSAHS patients who underwent standardized
+                                                                                     CPAP treatment for two weeks showed improvements in glucose meta­
+3.1. Destruction of the endothelial barrier                                          bolism, which was characterized by increases in insulin resistance and a
+                                                                                     reduction in the glucose response [72]. Currently, the molecular
+    Clinically, OSAHS can cause endothelial dysfunction, which is an                 mechanisms by which OSAHS mediates insulin resistance, which leads
+early indicator of vascular abnormalities. Blood vessels are composed of             to disruptions in glucose metabolism, are not fully understood. A study
+three layers: the intima (inner layer), the media (middle layer) and the             reported that chronic intermittent hypoxia stimulation could reduce the
+adventitia (outer layer). Endothelial cells, which are a part of the intima,         expression levels of glucose transporters (GLUTs) in adipose tissue,
+are an important part of the blood flow barrier. An intact endothelium               thereby causing disturbances in glucose metabolism pathways and
+can regulate vascular tone, repair the vasculature and maintain the                  subsequently inducing insulin resistance [73] (Fig. 2).
+balance of proinflammatory, anti-inflammatory and hemostatic factors.                    Disorders of lipid metabolism play a role in OSAHS, and obesity is an
+Endothelial dysfunction often presents as endothelial cell membrane                  independent risk factor for the development of OSAHS. The level of free
+damage, increased permeability, swelling and necrosis [62]. Proteomics               fatty acids (FFAs) in the blood is increased during intermittent hypoxia in
+analysis revealed that intermittent hypoxia could induce the expression              some studies, thereby exacerbating adverse metabolic consequences and
+of NDRG1 and CRK-I/II and promote endothelial cell migration [63]. In                increasing vascular burdens [74]. A multicenter study involving 2081
+patients with OSAHS, the generation of reactive oxygen species (ROS)                 patients revealed that nocturnal intermittent hypoxia was positively
+can be promoted by intermittent hypoxia, and the hypoxia-inducible                   correlated with triglyceride levels and negatively correlated with
+factor-1 (HIF-1) pathway and vascular endothelial growth factor are                  high-density lipoprotein levels [75]. Researchers found that chronic
+activated to promote the degradation of vascular endothelial cadherin                intermittent hypoxia disrupted the ability of mice to clear triglyceride-rich
+(VE-cadherin), leading to increased endothelial cell permeability [10].              lipoproteins (TRLPs), and lipoprotein lipase (LPL) levels decreased, leading
+Furthermore, intermittent hypoxia can lead to endothelial cell                       to hypertriglyceridemia [76] (Fig. 2), which shows that OSAHS mediates
+apoptosis. Investigators identified six differential miRNAs, including               the occurrence and progression of vascular diseases related to lipid meta­
+miR-193, that mediated intermittent hypoxia-induced endothelial cell                 bolism, such as atherosclerosis. Currently, there is relatively limited
+apoptosis by differential miRNA analysis of mouse aortic endothelial                 research on the specific molecular mechanisms through which OSAHS
+cells after intermittent hypoxia exposure [64]. Chronic intermittent                 affects lipid metabolism. However, several studies have made valuable
+hypoxia can impair vascular endothelial contractile function by inhib­               explorations in this area. Some studies have reported that chronic inter­
+iting the expression of the enzyme nicotinamide phosphoribosyl­                      mittent hypoxia can promote lipid metabolism through the activation of
+transferase (NAMPT), resulting in reduced synthesis of NAD+ and                      the HIF1α signaling pathway, leading to non-alcoholic fatty liver disease
+subsequent mitochondrial dysfunction in endothelial cells [65]. A                    (NAFLD) [77]. In another animal experiment, researchers found that
+meta-analysis involving 730 participants without apparent cardiovas­                 intermittent hypoxia can cause hepatic steatosis by altering the expression
+cular disease revealed that 387 participants (53.0 %) were diagnosed                 levels of fatty acid translocase (CD36) [78]. At the same time, intermittent
+with severe OSAHS with a respiratory disturbance index ≥30, and 164                  hypoxia can induce the expression of Endothelin-1. In an experimental
+participants (22.5 %) exhibited endothelial dysfunction. In individuals              setting, the use of an Endothelin-1 antagonist reversed the elevated levels
+without apparent cardiovascular disease, an independent association                  of free fatty acids and triglycerides induced by intermittent hypoxia [79].
+was found between OSAHS and endothelial dysfunction [66]. Plasma                     This provides new evidence regarding the impact of OSAHS on lipid
+
+                                                                               301
+Z. Mao et al.                                                                                                                       Sleep Medicine 119 (2024) 296–311
+
+
+metabolism. It is worth noting that the effect of CPAP therapy on lipid               metabolism, glucose metabolism, and nucleotide metabolism, resulting
+levels has been evaluated in several clinical trials. Some studies have re­           in liver damage [85]. The liver, which is the largest metabolic organ, is
+ported that CPAP therapy can improve postprandial lipid levels in OSAHS               affected by these changes.
+patients, leading to reductions in cholesterol and triglyceride levels [80].              There is still a lack of in-depth research on how OSAHS causes
+Contradictorily, in some clinical trials, CPAP therapy has been shown to              metabolic disturbances, but it is widely recognized that OSAHS, which is
+improve blood pressure levels in patients with OSAHS but did not                      a chronic condition, can lead to metabolic imbalances. There is a
+demonstrate improvement in lipid metabolism levels [81,82]. The evalu­                consensus that addressing metabolic disorders such as ameliorating
+ation of CPAP efficacy may be influenced by different studies regarding the           glucose and lipid metabolism disturbances through OSAHS treatment is
+duration of CPAP therapy, as well as confounding factors such as the age,             critical for controlling further vascular lesions.
+sex, and BMI of the study subjects. However, at the very least, experimental
+results consistently reflect the beneficial effects of CPAP in improving
+cardiovascular function (such as hypertension), which is a key aspect of              3.3. Cellular phenotypic transformation
+improving lipid metabolism.
+    Amino acids and their metabolic products, including nitric oxide,                     Cell type and functional phenotypic transitions play crucial roles in
+glutathione, and thyroid hormones, are essential factors that maintain                the remodeling of vascular structure and function. The transformation of
+normal physiological functions [83]. According to previous studies,                   vascular-related cell types can mediate the occurrence and progression
+various amino acids, including alanine, serine, and glutamate,                        of vascular pathologies in response to external stimuli [86]. Current
+contribute to vascular lesion pathophysiology [84].                                   research indicates that during the progression of OSAHS, macrophage
+    Although there is currently no direct evidence showing that OSAHS                 polarization and increased foam cell formation occur, and fibroblasts,
+mediates vascular lesions by regulating fatty acid metabolism, metab­                 vascular smooth muscle cells (VSMCs) and helper T cells (Th cells) can
+olomics research has shown that chronic intermittent hypoxia can alter                be involved (Fig. 2). Macrophages, which are important immune cells,
+the levels of metabolites related to amino acid metabolism, lipid                     significantly contribute to disease occurrence and progression through
+                                                                                      differentiation. In response to an external stimulus, macrophages
+
+
+
+
+Fig. 2. | Intermittent hypoxia (IH) disrupts glucose transporter (GLUT) functions, causing glucose metabolism derangement, which is accompanied by increased free
+fatty acid levels, imbalanced low-density lipoprotein (LDL) levels, and the promotion of vascular plaque formation. IH induces functional switching in intravascular
+cells, including macrophage polarization, fibroblast activation, foam cell formation, phenotypic switching in T helper (TH) cells, and the switching of VSMCs to a
+proinflammatory phenotype.
+
+                                                                                302
+Z. Mao et al.                                                                                                                    Sleep Medicine 119 (2024) 296–311
+
+
+polarize into different subtypes and are primarily categorized as M1                increases the levels of hormones such as catecholamines, renin, angio­
+(proinflammatory) and M2 (anti-inflammatory) cells [87]. Research has               tensin II and endothelin-1 and inhibits nitric oxide synthesis, ultimately
+shown that compared with that in control groups, the infiltration of M1             increasing the excitability of the sympathetic nervous system. Research
+macrophages into subcutaneous adipose tissue was increased in mice                  indicates that even during wakefulness, OSAHS patients exhibit marked
+exposed to intermittent hypoxia [88]. Cell experiments showed that                  increases in sympathetic nervous system activity [101]. Researchers
+intermittent hypoxia stimulation could promote the polarization of                  have shown that bilaterally denervating the carotid bodies of rats and
+macrophages toward the M1 phenotype, which was accompanied by an                    inhibiting the injection of angiotensin II into the subfornical organ (SFO)
+increase in the levels of type I inflammatory factors, including IL-6, iNOS         could suppress the increase in sympathetic nervous system activity
+and TNF-α [89]. Lipid-rich macrophages are defined as foam cells.                   induced by intermittent hypoxia [102]. Intermittent hypoxia enhances
+Atherosclerosis is characterized by an increase in the number of foam               sympathetic activity by affecting the activity of hormones such as
+cells [90], and intermittent hypoxia can induce the production of foam              angiotensin II. Animal and clinical experiments have revealed that the
+cells. Some researchers have reported that intermittent hypoxia can                 sympathetic nervous system is activated as a consequence of OSAHS.
+promote the formation of foam cells by activating the IKK-β-dependent               Researchers exposed 12 healthy volunteers to intermittent hypoxia, and
+NF-κB signaling pathway [91], providing new evidence for the specific               arterial blood pressure significantly increased. Concurrent monitoring
+molecular mechanisms underlying the concomitant occurrence of                       revealed an increase in muscle sympathetic nerve activity in the par­
+atherosclerosis and OSAHS. The vascular wall is composed of endothe­                ticipants [103]. In a rat model of chronic intermittent hypoxia, re­
+lial cells, smooth muscle cells, fibroblasts and the extracellular matrix.          searchers found that sympathetic nervous system activity was enhanced,
+VSMCs are essential for maintaining vascular morphology, integrity,                 and there was an increase in arterial blood pressure in the rats [104].
+contraction and elasticity. When blood vessels are exposed to external              Research indicates that exposure to intermittent hypoxia can increase
+stimuli, they adapt to their environment by regulating their own func­              carotid body discharge, leading to an increase in HIF1α, a reduction in
+tion and structure, which is known as vascular remodeling [92]. The                 HIF2α, and an increase in ROS levels, resulting in enhanced oxidative
+epidermal growth factor ligand is directly responsible for increasing the           stress [105]. The increased activity of the sympathetic nervous system
+number of VSMCs when intermittent hypoxia occurs [11]. Additionally,                can directly result in an increase in vascular resistance, endothelial
+the secretion of inflammatory factors such as IL-6 can be induced by                damage and a series of vascular injuries that contribute to the occur­
+intermittent hypoxia and lead to the transformation of VSMCs from a                 rence and development of vascular lesions. There is currently no effec­
+normal spindle-shaped contractile phenotype to a proinflammatory                    tive pharmacological treatment options for OSAHS, which is a common
+phenotype [93]. VSMCs, which are the primary components of the                      respiratory system disorder. However, it is notable that AD109, which is
+vascular wall, are essential for maintaining vascular tone and vascular             composed of the anticholinergic drug aroxybutynin and the norepi­
+remodeling. Phenotypic and quantitative alterations in VSMCs directly               nephrine reuptake inhibitor atomoxetine, has demonstrated significant
+mediate vascular diseases, including atherosclerosis [94]. There is                 therapeutic potential. This medication substantially alleviated OSAHS
+ample evidence demonstrating that fibroblasts, which are another sig­               symptoms in phase II and III clinical trials, and there were marked de­
+nificant component of the vascular wall, can regulate their functions to            creases in the apnea-hypopnea index (AHI) and a subjective reduction in
+adapt to external stimuli affecting the vasculature, including hypoxia.             fatigue levels reported by the participants [106,107]. Moreover,
+This adaptation is characterized by changes in proliferation and                    research has shown that anticholinergic drugs ameliorate vascular
+migration [95]. Research has shown that intermittent hypoxia can in­                remodeling in animal models of chronic obstructive pulmonary disease
+crease plasma thrombospondin-1 (TSP1) levels through the STAT3                      (COPD) [108]. In a randomized controlled clinical study, subjects who
+signaling pathway, leading to fibroblast activation [96]. This finding              took the norepinephrine reuptake transporter inhibitor reboxetine
+offers a new perspective on the mechanism by which intermittent hyp­                exhibited decreased plasma renin activity and Ang II concentrations and
+oxia can mediate cardiac fibrosis during OSAHS. In addition, T helper               a reduction in systemic vascular resistance [109]. These results indicate
+(TH) cells are a crucial type of immune cell that can assist other cells            that abnormalities in the neuroendocrine system play a crucial role in
+through the secretion of mediators. Studies have revealed that TH17                 the pathophysiological mechanisms of OSAHS and vascular lesions.
+cells can secrete a vascular endothelial growth factor analog called                Therefore, therapeutically addressing neuroendocrine abnormalities can
+placental growth factor, which promotes angiogenesis [97]. Studies                  ameliorate vascular lesions associated with OSAHS.
+have also reported an imbalance in the number of TH17 cells cell models
+exposed to intermittent hypoxia in vitro and in the peripheral circulation          3.5. Programmed cell death
+of OSAHS patients [98,99]. These findings suggest that helper T cells,
+particularly TH17 cells, can mediate vascular pathologies associated                    Cells undergo differentiation and ultimately die during the process of
+with OSAHS. In conclusion, focusing on changes cell phenotypes during               growth and development. Cell death is a critical mechanism for main­
+the progression of OSAHS is crucial for understanding the mechanisms                taining the functionality of an organism. Through ongoing research,
+underlying OSAHS-mediated vascular pathologies.                                     various forms of cell death, including apoptosis, autophagy, pyroptosis,
+                                                                                    ferroptosis, and necroptosis, have been identified. These different modes
+3.4. Neuroendocrine abnormalities                                                   of cell death are important regulatory mechanisms for maintaining
+                                                                                    cellular and tissue homeostasis in organisms [110]. Apoptosis mediates
+    The nervous system regulates many physiological processes and                   the removal of excess cells during vascular remodeling and development
+mediates the secretion of hormones to regulate metabolic processes,                 [111].      As    an    intracellular    process,   autophagy     involves
+vascular tone, inflammation and oxidative stress, among other patho­                lysosome-mediated degradation of damaged proteins, microorganisms,
+physiological responses. Research has shown that alterations in the                 impaired organelles and protein aggregates. There are three primary
+neuroendocrine system are essential for the occurrence and progression              forms: macroautophagy, microautophagy, and chaperone-mediated
+of vascular pathologies [100]. During the course of OSAHS, there is a               autophagy [112]. A newly defined form of programmed cell death is
+disruption in the neuroendocrine system. During normal sleep, in­                   pyroptosis, which is primarily mediated by NLRP3 (inflammasome)
+dividuals generally show an increase in parasympathetic nervous system              signaling and depends on Caspase 1 [113]. Ferroptosis involves the
+function and a decrease in sympathetic nervous system function,                     iron-dependent death of cells, which can result in the peroxidation of
+resulting in a physiological decline in blood pressure and heart rate at            lipids. In recent years, ferroptosis has become a research hotspot and has
+night. However, OSAHS patients experience sustained stimulation of the              garnered significant attention in various fields, including metabolic im­
+sympathetic nervous system because of fragmented nighttime awaken­                  munity [114]. Necroptosis is a regulated, cysteine protease-independent
+ings, sleep fragmentation and intermittent hypoxia. This stimulation                form of programmed cell death that morphologically resembles necrosis
+
+                                                                              303
+Z. Mao et al.                                                                                                                  Sleep Medicine 119 (2024) 296–311
+
+
+[115]. Studies suggest that during OSAHS, vascular lesions are induced             reported that Tanshinone IIA promotes autophagy and improves
+through the modulation of various pathways associated with pro­                    neuronal damage induced by intermittent hypoxia through the mTOR/­
+grammed cell death, including autophagy, apoptosis, pyroptosis, fer­               AMPK signaling pathway [122]. Researchers have shown that adminis­
+roptosis and necroptosis (Fig. 3). Flow cytometry showed an increase in            tering melatonin to rats exposed to chronic intermittent hypoxia could
+endothelial cell apoptosis in OSAHS patients compared with healthy                 upregulate the AMPK pathway, resulting in the induction of autophagy
+controls. Furthermore, after CPAP treatment, endothelial cell apoptosis            and thereby improving CIH-induced myocardial hypertrophy [123]. In
+was     significantly    suppressed     in    OSAHS     patients,    and           clinical   studies,    OSAHS      patients    exhibited   decreases  in
+endothelium-dependent vasodilatory function was improve [116]. This                autophagy-related genes (ATGs) in peripheral blood and increases in
+study revealed the indispensable role of apoptosis in vascular lesions in          apoptosis levels [124]. The aforementioned results demonstrate that
+OSAHS patients. Additionally, intermittent hypoxia can induce mito­                changes in autophagy levels are an important mechanism underlying the
+chondrial dysfunction. In vitro studies have shown that intermittent               damage associated with OSAHS. Therefore, targeted treatments to
+hypoxia increases the levels of apoptosis in human umbilical vein endo­            modulate autophagy levels in OSAHS patients hold significant clinical
+thelial cells and mouse endothelial cells by upregulating the                      implications in exploring relevant therapeutic approaches. As mentioned
+TXNIP/NLRP3/IL-1β pathway, resulting in mitochondrial dysfunction                  earlier, NLRP3 plays a critical role in the inflammatory response in
+[117]. The increased levels of apoptosis in OSAHS are closely linked to            OSAHS, and the activation of the NLRP3 inflammasome is a key patho­
+elevated levels of inflammation and oxidative stress during the course of          physiological mechanism of pyroptosis. Research has shown that
+OSAHS. Activation of the NLRP3 inflammasome is an important marker                 increased levels of oxidized low-density lipoprotein (oxLDL) in the
+of inflammation in the pathogenesis of OSAHS [118]. In an in vitro                 plasma and monocytes of OSAHS patients can activate the NLRP3
+experiment, researchers found that intermittent hypoxia can promote                inflammasome and other inflammatory processes, thereby promoting the
+endothelial cell apoptosis through the endoplasmic reticulum stress                development of atherosclerosis [125]. Another study showed that inter­
+pathway (manifested by increased expression of GRP78, CHOP, and                    mittent hypoxia could exacerbate the expression of pyroptosis-related
+caspase-12, among other endoplasmic reticulum stress-related mole­                 molecules such as caspase-1, pro-caspase-1 and NLRP3, leading to
+cules) [119]. In another animal experiment, researchers found that                 brain inflammation following subarachnoid hemorrhage [126].
+intermittent hypoxia induced the activation of HIF-1α and NF-kB, leading           Although the specific mechanisms by which ferroptosis regulates the
+to increased inflammation and oxidative stress levels, which subse­                pathophysiology of OSAHS have not been reported, there is evidence
+quently mediate cell apoptosis (as evidenced by increased levels of                suggesting a correlation between abnormal iron metabolism and the
+caspase-3 and caspase-6). These effects were reversed when antioxidants            severity of OSAHS [127]. A recent bioinformatics analysis identified
+were used [120]. The mTOR/AMPK pathway is a key regulatory pathway                 differential expression of two iron death-related genes, HIF1A and ATM,
+associated with autophagy. Numerous studies have reported that pro­                in patients with OSAHS [128]. In another bioinformatics analysis
+moting autophagy by modulating this pathway exerted beneficial effects             comparing patients with OSAHS and patients treated with CPAP, differ­
+and improved conditions induced by chronic intermittent hypoxia,                   entially expressed genes in both groups were found to be enriched in
+including cardiac hypertrophy and apoptosis [121]. A Study have                    ferroptosis-related pathways [127]. The above results suggest that
+
+
+
+
+Fig. 3. | During the course of OSAHS, vascular lesions are induced through the modulation of various pathways associated with programmed cell death, including
+autophagy, apoptosis, pyroptosis, ferroptosis and necroptosis.
+
+                                                                             304
+Z. Mao et al.                                                                                                                  Sleep Medicine 119 (2024) 296–311
+
+
+targeting ferroptosis-related pathways may hold promising potential for            lipid-containing molecules. During this process, various secondary
+the treatment of OSAHS and its associated complications. Necroptosis is            products are formed, and malondialdehyde (MDA) is an important
+also an important regulatory mechanism in the pathophysiologic process             product of redox processes. The levels of MDA can serve as markers of
+of OSAHS. Research has shown that intermittent hypoxia can activate the            oxidative stress, and a meta-analysis of 26 studies revealed a significant
+RIPK3-dependent necroptotic pathway, exacerbating oxidative stress                 increase in MDA levels in OSAHS patients [142]. A recent study found
+and inflammation during OSAHS [129]. In summary, OSAHS indirectly                  that intermittent hypoxia can induce high expression of Differentially
+or directly causes systemic metabolic inflammation-related imbalances              Expressed in Chondrocytes 1 (DEC1), which in turn promotes reactive
+in homeostasis by modulating various programmed cell death pathways,               oxygen species (ROS) levels and the generation of inflammatory factors
+which can subsequently mediate vascular lesions.                                   in pulmonary artery smooth muscle cells of rats. This cascade of events is
+                                                                                   implicated in mediating the occurrence and progression of pulmonary
+3.6. Inflammation and oxidative stress                                             arterial hypertension [143]. Nrf2 is a classic transcription factor
+                                                                                   involved in the response to oxidative stress. Research has reported that
+    Inflammation is the foundation for various physiological and path­             intermittent hypoxia can downregulate Nrf2 expression, suggesting its
+ological processes, and inflammatory reactions are important manifes­              role in mediating myocardial disease [144]. Dysregulation of oxidative
+tations of vascular disorders. The infiltration of inflammatory cells is a         stress homeostasis and an increase in the inflammatory response has
+critical pathological change in vascular diseases such as atherosclerosis          been preliminarily revealed as an important mechanism by which
+[130]. Research has shown that the expression of the inflammatory                  OSAHS mediates the formation of vascular lesions, and controlling the
+cytokines tumor necrosis factor-alpha, C-responsive protein,                       dysregulation of this response is a potential therapeutic strategy for
+interleukin-6 and interleukin-8 is significantly increased in the periph­          OSAHS-associated vascular lesions.
+eral blood of OSAHS patients [131]. One study reported that T lym­
+phocytes in the peripheral blood of OSAHS patients had significantly               3.7. Epigenetic modifications
+more adhesion to nonactivated endothelial cells than those in
+non-OSAHS patients [132], leading to vascular damage. Multiple                         Epigenetic modifications are genetic changes in phenotypes that do
+proinflammatory genes can be activated by the transcription factor                 not alter DNA sequences. They are mainly categorized as DNA chemical
+NF-κB. Activation of NF-κB-related pathways is often accompanied by an             modifications (such as methylation), posttranslational modifications of
+inflammatory response. Research has shown that NF-κB is activated                  histones and noncoding RNA-mediated regulation of gene expression.
+systemically in patients with OSAHS [133]. Researchers observed an                 These transcriptional modifications can alter cellular homeostasis [145],
+increase in adhesion interactions between leukocytes and endothelial               changing the expression levels of relevant genes and thus regulating
+cells in an intermittent hypoxia mouse model. This was characterized by            relevant pathophysiological mechanisms. A case‒control study
+an increase in leukocyte rolling in mesenteric vessels and increased               involving children with OSAHS revealed significant DNA methylations
+expression levels of intercellular adhesion molecule (ICAM-1) NFκB-p50             in the eNOS gene promoter region of patients with OSAHS, which could
+in the aortic intima [134,135]. In another clinical research study, sig­           lead to congestion responses after vascular occlusion [146] and sug­
+nificant upregulation of the inflammation-related NF-κB and ERK                    gested the potential role of DNA methylation in mediating endothelial
+pathways was observed in the endothelial cells of OSAHS patients,                  dysfunction associated with OSAHS. Posttranslational modifications of
+which was accompanied by increased expression levels of the adhesion               histones also affect OSAHS, and current research has mainly focused on
+molecule ICAM-1 and the chemokine CCL2 [9]. These studies indicate                 acetylation and methylation. Acetylation is involved in mediating in­
+that during the course of OSAHS, the classic NF-κB pathway can be                  flammatory responses and endothelial dysfunction during OSAHS, and
+activated to induce vascular inflammation. In animal experiments,                  clinical studies indicate that OSAHS patients exhibit reduced levels of
+intermittent hypoxia has been shown to increase the expression of                  SIRT1 (a histone deacetylase) in blood and decreased levels of nitric
+Toll-like receptor 4 (TLR4), accompanied by activation of NF-κB.                   oxide derivatives, suggesting endothelial dysfunction. This clinical
+Knocking down TLR4 has been found to suppress the expression of                    phenomenon can be reversed by CPAP therapy [147]. This finding
+NF-κB and downstream inflammatory factors. This suggests that the                  suggested that OSAHS could mediate endothelial dysfunction by
+TLR4/NF-κB pathway is an important regulatory mechanism in the in­                 increasing the level of histone acetylation. Research has reported that
+flammatory response associated with OSAHS [136,137]. In a small-scale              intermittent hypoxia may act on the HIF1-α pathway during the devel­
+clinical trial, researchers measured peripheral blood NF-kB levels in 22           opment of cardiovascular events by influencing the activity of the KDM
+patients with OSAHS before and after CPAP treatment. They found that               (histone demethylase) family [148]. Studies have shown that intermit­
+the activation of NF-κB was positively correlated with the severity of             tent hypoxia can regulate the activity of the deubiquitinating enzyme
+apnea in the patients [138]. Furthermore, after CPAP treatment, NF-κB              (USP) family to influence the NF-κB pathway, thereby modulating the
+levels decreased, suggesting that NF-κB-mediated inflammatory re­                  level of inflammation [149]. Altered noncoding RNA levels, particularly
+sponses play a role in patients with OSAHS. Intermittent hypoxia during            miRNA levels, are an important mechanism that affects OSAHS-related
+OSAHS is similar to hypoxia/reoxygenation injury, which can cause                  vascular lesions by mediating endothelial damage and triggering
+excessive ROS production. During the low oxygen/reoxygenation pro­                 vascular-related diseases associated with OSAHS. A recent study
+cess caused by chronic intermittent hypoxia, excessive ROS are pro­                revealed that chronic intermittent hypoxia could promote the binding of
+duced, triggering oxidative stress damage [139]. The increase in                   sterol regulatory element binding protein 2 (SREBP2) to the promoter
+oxidative stress levels and inflammation often interact with each other.           region of miR-210, resulting in mitochondrial dysfunction and endo­
+As mentioned earlier, the activation of NLRP3 inflammasomes during                 thelial dysfunction [150] and providing new insight into the mecha­
+the course of OSAHS accompanied by elevated levels of ROS promotes                 nisms underlying the course of vascular diseases associated with OSAHS.
+the expression of downstream inflammatory factors such as IL-1β,                   Although research on long noncoding RNAs (lncRNAs) and circular
+TNF-α, which mediate endothelial dysfunction and vascular damage                   RNAs (circRNAs) in OSAHS is relatively limited, a recent study of
+[117,140]. Using oxidative stress markers, researchers have confirmed              myocardial infarction demonstrated that chronic intermittent hypoxia
+that obstructive sleep apnea can cause oxidative stress. Researchers               could influence differential lncRNA expression in a mouse model. Eleven
+found that intermittent hypoxia inhibited the activity of the antioxidant          lncRNAs regulated by chronic intermittent hypoxia whose levels were
+superoxide dismutase (SOD), and there was an increase in advanced                  identified, and these levels were restored to baseline after reoxygena­
+oxidative protein products (AOPPs), indicating disequilibrium between              tion, suggesting that chronic intermittent hypoxia could contribute to
+the oxidative and antioxidative systems [141]. Oxidative stress related            the occurrence and progression of myocardial infarction by modulating
+to OSAHS can further damage membranes, lipoproteins, and other                     lncRNAs [151]. Recently, researchers have identified differentially
+
+                                                                             305
+Z. Mao et al.                                                                                                                      Sleep Medicine 119 (2024) 296–311
+
+
+expressed circular RNAs (circRNAs) in a model of OSAHS-induced car­                  3.8. Treatments for OSAHS combined with vascular lesions
+diovascular damage using bioinformatics techniques [152], and the re­
+sults suggested that circRNAs may hold potential therapeutic value in                    Research has demonstrated that vascular lesions can develop during
+OSAHS-associated vascular disorders. Overall, epigenetic modifica­                   the course of OSAHS. Treatment should adhere to the corresponding
+tions play an indispensable role in mediating vascular complications                 clinical guidelines. It is worth noting whether treatment for OSAHS can
+associated with OSAHS (Fig. 4), and further research on the specific                 help improve the associated vascular lesions (Table 2). Current treat­
+mechanisms underlying their occurrence is warranted. It is worth noting              ment modalities for OSAHS include CPAP, oral appliances, upper airway
+that therapies targeting epigenetics have been explored in various dis­              surgery, weight loss and other healthy lifestyle habits. Among these,
+ease areas, including cancer [153],neurological disorders (such as Alz­              CPAP is the foremost treatment for OSAHS. Some studies have suggested
+heimer’s disease) [154], immune-related diseases (such as rheumatic                  that positive airway pressure (PAP) therapy does not improve cardio­
+diseases) [155], metabolic diseases (such as diabetes) [156] and viral               vascular prognosis or reduce cardiovascular-related mortality in pa­
+infectious diseases (such as AIDS) [157]. In the field of oncology,                  tients with OSAHS [160]. However, more studies have shown that
+epigenetic therapies have shown some success. Currently, the main                    treatment with CPAP can ameliorate endothelial dysfunction associated
+drugs used in clinical practice include DNA methyltransferase inhibitors             with OSAHS and suppress the levels of inflammation and oxidative
+and histone deacetylase inhibitors. The former includes nucleoside in­               stress, which are risk factors associated with vasculopathy. A
+hibitors (such as azacitidine and decitabine) and non-nucleoside in­                 meta-analysis involving 150 patients demonstrated that CPAP treatment
+hibitors (5-azacytidine), which have been used in the treatment of                   could significantly increase FMD (flow-mediated dilation, a method for
+hematological malignancies [158]. Histone deacetylase inhibitors like                assessing endothelial function) in OSAHS patients [161]. This finding
+vorinostat and romidepsin have also been approved for the treatment of               suggested that CPAP therapy could improve endothelial function in
+lymphomas [159]. Although the efficacy of these drugs still requires                 OSAHS patients. The aforementioned study is constrained by a relatively
+further validation through larger-scale clinical data, they represent a              small sample size, variations in the duration of CPAP treatment, and
+promising new strategy for the treatment of OSAHS and its vascular                   discrepancies in patient compliance, impacting the credibility of the
+complications.                                                                       experimental conclusions. Nonetheless, this does undeniably signal a
+                                                                                     positive indication of the beneficial effects of CPAP therapy on vascular
+                                                                                     health. Moreover, clinical research has shown that CPAP treatment for
+
+
+
+
+Fig. 4. | Vascular damage can be induced during the course of OSAHS by affecting the epigenetic modification of relevant genes, including DNA methylation, histone
+methylations, acetylations, ubiquitination, and alterations in the levels of noncoding RNAs (miRNAs, circRNAs, lncRNAs).
+
+                                                                               306
+Z. Mao et al.                                                                                                                            Sleep Medicine 119 (2024) 296–311
+
+
+more than 4 h daily can promote the production of endothelial nitric                        metabolic markers, including glucose, total cholesterol and triglycerides
+oxide synthase and inhibit the levels of inflammatory markers (cyclo­                       [167], demonstrating the positive effects of UPPP surgery in controlling
+oxygenase-4, inducible NOS) and oxidative stress biomarkers (nitro­                         cardiovascular risks associated with OSAHS. However, current data
+tyrosine) in OSAHS patients, thereby improving endothelial function                         indicate that upper airway surgeries such as UPPP have limited effec­
+[162]. An evident issue in this study is the suboptimal compliance to                       tiveness in improving the AHI in OSAHS patients [168]. In a large
+CPAP treatment by over half of the participants. However, among                             retrospective study conducted in South Korea, OSAHS patients who
+OSAHS patients adhering to CPAP usage for a minimum of 4 h per day,                         underwent UPPP surgery exhibited a significantly reduced likelihood of
+reductions in inflammatory and oxidative stress markers were observed,                      experiencing cardiac complications [169]. In a long-term follow-up
+which undoubtedly presents favorable implications for the broader                           study, researchers found that OSAHS patients treated with dental or­
+adoption of CPAP therapy. In patients with OSAHS who already have                           thodontic appliances had a significantly higher decrease in apnea index
+vascular complications, CPAP treatment has shown value. The literature                      compared with those who underwent UPPP surgery (81 % vs. 53 %).
+reports that CPAP treatment can significantly reduce the incidence of                       Additionally, patients who underwent UPPP surgery exhibited a higher
+pulmonary arterial hypertension in patients with OSAHS complicated by                       proportion of nasopharyngeal reflux (8 %) and swallowing difficulties
+pulmonary arterial hypertension [163]. Similar to most clinical trials                      (10 %) as complications four years post-treatment [170]. Although a
+investigating the effectiveness of CPAP therapy, the aforementioned                         wealth of research indicates the beneficial effects of surgical treatments,
+study also faced discrepancies in CPAP treatment duration and criteria                      such as UPPP, in improving OSA symptoms and associated cardiovas­
+for including OSAHS patients (such as whether to exclude participants                       cular damage, the potential risks of complications accompanying these
+with concomitant cardiopulmonary conditions), which had a certain                           procedures must not be underestimated. Concurrently, some studies
+impact on the generation of experimental conclusions. From the afore­                       suggest that oral appliances, as a convenient treatment modality, may
+mentioned study, it is evident that the primary limitation currently                        even surpass surgical interventions in terms of therapeutic efficacy
+facing CPAP therapy is suboptimal patient compliance. This poses a                          [170]. Therefore, a cautious stance towards surgical intervention should
+significant challenge for the conduct of large-scale clinical trials. For                   be maintained in clinical management.
+clinicians, efforts should be directed towards assisting patients in un­                        Obesity is an independent risk factor for OSAHS [168]. Weight loss is
+derstanding the vital role of CPAP therapy during the diagnostic and                        an important adjunctive treatment for OSAHS because obesity can cause
+treatment process.                                                                          systemic metabolic disturbances and is a related risk factor for vascular
+    Compared with CPAP therapy, oral appliances have the advantage of                       lesions [171]. Therefore, weight loss therapy plays an essential role in
+being lightweight and portable, making them widely used to treat                            improving OSAHS-related vascular lesions. In a randomized controlled
+OSAHS. A number of studies have demonstrated that oral appliances can                       study, OSAHS patients who experienced weight loss combined with
+improve blood pressure levels and reduce cardiovascular death rates                         CPAP treatment exhibited significant reductions in serum C-reactive
+[164–166]. In several aforementioned studies, the mandibular                                protein, triglyceride and insulin resistance levels compared with those
+advancing device (a type of oral appliance) has shown similar effects to                    who received CPAP treatment alone [172]. This suggests that weight
+CPAP in improving blood pressure and reducing cardiovascular risk,                          loss should be considered an important adjunctive measure to CPAP
+which is an encouraging development for patients with poor CPAP                             therapy. Comprehensive treatment is advocated for OSAHS patients.
+compliance. However, further large-sample studies are needed to                             Notably, intermittent fasting, which is a scientifically proven method of
+confirm their effectiveness due to small sample sizes.                                      weight loss, can yield effects similar to those of long-term fasting.
+    Although surgical interventions such as uvulopalatopharyngoplasty                       Studies have reported that intermittent fasting can induce M2 polari­
+(UPPP) and adenotonsillectomy have been proposed to address upper                           zation in macrophages in adipose tissue by promoting the expression of
+airway collapse and other airway structural changes in the airway due to                    vascular endothelial growth factor, thereby promoting fat browning and
+OSAHS, current clinical practice shows that OSAHS patients who un­                          ultimately achieving the goal of maintaining metabolic homeostasis
+dergo UPPP surgery experience a reduction in the AHI and decreases in                       [173]. While studies currently lack substantial evidence regarding the
+                                                                                            direct improvement of OSAHS-related vascular damage through weight
+                                                                                            loss, current research indicates that weight loss is beneficial for
+Table 2
+Treatments for OSAHS combined with vascular lesions.
+                                                                                            ameliorating symptoms of OSA itself, predominantly reflected in the
+                                                                                            reduction of the AHI index [174,175]. Given the close association be­
+  Treatments                 Effects                                      Reference
+                                                                                            tween OSAHS and vascular damage, incorporating weight loss as an
+  CPAP                       Improves endothelial disorders and           [161–163]         adjunctive therapeutic strategy for patients with OSAHS and associated
+                             suppresses inflammation and oxidative
+                                                                                            vascular impairment is imperative.
+                             stress
+  oral appliances            Reduces blood pressure and improves          [164–166]
+                                                                                                Currently, there are no specific drugs targeting OSAHS that have
+                             cardiovascular mortality outcomes                              been shown to be effective. However, considering the high risk of
+  UPPP                       Improves glucose-lipid metabolism and        [167,169]         vascular complications in patients with OSAHS, research has examined
+                             reduces cardiovascular risk                                    the pathophysiological mechanisms mediating vascular damage associ­
+  weight loss                Suppresses inflammation and improves         [172,173]
+                                                                                            ated with OSAHS. This has led to studies investigating the protective
+                             glycolipid metabolism levels
+  medication                                                                                effects of medications such as antihypertensive drugs, anti-
+  angiotensin II receptor    Inhibits oxidative stress and protects the   [177]             inflammatory agents, antioxidative stress medications and lipid-
+    antagonist (losartan)    vascular endothelium                                           lowering drugs on the vasculature of OSAHS patients [176]. Studies
+  beta-blocker               Improves heart rate                          [178]             have reported that the angiotensin II receptor antagonist losartan can
+    (Carvedilol)
+  calcium channel            Ameliorates cardiac hypertrophy              [179]
+                                                                                            inhibit oxidative stress levels in OSAHS patients and reduce NO meta­
+    blockers (Verapamil)                                                                    bolism, suggesting its protective effect on the vascular endothelium in
+  Diuretics (eplerenone)     Ameliorates cardiac remodeling               [180]             OSAHS [177]. Carvedilol, which is a beta-blocker, has been shown to
+  anti-inflammatory drug     Inhibits inflammation and prevents           [34]              improve heart rate in rats exposed to chronic intermittent hypoxia
+    (SC-560)                 vascular plaque progression
+                                                                                            [178]. Unfortunately, it did not reverse the chronic intermittent
+  antioxidant drug           Inhibits oxidative stress and ameliorates    [181]
+    (melatonin)              endothelial disorders, hypertension, and                       hypoxia-induced increase in blood pressure. The use of calcium channel
+                             glucose metabolism                                             blockers and diuretics has also been shown to alleviate associated car­
+  lipid-lowering             Suppresses inflammation and prevents         [182]             diac damage in animal models of chronic intermittent hypoxia [179,
+     medications (Statins)   atherosclerosis                                                180]. The anti-inflammatory drug SC-560 inhibits atherosclerotic pla­
+CPAP: continuous positive airway pressure; UPPP: uvulopalatopharyngoplasty.                 que progression by inhibiting COX-1 (cyclooxygenase-1) expression in
+
+                                                                                      307
+Z. Mao et al.                                                                                                                             Sleep Medicine 119 (2024) 296–311
+
+
+mice exposed to chronic intermittent hypoxic stimulation [34]. Inhib­               CRediT authorship contribution statement
+iting oxidative stress has can ameliorate vascular lesions caused by
+OSAHS. Research has shown that mice with chronic intermittent hyp­                     Zhenyu Mao: Writing – original draft, Conceptualization. Pengdou
+oxia exhibit in the amelioration of endothelial dysfunction, hyperten­              Zheng: Writing – review & editing. Xiaoyan Zhu: Validation. Lingling
+sion and insulin resistance in response to melatonin (an antioxidant                Wang: Visualization. Fengqin Zhang: Supervision. Huiguo Liu: Project
+drug) treatment [181]. The beneficial effects of statins, which are                 administration, Funding acquisition. Hai Li: Visualization. Ling Zhou:
+lipid-lowering medications, have been shown to reduce inflammation in               Conceptualization. Wei Liu: Project administration, Funding
+OSAHS patients and prevent the early development of atherosclerosis                 acquisition.
+[182]. Although the effects of many of these medications only have been
+established in cell or animal models, the findings suggest that medica­
+                                                                                    Declaration of competing interest
+tions are valuable for ameliorating OSAHS-related vascular lesions.
+                                                                                       The authors declare that they have no competing interests.
+4. Conclusion
+                                                                                    Acknowledgments
+    These studies revealed the pivotal role of OSAHS in the formation
+and progression of lesions in the cardiovascular, cerebrovascular, uter­
+                                                                                       Figdraw was used to construct the figures.
+ine, retinal and renal vasculature. The focus on OSAHS-mediated
+disruption of endothelial barrier integrity, metabolic disturbances,
+                                                                                    References
+cellular phenotypic transitions, neuroendocrine aberrations, pro­
+grammed cell death, inflammation, oxidative stress alterations and                    [1] Benjafield AV, Ayas NT, Eastwood PR, et al. Estimation of the global prevalence
+epigenetic modifications holds clinical significance in identifying po­                   and burden of obstructive sleep apnoea: a literature-based analysis. Lancet Respir
+tential therapeutic targets for ameliorating vascular lesions associated                  Med 2019;7(8):687–98.
+                                                                                      [2] Roth GA, Mensah GA, Johnson CO, et al. Global burden of cardiovascular diseases
+with OSAHS. Therapeutic interventions targeting OSAHS are advanta­                        and risk factors, 1990-2019: update from the GBD 2019 study. J Am Coll Cardiol
+geous for improving vascular function, underscoring the importance of                     2020;76(25):2982–3021.
+early vascular screening, prompt diagnosis and timely treatment of                    [3] Light M, McCowen K, Malhotra A, et al. Sleep apnea, metabolic disease, and the
+                                                                                          cutting edge of therapy. Metab, Clin Exp 2018;84:94–8.
+OSAHS to control vascular-related diseases. However, many current
+                                                                                      [4] Augustin HG, Koh GY. Organotypic vasculature: from descriptive heterogeneity
+studies can only offer indirect evidence of the involvement of OSAHS in                   to functional pathophysiology. Science (New York, NY) 2017;357(6353):
+vascular lesions. The research on the vascular damage associated with                     eaal2379.
+OSAHS currently presents several limitations: Firstly, the diverse criteria           [5] Gimbrone MA, García-Cardeña G. Endothelial cell dysfunction and the
+                                                                                          pathobiology of atherosclerosis. Circ Res 2016;118(4):620–36.
+for including OSAHS patients in the current body of research, along with              [6] Baltzis D, Bakker JP, Patel SR, et al. Obstructive sleep apnea and vascular diseases
+the common comorbidities of obesity, hypertension, and diabetes in                        [M]//TERJUNG R. Comprehensive physiology. first ed. Wiley; 2016. p. 1519–28.
+OSAHS patients, often introduce confounding factors that disrupt the                  [7] Harki O, Boete Q, Pépin JL, et al. Intermittent hypoxia-related alterations in
+                                                                                          vascular structure and function: a systematic review and meta-analysis of rodent
+results of clinical studies related to OSAHS. Secondly, it is imperative to               data. Eur Respir J 2022;59(3):2100866.
+explore the impact of CPAP therapy on vascular damage associated with                 [8] García-Ortega A, Mañas E, López-Reyes R, et al. Obstructive sleep apnoea and
+OSAHS; however, poor patient compliance with CPAP treatment and the                       venous thromboembolism: pathophysiological links and clinical implications. Eur
+                                                                                          Respir J 2019;53(2):1800893.
+varying treatment durations in clinical trials pose significant challenges.           [9] Müller MB, Stihl C, Schmid A, et al. A novel OSA-related model of intermittent
+Lastly, current research often exhibits characteristics of small sample                   hypoxia in endothelial cells under flow reveals pronounced inflammatory
+sizes. Larger-scale, randomized controlled studies are urgently needed in                 pathway activation. Front Physiol 2023;14:1108966.
+                                                                                     [10] Harki O, Tamisier R, Pépin JL, et al. VE-cadherin cleavage in sleep apnoea: new
+the field of investigating vascular damage associated with OSAHS. In an                   insights into intermittent hypoxia-related endothelial permeability. Eur Respir J
+era advocating for personalized precision medicine, it is of significant                  2021;58(4):2004518.
+importance to explore therapeutic interventions targeting the patho­                 [11] Kyotani Y, Ota H, Itaya-Hironaka A, et al. Intermittent hypoxia induces the
+                                                                                          proliferation of rat vascular smooth muscle cell with the increases in epidermal
+physiological mechanisms accompanying vascular damage in OSAHS,
+                                                                                          growth factor family and erbB2 receptor. Exp Cell Res 2013;319(19):3042–50.
+such as endothelial dysfunction, metabolic disturbances, cellular                    [12] Lu M, Fang F, Wang Z, et al. Association between OSA and quantitative
+phenotype alterations, neuroendocrine abnormalities, programmed cell                      atherosclerotic plaque burden: a coronary ct angiography study. Chest 2021;160
+death, inflammation, oxidative stress alterations, and epigenetic modi­                   (5):1864–74.
+                                                                                     [13] Tamura A, Kawano Y, Ando S, et al. Association between coronary spastic angina
+fications. Unfortunately, there is scarce research exploring these mech­                  pectoris and obstructive sleep apnea. J Cardiol 2010;56(2):240–4.
+anisms directly. The earlier mention of the oncology field is worth                  [14] Wang L, Chen J, Li G, et al. The prevalence of sleep apnea in type B aortic
+drawing insights from in the exploration of targeted therapies.                           dissection: implications for false lumen thrombosis. Sleep 2017;40(3):zsw071.
+                                                                                     [15] Xi X, Chen Y, Ma WG, et al. Is obstructive sleep apnoea associated with
+                                                                                          hypoxaemia and prolonged ICU stay after type A aortic dissection repair? A
+Funding                                                                                   retrospective study in Chinese population. BMC Cardiovasc Disord 2021;21(1):
+                                                                                          421.
+                                                                                     [16] Gaisl T, Baumgartner P, Rejmer P, et al. Prevalence of obstructive sleep apnea in
+    This work was supported by the National key Research and Devel­                       patients with thoracic aortic aneurysm: a prospective, parallel cohort study[J].
+opment Program of China (Project No. 2021YFC2500702) and the Na­                          Respiration. Int Rev Thorac Dis 2020;99(1):19–27.
+tional Natural Science Foundation of China (No. 82270104,82201268).                  [17] Mason RH, Ruegg G, Perkins J, et al. Obstructive sleep apnea in patients with
+                                                                                          abdominal aortic aneurysms: highly prevalent and associated with aneurysm
+Health Commission of Hubei Province scientific research project                           expansion. Am J Respir Crit Care Med 2011;183(5):668–74.
+(WJ2023Z010); Young Doctors’ Innovation and Development Program                      [18] Mason RH, Kiire CA, Groves DC, et al. Visual improvement following continuous
+(HXQNJJ-2023-010); Moderate and Severe Asthma Diagnosis and                               positive airway pressure therapy in diabetic subjects with clinically significant
+                                                                                          macular oedema and obstructive sleep apnoea: proof of principle study[J].
+Treatment of Scientific Research Project (Z001).
+                                                                                          Respiration. Int Rev Thorac Dis 2012;84(4):275–82.
+                                                                                     [19] Aptel F, Khayi H, Pépin JL, et al. Association of nonarteritic ischemic optic
+Ethics approval and consent to participate                                                neuropathy with obstructive sleep apnea syndrome: consequences for obstructive
+                                                                                          sleep apnea screening and treatment. JAMA ophthalmology 2015;133(7):
+                                                                                          797–804.
+    Not applicable.                                                                  [20] Full KM, Jackson CL, Rebholz CM, et al. Obstructive sleep apnea, other sleep
+                                                                                          characteristics, and risk of CKD in the atherosclerosis risk in communities sleep
+Availability of data and materials                                                        heart health study. J Am Soc Nephrol: JASN (J Am Soc Nephrol) 2020;31(8):
+                                                                                          1859–69.
+                                                                                     [21] Bady E, Achkar A, Pascal S, et al. Pulmonary arterial hypertension in patients
+    Not applicable.                                                                       with sleep apnoea syndrome. Thorax 2000;55(11):934–9.
+
+
+                                                                              308
+Z. Mao et al.                                                                                                                                           Sleep Medicine 119 (2024) 296–311
+
+ [22] Minic M, Granton JT, Ryan CM. Sleep disordered breathing in group 1 pulmonary                [53] Fernández-Bello I, Monzón Manzano E, García Río F, et al. Procoagulant state of
+      arterial hypertension. J Clin Sleep Med : JCSM : Off Publ Pirandello Am Acad                      sleep apnea depends on systemic inflammation and endothelial damage. Arch
+      Sleep Med 2014;10(3):277–83.                                                                      Bronconeumol 2022;58(2):117–24.
+ [23] Arias MA, García-Río F, Alonso-Fernández A, et al. Pulmonary hypertension in                [54] Robinson GV, Pepperell JCT, Segal HC, et al. Circulating cardiovascular risk
+      obstructive sleep apnoea: effects of continuous positive airway pressure: a                       factors in obstructive sleep apnoea: data from randomised controlled trials.
+      randomized, controlled cross-over study. Eur Heart J 2006;27(9):1106–13.                          Thorax 2004;59(9):777–82.
+ [24] Genuardi MV, Rathore A, Ogilvie RP, et al. Incidence of VTE in patients with OSA:            [55] Phillips CL, McEwen BJ, Morel-Kopp MC, et al. Effects of continuous positive
+      a cohort study. Chest 2022;161(4):1073–82.                                                        airway pressure on coagulability in obstructive sleep apnoea: a randomised,
+ [25] Geer JH, Falcone GJ, Vanent KN, et al. Obstructive sleep apnea as a risk factor for               placebo-controlled crossover study. Thorax 2012;67(7):639–44.
+      intracerebral hemorrhage. Stroke 2021;52(5):1835–8.                                          [56] Bassetti CLA, Randerath W, Vignatelli L, et al. EAN/ERS/ESO/ESRS statement on
+ [26] Redline S, Yenokyan G, Gottlieb DJ, et al. Obstructive sleep apnea-hypopnea and                   the impact of sleep disorders on risk and outcome of stroke. Eur Respir J 2020;55
+      incident stroke: the sleep heart health study. Am J Respir Crit Care Med 2010;182                 (4):1901104.
+      (2):269–77.                                                                                  [57] Drager LF, Bortolotto LA, Lorenzi MC, et al. Early signs of atherosclerosis in
+ [27] Utriainen KT, Airaksinen JK, Polo O, et al. Unrecognised obstructive sleep apnoea                 obstructive sleep apnea. Am J Respir Crit Care Med 2005;172(5):613–8.
+      is common in severe peripheral arterial disease. Eur Respir J 2013;41(3):616–20.             [58] Lyons MM, Bhatt NY, Pack AI, et al. Global burden of sleep-disordered breathing
+ [28] Schaefer CA, Adam L, Weisser-Thomas J, et al. High prevalence of peripheral                       and its implications. Respirology 2020;25(7):690–702.
+      arterial disease in patients with obstructive sleep apnoea. Clin Res Cardiol : Off J         [59] Dissanayake HU, Bin YS, Ucak S, et al. Association between autonomic function
+      Ger Card Soc 2015;104(9):719–26.                                                                  and obstructive sleep apnea: a systematic review. Sleep Med Rev 2021;57:
+ [29] Weng C, Huang L, Feng H, et al. Correction to: gestational chronic intermittent                   101470.
+      hypoxia induces hypertension, proteinuria, and fetal growth restriction in mice.             [60] Smith DF, Schuler CL, Hossain MM, et al. Early atherosclerotic inflammatory
+      Sleep Breath Schlaf Atmungsorgane 2022;26(4):1671–2.                                              pathways in children with obstructive sleep apnea. J Pediatr 2021;239:168–74.
+ [30] Badran M, Abuyassin B, Ayas N, et al. Intermittent hypoxia impairs uterine artery            [61] Middleton PG. Obstructive sleep apnoea and sleep disorders in pregnancy[J]. Best
+      function in pregnant mice. J Physiol 2019;597(10):2639–50.                                        Practice & Research. Clin Obstet Gynaecol 2022;85(Pt A):107–13.
+ [31] Phan K, Pamidi S, Gomez YH, et al. Sleep-disordered breathing in high-risk                   [62] Tesfamariam B, DeFelice AF. Endothelial injury in the initiation and progression
+      pregnancies is associated with elevated arterial stiffness and increased risk for                 of vascular disorders. Vasc Pharmacol 2007;46(4):229–37.
+      preeclampsia. Am J Obstet Gynecol 2022;226(6):833.e1–833.e20.                                [63] Toffoli S, Delaive E, Dieu M, et al. NDRG1 and CRK-I/II are regulators of
+ [32] Ooi EL, Rajendran S. Obstructive sleep apnea in coronary artery disease. Curr                     endothelial cell migration under Intermittent Hypoxia. Angiogenesis 2009;12(4):
+      Probl Cardiol 2022:101178.                                                                        339–54.
+ [33] Halliwell B, Watt F, Minqin R. Iron and atherosclerosis: lessons learned from                [64] Liu KX, Chen GP, Lin PL, et al. Detection and analysis of apoptosis- and
+      rabbits relevant to human disease. Free Radical Biol Med 2023;209(Pt 1):165–70.                   autophagy-related miRNAs of mouse vascular endothelial cells in chronic
+ [34] Gautier-Veyret E, Arnaud C, Bäck M, et al. Intermittent hypoxia-activated                        intermittent hypoxia model. Life Sci 2018;193:194–9.
+      cyclooxygenase pathway: role in atherosclerosis. Eur Respir J 2013;42(2):                    [65] Fan ZT, Dong LP, Niu YH, et al. Specific role of NAD+ biosynthesis reduction
+      404–13.                                                                                           mediated mitochondrial dysfunction in vascular endothelial injury induced by
+ [35] Harki O, Bouyon S, Sallé M, et al. Inhibition of vascular endothelial cadherin                   chronic intermittent hypoxia. Eur Rev Med Pharmacol Sci 2023;27(21):
+      cleavage prevents elastic fiber alterations and atherosclerosis induced by                        10749–62.
+      intermittent hypoxia in the mouse aorta. Int J Mol Sci 2022;23(13):7012.                     [66] Bironneau V, Tamisier R, Trzepizur W, et al. Sleep apnoea and endothelial
+ [36] Gaisl T, Bratton DJ, Kohler M. The impact of obstructive sleep apnoea on the                      dysfunction: an individual patient data meta-analysis. Sleep Med Rev 2020;52:
+      aorta. Eur Respir J 2015;46(2):532–44.                                                            101309.
+ [37] Lehoux S, Castier Y, Tedgui A. Molecular mechanisms of the vascular responses to             [67] Ip MS, Lam B, Chan LY, et al. Circulating nitric oxide is suppressed in obstructive
+      haemodynamic forces. J Intern Med 2006;259(4):381–92.                                             sleep apnea and is reversed by nasal continuous positive airway pressure. Am J
+ [38] Liu W, Zhang W, Wang T, et al. Obstructive sleep apnea syndrome promotes the                      Respir Crit Care Med 2000;162(6):2166–71.
+      progression of aortic dissection via a ROS- HIF-1α-MMPs associated pathway. Int              [68] Alonso-Fernández A, García-Río F, Arias MA, et al. Effects of CPAP on oxidative
+      J Biol Sci 2019;15(13):2774–82.                                                                   stress and nitrate efficiency in sleep apnoea: a randomised trial. Thorax 2009;64
+ [39] Xu C, Xu J, Zou C, et al. Chronic intermittent hypoxia regulates CaMKII-                          (7):581–6.
+      dependent MAPK signaling to promote the initiation of abdominal aortic                       [69] DeBerardinis RJ, Thompson CB. Cellular metabolism and disease: what do
+      aneurysm. Oxid Med Cell Longev 2021;2021:1–15.                                                    metabolic outliers teach us? Cell 2012;148(6):1132–44.
+ [40] Martinot JB, Le-Dong NN, Malhotra A, et al. Respiratory effort during sleep and              [70] Hasan SS, Fischer A. The endothelium: an active regulator of lipid and glucose
+      prevalent hypertension in obstructive sleep apnoea. Eur Respir J 2023;61(3):                      homeostasis. Trends Cell Biol 2021;31(1):37–49.
+      2201486.                                                                                     [71] Foster GD, Sanders MH, Millman R, et al. Obstructive sleep apnea among obese
+ [41] Pépin JL, Tamisier R, Baguet JP, et al. Arterial health is related to obstructive                patients with type 2 diabetes. Diabetes Care 2009;32(6):1017–9.
+      sleep apnea severity and improves with CPAP treatment. Sleep Med Rev 2013;17                 [72] Pamidi S, Wroblewski K, Stepien M, et al. Eight hours of nightly continuous
+      (1):3–5.                                                                                          positive airway pressure treatment of obstructive sleep apnea improves glucose
+ [42] Vlachantoni IT, Dikaiakou E, Antonopoulos CN, et al. Effects of continuous                        metabolism in patients with prediabetes. A randomized controlled trial. Am J
+      positive airway pressure (CPAP) treatment for obstructive sleep apnea in arterial                 Respir Crit Care Med 2015;192(1):96–105.
+      stiffness: a meta-analysis. Sleep Med Rev 2013;17(1):19–28.                                  [73] Chen L, Cao Z long, Han F, et al. Chronic intermittent hypoxia from pedo-stage
+ [43] Yamashita S, Dohi T, Narui K, et al. Therapeutic efficacy of continuous positive                  decreases glucose transporter 4 expression in adipose tissue and causes insulin
+      airway pressure in obstructive sleep apnea patients with acute aortic dissection: a               resistance. Chinese Med J 2010;123(4):463–70.
+      case report. J Atherosclerosis Thromb 2010;17(9):999–1002.                                   [74] Gu C, Younas H, Jun JC. Sleep apnea: an overlooked cause of lipotoxicity? Med
+ [44] Cistulli PA, Wilcox I, Jeremy R, et al. Aortic root dilatation in Marfan’s syndrome:              Hypotheses 2017;108:161–5.
+      a contribution from obstructive sleep apnea? Chest 1997;111(6):1763–6.                       [75] Trzepizur W, Le Vaillant M, Meslier N, et al. Independent association between
+ [45] Fraser CL, Bliwise DL, Newman NJ, et al. A prospective photographic study of the                  nocturnal intermittent hypoxemia and metabolic dyslipidemia. Chest 2013;143
+      ocular fundus in obstructive sleep apnea. J Neuro Ophthalmol: Off J North Am                      (6):1584–9.
+      Neuro Ophthalmol Soc 2013;33(3):241–6.                                                       [76] Drager LF, Li J, Shin MK, et al. Intermittent hypoxia inhibits clearance of
+ [46] Seshadri S, Shokr H, Gherghel D. Retinal microvascular abnormalities and                          triglyceride-rich lipoproteins and inactivates adipose lipoprotein lipase in a
+      systemic arterial stiffness are the first manifestation of cardiovascular                         mouse model of sleep apnoea. Eur Heart J 2012;33(6):783–90.
+      abnormalities in patients with untreated moderate to severe obstructive sleep                [77] Aron-Wisnewsky J, Clement K, Pépin JL. Nonalcoholic fatty liver disease and
+      apnoea and with low to intermediate cardiovascular risk-A pilot study.                            obstructive sleep apnea. Metab, Clin Exp 2016;65(8):1124–35.
+      Biomedicines 2022;10(10):2669.                                                               [78] Ji Y, Liang Y, Chu PH, et al. The effects of intermittent hypoxia on hepatic
+ [47] Wu Y, Zhou LM, Lou H, et al. The association between obstructive sleep apnea                      expression of fatty acid translocase CD36 in lean and diet-induced obese mice.
+      and nonarteritic anterior ischemic optic neuropathy: a systematic review and                      Biomed J 2023;46(5):100566.
+      meta-analysis. Curr Eye Res 2016;41(7):987–92.                                               [79] Briançon-Marjollet A, Monneret D, Henri M, et al. Endothelin regulates
+ [48] Kimura H, Ota H, Kimura Y, et al. Effects of intermittent hypoxia on pulmonary                    intermittent hypoxia-induced lipolytic remodelling of adipose tissue and
+      vascular and systemic diseases. Int J Environ Res Publ Health 2019;16(17):3101.                   phosphorylation of hormone-sensitive lipase. J Physiol 2016;594(6):1727–40.
+ [49] Iturriaga R, Castillo-Galán S. Potential contribution of carotid body-induced               [80] Phillips CL, Yee BJ, Marshall NS, et al. Continuous positive airway pressure
+      sympathetic and renin-angiotensin system overflow to pulmonary hypertension                       reduces postprandial lipidemia in obstructive sleep apnea: a randomized,
+      in intermittent hypoxia. Curr Hypertens Rep 2019;21(11):89.                                       placebo-controlled crossover trial. Am J Respir Crit Care Med 2011;184(3):
+ [50] Alonso-Fernández A, Toledo-Pons N, García-Río F. Obstructive sleep apnea and                     355–61.
+      venous thromboembolism: overview of an emerging relationship. Sleep Med Rev                  [81] Giampá SQC, Furlan SF, Freitas LS, et al. Effects of CPAP on metabolic syndrome
+      2020;50:101233.                                                                                   in patients with OSA: a randomized trial. Chest 2022;161(5):1370–81.
+ [51] Peng YH, Liao WC, Chung WS, et al. Association between obstructive sleep apnea               [82] Cattazzo F, Pengo MF, Giontella A, et al. Effect of continuous positive airway
+      and deep vein thrombosis/pulmonary embolism: a population-based                                   pressure on glucose and lipid profiles in patients with obstructive sleep apnoea: a
+      retrospective cohort study. Thromb Res 2014;134(2):340–5.                                         systematic review and meta-analysis of randomized controlled trials. Arch
+ [52] von Känel R, Dimsdale JE. Hemostatic alterations in patients with obstructive                    Bronconeumol 2023;59(6):370–6.
+      sleep apnea and the implications for cardiovascular disease. Chest 2003;124(5):              [83] Wu G. Amino acids: metabolism, functions, and nutrition. Amino Acids 2009;37
+      1956–67.                                                                                          (1):1–17.
+
+
+
+
+                                                                                             309
+Z. Mao et al.                                                                                                                                            Sleep Medicine 119 (2024) 296–311
+
+ [84] Feng B, Liu C, Yi T, et al. Perturbation of amino acid metabolism mediates air              [116] El Solh AA, Akinnusi ME, Baddoura FH, et al. Endothelial cell apoptosis in
+      pollution associated vascular dysfunction in healthy adults. Environ Res 2021;                    obstructive sleep apnea: a link to endothelial dysfunction. Am J Respir Crit Care
+      201:111512.                                                                                       Med 2007;175(11):1186–91.
+ [85] Chen LD, Huang ZW, Huang YZ, et al. Untargeted metabolomic profiling of liver               [117] Yan YR, Zhang L, Lin YN, et al. Chronic intermittent hypoxia-induced
+      in a chronic intermittent hypoxia mouse model. Front Physiol 2021;12:701035.                      mitochondrial dysfunction mediates endothelial injury via the TXNIP/NLRP3/IL-
+ [86] Stenmark KR, Fagan KA, Frid MG. Hypoxia-induced pulmonary vascular                                1β signaling pathway. Free Radical Biol Med 2021;165:401–10.
+      remodeling: cellular and molecular mechanisms. Circ Res 2006;99(7):675–91.                  [118] Díaz-García E, García-Tovar S, Alfaro E, et al. Inflammasome activation: a
+ [87] Mouton AJ, Li X, Hall ME, et al. Obesity, hypertension, and cardiac dysfunction:                  keystone of proinflammatory response in obstructive sleep apnea. Am J Respir
+      novel roles of immunometabolism in macrophage activation and inflammation.                        Crit Care Med 2022;205(11):1337–48.
+      Circ Res 2020;126(6):789–806.                                                               [119] Yang Y yuan, Shang J, Liu H guo. Role of endoplasmic reticular stress in aortic
+ [88] Wang Y, Lee MYK, Mak JCW, et al. Low-frequency intermittent hypoxia                               endothelial apoptosis induced by intermittent/persistent hypoxia. Chinese Med J
+      suppresses subcutaneous adipogenesis and induces macrophage polarization in                       2013;126(23):4517–23.
+      lean mice. Diabetes & Metabolism Journal 2019;43(5):659–74.                                 [120] da Rosa DP, Forgiarini LF, e Silva MB, et al. Antioxidants inhibit the inflammatory
+ [89] Schaefer E, Wu W, Mark C, et al. Intermittent hypoxia is a proinflammatory                        and apoptotic processes in an intermittent hypoxia model of sleep apnea. Inflamm
+      stimulus resulting in IL-6 expression and M1 macrophage polarization. Hepatol                     Res: Off J Eur Hist Res 2015;64(1):21–9.
+      Commun 2017;1(4):326–37.                                                                    [121] Guan P, Sun ZM, Wang N, et al. Resveratrol prevents chronic intermittent
+ [90] Lin HP, Singla B, Ahn W, et al. Receptor-independent fluid-phase                                  hypoxia-induced cardiac hypertrophy by targeting the PI3K/AKT/mTOR
+      macropinocytosis promotes arterial foam cell formation and atherosclerosis. Sci                   pathway. Life Sci 2019;233:116748.
+      Transl Med 2022;14(663):eadd2376.                                                           [122] Si J, Liu B, Qi K, et al. Tanshinone IIA inhibited intermittent hypoxia induced
+ [91] Imamura T, Poulsen O, Haddad GG. Intermittent hypoxia induces murine                              neuronal injury through promoting autophagy via AMPK-mTOR signaling
+      macrophage foam cell formation by IKK-β-dependent NF-κB pathway activation.                       pathway. J Ethnopharmacol 2023;315:116677.
+      J Appl Physiol 2016;121(3):670–7.                                                           [123] Xie S, Deng Y, Pan YY, et al. Melatonin protects against chronic intermittent
+ [92] Xia Y, Zhang X, An P, et al. Mitochondrial homeostasis in VSMCs as a central hub                  hypoxia-induced cardiac hypertrophy by modulating autophagy through the 5’
+      in vascular remodeling. Int J Mol Sci 2023;24(4):3483.                                            adenosine monophosphate-activated protein kinase pathway. Biochem Biophys
+ [93] Kyotani Y, Itaya-Hironaka A, Yamauchi A, et al. Intermittent hypoxia-induced                      Res Commun 2015;464(4):975–81.
+      epiregulin expression by IL-6 production in human coronary artery smooth                    [124] Chen YC, Lin IC, Su MC, et al. Autophagy impairment in patients with obstructive
+      muscle cells. FEBS open bio 2018;8(5):868–76.                                                     sleep apnea modulates intermittent hypoxia-induced oxidative stress and cell
+ [94] Kyotani Y, Takasawa S, Yoshizumi M. Proliferative pathways of vascular smooth                     apoptosis via hypermethylation of the ATG5 gene promoter region. Eur J Med Res
+      muscle cells in response to intermittent hypoxia. Int J Mol Sci 2019;20(11):2706.                 2023;28(1):82.
+ [95] Stenmark KR, Gerasimovskaya E, Nemenoff RA, et al. Hypoxic activation of                    [125] Díaz-García E, Sanz-Rubio D, García-Tovar S, et al. Inflammasome activation
+      adventitial fibroblasts: role in vascular remodeling. Chest 2002;122(6 Suppl):                    mediated by oxidised low-density lipoprotein in patients with sleep apnoea and
+      326S–34S.                                                                                         early subclinical atherosclerosis. Eur Respir J 2023;61(3):2201401.
+ [96] Bao Q, Zhang B, Suo Y, et al. Intermittent hypoxia mediated by TSP1 dependent               [126] Xu J, Li Q, Xu CY, et al. Obstructive sleep apnea aggravates neuroinflammation
+      on STAT3 induces cardiac fibroblast activation and cardiac fibrosis. Elife 2020;9:                and pyroptosis in early brain injury following subarachnoid hemorrhage via ASC/
+      e49923.                                                                                           HIF-1α pathway. Neural Regen Res 2022;17(11):2537–43.
+ [97] Yoo SA, Kim M, Kang MC, et al. Placental growth factor regulates the generation             [127] Huang J, Zhang H, Cao L, et al. Ferroptosis-related genes are considered as
+      of TH17 cells to link angiogenesis with autoimmunity. Nat Immunol 2019;20(10):                    potential targets for CPAP treatment of obstructive sleep apnea. Front Neurol
+      1348–59.                                                                                          2023;14:1320954.
+ [98] Liu J, Li W, Zhu W, et al. Chronic intermittent hypoxia promotes the development            [128] Liu P, Zhao D, Pan Z, et al. Identification and validation of ferroptosis-related hub
+      of experimental non-alcoholic steatohepatitis by modulating Treg/Th17                             genes in obstructive sleep apnea syndrome. Front Neurol 2023;14:1130378.
+      differentiation. Acta Biochim Biophys Sin 2018;50(12):1200–10.                              [129] Zhang H, Zhou L, Zhou Y, et al. Intermittent hypoxia aggravates non-alcoholic
+ [99] Ye J, Liu H, Li P, et al. CD4(+)T-lymphocyte subsets in nonobese children with                    fatty liver disease via RIPK3-dependent necroptosis-modulated Nrf2/NFκB
+      obstructive sleep apnea syndrome. Pediatr Res 2015;78(2):165–73.                                  signaling pathway. Life Sci 2021;285:119963.
+[100] Wang W, Zheng Y, Li M, et al. Recent advances in studies on the role of                     [130] Hansson GK. Inflammation, atherosclerosis, and coronary artery disease. N Engl J
+      neuroendocrine disorders in obstructive sleep apnea-hypopnea syndrome-related                     Med 2005;352(16):1685–95.
+      atherosclerosis. Nat Sci Sleep 2021;13:1331–45.                                             [131] Domínguez F, Fuster V, Fernández-Alvira JM, et al. Association of sleep duration
+[101] Somers VK, Dyken ME, Clary MP, et al. Sympathetic neural mechanisms in                            and quality with subclinical atherosclerosis. J Am Coll Cardiol 2019;73(2):
+      obstructive sleep apnea. J Clin Invest 1995;96(4):1897–904.                                       134–44.
+[102] Kim SJ, Fong AY, Pilowsky PM, et al. Sympathoexcitation following intermittent              [132] Dyugovskaya L, Lavie P, Lavie L. Phenotypic and functional characterization of
+      hypoxia in rat is mediated by circulating angiotensin II acting at the carotid body               blood gammadelta T cells in sleep apnea. Am J Respir Crit Care Med 2003;168(2):
+      and subfornical organ. J Physiol 2018;596(15):3217–32.                                            242–9.
+[103] Tamisier R, Pépin JL, Rémy J, et al. 14 nights of intermittent hypoxia elevate            [133] Israel LP, Benharoch D, Gopas J, et al. A pro-inflammatory role for nuclear factor
+      daytime blood pressure and sympathetic activity in healthy humans. Eur Respir J                   kappa B in childhood obstructive sleep apnea syndrome. Sleep 2013;36(12):
+      2011;37(1):119–28.                                                                                1947–55.
+[104] Greenberg HE, Sica A, Batson D, et al. Chronic intermittent hypoxia increases               [134] Poulain L, Richard V, Lévy P, et al. Toll-like receptor-4 mediated inflammation is
+      sympathetic responsiveness to hypoxia and hypercapnia. J Appl Physiol 1999;86                     involved in the cardiometabolic alterations induced by intermittent hypoxia.
+      (1):298–305.                                                                                      Mediat Inflamm 2015;2015:1–9.
+[105] Ramirez JM, Carroll MS, Burgraff N, et al. A narrative review of the mechanisms             [135] Arnaud C, Beguin PC, Lantuejoul S, et al. The inflammatory preatherosclerotic
+      and consequences of intermittent hypoxia and the role of advanced analytic                        remodeling induced by intermittent hypoxia is attenuated by RANTES/CCL5
+      techniques in pediatric autonomic disorders. Clin Auton Res: Off J Clin Auton Res                 inhibition. Am J Respir Crit Care Med 2011;184(6):724–31.
+      Soc 2023;33(3):287–300.                                                                     [136] Zou F, Su X, Pan P. Toll-like receptor-4-mediated inflammation is involved in
+[106] Schweitzer PK, Taranto-Montemurro L, Ojile JM, et al. The combination of                          intermittent hypoxia-induced lung injury. Lung 2020;198(5):855–62.
+      aroxybutynin and atomoxetine in the treatment of obstructive sleep apnea                    [137] Zeng X, Guo R, Dong M, et al. Contribution of TLR4 signaling in intermittent
+      (mariposa): a randomized controlled trial. Am J Respir Crit Care Med 2023;208                     hypoxia-mediated atherosclerosis progression. J Transl Med 2018;16(1):106.
+      (12):1316–27.                                                                               [138] Htoo AK, Greenberg H, Tongia S, et al. Activation of nuclear factor kappaB in
+[107] Rosenberg R, Abaluck B, Thein S. Combination of atomoxetine with the novel                        obstructive sleep apnea: a pathway leading to systemic inflammation. Sleep
+      antimuscarinic aroxybutynin improves mild to moderate OSA. J Clin Sleep Med:                      Breath Schlaf Atmungsorgane 2006;10(1):43–50.
+      JCSM: Off Publ Am Acad Sleep Med 2022;18(12):2837–44.                                       [139] Xu LH, Xie H, Shi ZH, et al. Critical role of endoplasmic reticulum stress in chronic
+[108] Pera T, Zuidhof A, Valadas J, et al. Tiotropium inhibits pulmonary inflammation                   intermittent hypoxia-induced deficits in synaptic plasticity and long-term
+      and remodelling in a Guinea pig model of COPD. Eur Respir J 2011;38(4):789–96.                    memory. Antioxidants Redox Signal 2015;23(9):695–710.
+[109] Mayer AF, Schroeder C, Heusser K, et al. Influences of norepinephrine transporter           [140] Song JQ, Jiang LY, Fu CP, et al. Heterozygous SOD2 deletion deteriorated chronic
+      function on the distribution of sympathetic activity in humans. Hypertension                      intermittent hypoxia-induced lung inflammation and vascular remodeling
+      2006;48(1):120–6.                                                                                 through mtROS-NLRP3 signaling pathway. Acta Pharmacol Sin 2020;41(9):
+[110] Liu L, Zhou L, Wang LL, et al. Programmed cell death in Asthma: apoptosis,                        1197–207.
+      autophagy, pyroptosis, ferroptosis, and necroptosis. J Inflamm Res 2023;16:                 [141] Waltz X, Beaudin AE, Belaidi E, et al. Impact of obstructive sleep apnoea and
+      2727–54.                                                                                          intermittent hypoxia on blood rheology: a translational study. Eur Respir J 2021;
+[111] Watson EC, Grant ZL, Coultas L. Endothelial cell apoptosis in angiogenesis and                    58(4):2100352.
+      vessel regression. Cell Mol Life Sci: CM 2017;74(24):4387–403.                              [142] Pau MC, Zinellu E, Fois SS, et al. Circulating malondialdehyde concentrations in
+[112] Racanelli AC, Kikkers SA, Choi AMK, et al. Autophagy and inflammation in                          obstructive sleep apnea (OSA): a systematic review and meta-analysis with meta-
+      chronic respiratory disease. Autophagy 2018;14(2):221–32.                                         regression. Antioxidants 2021;10(7):1053.
+[113] Cookson BT, Brennan MA. Pro-inflammatory programmed cell death. Trends                      [143] Li X, Zhang X, Hou X, et al. Obstructive sleep apnea-increased DEC1 regulates
+      Microbiol 2001;9(3):113–4.                                                                        systemic inflammation and oxidative stress that promotes development of
+[114] Stockwell BR. Ferroptosis turns 10: emerging mechanisms, physiological                            pulmonary arterial hypertension. Apoptosis: Int J Program Cell Death 2023;28
+      functions, and therapeutic applications. Cell 2022;185(14):2401–21.                               (3–4):432–46.
+[115] Bertheloot D, Latz E, Franklin BS. Necroptosis, pyroptosis and apoptosis: an
+      intricate game of cell death. Cell Mol Immunol 2021;18(5):1106–21.
+
+
+                                                                                            310
+Z. Mao et al.                                                                                                                                         Sleep Medicine 119 (2024) 296–311
+
+[144] Zhou S, Wang J, Yin X, et al. Nrf2 expression and function, but not MT expression,         [164] de Vries GE, Wijkstra PJ, Houwerzijl EJ, et al. Cardiovascular effects of oral
+      is indispensable for sulforaphane-mediated protection against intermittent                       appliance therapy in obstructive sleep apnea: a systematic review and meta-
+      hypoxia-induced cardiomyopathy in mice. Redox Biol 2018;19:11–21.                                analysis. Sleep Med Rev 2018;40:55–68.
+[145] Costantino S, Libby P, Kishore R, et al. Epigenetics and precision medicine in             [165] Phillips CL, Grunstein RR, Darendeliler MA, et al. Health outcomes of continuous
+      cardiovascular patients: from basic concepts to the clinical arena. Eur Heart J                  positive airway pressure versus oral appliance treatment for obstructive sleep
+      2018;39(47):4150–8.                                                                              apnea: a randomized controlled trial. Am J Respir Crit Care Med 2013;187(8):
+[146] Kheirandish-Gozal L, Khalyfa A, Gozal D, et al. Endothelial dysfunction in                       879–87.
+      children with obstructive sleep apnea is associated with epigenetic changes in the         [166] Ou YH, Colpani JT, Cheong CS, et al. Mandibular advancement vs CPAP for blood
+      eNOS gene. Chest 2013;143(4):971–7.                                                              pressure reduction in patients with obstructive sleep apnea. J Am Coll Cardiol
+[147] Chen WJ, Liaw SF, Lin CC, et al. Effect of nasal CPAP on SIRT1 and endothelial                   2024;(24):S0735–1097. 00906-9.
+      function in obstructive sleep apnea syndrome. Lung 2015;193(6):1037–45.                    [167] Qian Y, Zou J, Xu H, et al. Association of upper airway surgery and improved
+[148] Martinez CA, Jiramongkol Y, Bal N, et al. Intermittent hypoxia enhances the                      cardiovascular biomarkers and risk in OSA. Laryngoscope 2020;130(3):818–24.
+      expression of hypoxia inducible factor HIF1A through histone demethylation.                [168] Lévy P, Kohler M, McNicholas WT, et al. Obstructive sleep apnoea syndrome. Nat
+      J Biol Chem 2022;298(11):102536.                                                                 Rev Dis Prim 2015;1:15015.
+[149] Zhang Y, Luo Y, Wang Y, et al. Effect of deubiquitinase USP8 on hypoxia/                   [169] Lee HM, Kim HY, Suh JD, et al. Uvulopalatopharyngoplasty reduces the incidence
+      reoxygenation-induced inflammation by deubiquitination of TAK1 in renal                          of cardiovascular complications caused by obstructive sleep apnea: results from
+      tubular epithelial cells. Int J Mol Med 2018;42(6):3467–76.                                      the national insurance service survey 2007-2014. Sleep Med 2018;45:11–6.
+[150] Shang F, Wang SC, Gongol B, et al. Obstructive sleep apnea-induced endothelial             [170] Walker-Engström ML, Tegelberg A, Wilhelmsson B, et al. 4-year follow-up of
+      dysfunction is mediated by miR-210. Am J Respir Crit Care Med 2023;207(3):                       treatment with dental appliance or uvulopalatopharyngoplasty in patients with
+      323–35.                                                                                          obstructive sleep apnea: a randomized study. Chest 2002;121(3):739–46.
+[151] Hu C, Li J, Du Y, et al. Impact of chronic intermittent hypoxia on the long non-           [171] Silver HJ, Kang H, Keil CD, et al. Consuming a balanced high fat diet for 16 weeks
+      coding RNA and mRNA expression profiles in myocardial infarction. J Cell Mol                     improves body composition, inflammation and vascular function parameters in
+      Med 2021;25(1):421–33.                                                                           obese premenopausal women. Metab, Clin Exp 2014;63(4):562–73.
+[152] Lai S, Chen L, Zhan P, et al. Circular RNA expression profiles and bioinformatic           [172] Chirinos JA, Gurubhagavatula I, Teff K, et al. CPAP, weight loss, or both for
+      analysis in mouse models of obstructive sleep apnea-induced cardiac injury: novel                obstructive sleep apnea. N Engl J Med 2014;370(24):2265–75.
+      insights into pathogenesis. Front Cell Dev Biol 2021;9:767283.                             [173] Kim KH, Kim YH, Son JE, et al. Intermittent fasting promotes adipose
+[153] Topper MJ, Vaz M, Marrone KA, et al. The emerging role of epigenetic                             thermogenesis and metabolic homeostasis via VEGF-mediated alternative
+      therapeutics in immuno-oncology. Nat Rev Clin Oncol 2020;17(2):75–90.                            activation of macrophage. Cell Res 2017;27(11):1309–26.
+[154] Jeremic D, Jiménez-Díaz L, Navarro-López JD. Targeting epigenetics: a novel              [174] Wang SH, Keenan BT, Wiemken A, et al. Effect of weight loss on upper airway
+      promise for Alzheimer’s disease treatment. Ageing Res Rev 2023;90:102003.                        anatomy and the apnea-hypopnea index. The importance of tongue fat. Am J
+[155] Morand EF, Fernandez-Ruiz R, Blazer A, et al. Advances in the management of                      Respir Crit Care Med 2020;201(6):718–27.
+      systemic lupus erythematosus. Br Med J 2023;383:e073980.                                   [175] Locke BW, Gomez-Lumbreras A, Tan CJ, et al. The association of weight loss from
+[156] Ling C, Bacos K, Rönn T. Epigenetics of type 2 diabetes mellitus and weight                     anti-obesity medications or bariatric surgery and apnea-hypopnea index in
+      change - a tool for precision medicine? Nat Rev Endocrinol 2022;18(7):433–48.                    obstructive sleep apnea. Obes Rev: Off J Int Assoc Study Obes 2024;25(4):e13697.
+[157] Yero A, Shi T, Farnos O, et al. Dynamics and epigenetic signature of regulatory T-         [176] Gautier-Veyret E, Pépin JL, Stanke-Labesque F. Which place of pharmacological
+      cells following antiretroviral therapy initiation in acute HIV infection.                        approaches beyond continuous positive airway pressure to treat vascular disease
+      EBioMedicine 2021;71:103570.                                                                     related to obstructive sleep apnea? Pharmacol Therapeut 2018;186:45–59.
+[158] Gangat N, Patnaik MM, Tefferi A. Myelodysplastic syndromes: contemporary                   [177] Pialoux V, Foster GE, Ahmed SB, et al. Losartan abolishes oxidative stress induced
+      review and how we treat. Am J Hematol 2016;91(1):76–89.                                          by intermittent hypoxia in humans. J Physiol 2011;589(Pt 22):5529–37.
+[159] Cyrenne BM, Lewis JM, Weed JG, et al. Synergy of BCL2 and histone deacetylase              [178] Diogo LN, Pereira SA, Nunes AR, et al. Efficacy of carvedilol in reversing
+      inhibition against leukemic cells from cutaneous T-cell lymphoma patients. Blood                 hypertension induced by chronic intermittent hypoxia in rats. Eur J Pharmacol
+      2017;130(19):2073–83.                                                                            2015;765:58–67.
+[160] Yu J, Zhou Z, McEvoy RD, et al. Association of positive airway pressure with               [179] Genovese A, Chiariello M, Cacciapuoti AA, et al. Inhibition of hypoxia-induced
+      cardiovascular events and death in adults with sleep apnea: a systematic review                  cardiac hypertrophy by verapamil in rats. Basic Res Cardiol 1980;75(6):757–63.
+      and meta-analysis. JAMA 2017;318(2):156–66.                                                [180] Yang Y, Liu Y, Ma C, et al. Improving effects of eplerenone on atrial remodeling
+[161] Schwarz EI, Puhan MA, Schlatzer C, et al. Effect of CPAP therapy on endothelial                  induced by chronic intermittent hypoxia in rats[J]. Cardiovascular Pathology. Off
+      function in obstructive sleep apnoea: a systematic review and meta-analysis.                     J Soc Cardiovasc Pathol 2022;60:107432.
+      Respirology 2015;20(6):889–95.                                                             [181] Bertuglia S, Reiter RJ. Melatonin reduces microvascular damage and insulin
+[162] Jelic S, Padeletti M, Kawut SM, et al. Inflammation, oxidative stress, and repair                resistance in hamsters due to chronic intermittent hypoxia. J Pineal Res 2009;46
+      capacity of the vascular endothelium in obstructive sleep apnea. Circulation                     (3):307–13.
+      2008;117(17):2270–8.                                                                       [182] Toraldo DM, Benedetto MD, Conte L, et al. Statins may prevent atherosclerotic
+[163] Sun X, Luo J, Xiao Y. Continuous positive airway pressure is associated with a                   disease in OSA patients without Co-morbidities? Curr Vasc Pharmacol 2017;15
+      decrease in pulmonary artery pressure in patients with obstructive sleep apnoea: a               (1):5–9.
+      meta-analysis. Respirology 2014;19(5):670–4.
+
+
+
+
+                                                                                           311
+
